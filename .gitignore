@@ -1,0 +1,16 @@
+#syntax: glob
+*.bak
+#*.csv
+*.py[cod]
+*.so
+*.manifest
+*.spec
+tmp*
+ui_*
+EPPI\peptidome\commons\Param.c
+*build/
+.coverage
+build/
+dist/
+.idea
+.hg*

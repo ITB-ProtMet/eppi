@@ -1,0 +1,1403 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<mascot_search_results xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.matrixscience.com/xmlns/schema/mascot_search_results_2" xsi:schemaLocation="http://www.matrixscience.com/xmlns/schema/mascot_search_results_2 http://www.matrixscience.com/xmlns/schema/mascot_search_results_2/mascot_search_results_2.xsd"  majorVersion="2" minorVersion="2">
+<header>
+<COM>test</COM>
+<Date>2011-07-13T09:53:40Z</Date>
+<USERNAME>dario</USERNAME>
+<USEREMAIL>d_di_silvestre@hotmail.com</USEREMAIL>
+<URI>http://www.matrixscience.com/cgi/master_results.pl?file=../data/20110713/FttrCzcEe.dat</URI>
+<FILENAME>test_V_02_B_05.mgf</FILENAME>
+<FORMAT>Mascot generic</FORMAT>
+<SEARCH>MIS</SEARCH>
+<MascotVer>2.3.01.241</MascotVer>
+<DB>NCBInr</DB>
+<FastaVer>NCBInr_20110709.fasta</FastaVer>
+<NumSeqs>14652852</NumSeqs>
+<NumResidues>5012444178</NumResidues>
+<NumSeqsAfterTax>238022</NumSeqsAfterTax>
+<NumQueries>855</NumQueries>
+</header>
+<search_parameters>
+<TAXONOMY>. . . . . . . . . . . . . . . . Homo sapiens (human)</TAXONOMY>
+<CLE>Trypsin</CLE>
+<PFA>2</PFA>
+<MODS/>
+<QUANTITATION>None</QUANTITATION>
+<IT_MODS/>
+<TOL>1.2</TOL>
+<TOLU>Da</TOLU>
+<ITOL>0.6</ITOL>
+<ITOLU>Da</ITOLU>
+<MASS>Monoisotopic</MASS>
+<INSTRUMENT>ESI-TRAP</INSTRUMENT>
+<PEP_ISOTOPE_ERROR>0</PEP_ISOTOPE_ERROR>
+</search_parameters>
+<format_parameters>
+<sigthreshold>0.05</sigthreshold>
+<REPORT>0</REPORT>
+<mudpit>1</mudpit>
+<ignoreionsscorebelow>0</ignoreionsscorebelow>
+<show_same_sets/>
+<showsubsets>0</showsubsets>
+<show_unassigned>0</show_unassigned>
+<requireboldred>0</requireboldred>
+<use_homology>0</use_homology>
+<group_family>0</group_family>
+</format_parameters>
+<hits>
+<hit number="1">
+<protein accession="gi|340166">
+<prot_desc>uromodulin [Homo sapiens]</prot_desc>
+<prot_score>163</prot_score>
+<prot_mass>69692</prot_mass>
+<prot_matches>27</prot_matches>
+<prot_matches_sig>3</prot_matches_sig>
+<prot_sequences>6</prot_sequences>
+<prot_sequences_sig>2</prot_sequences_sig>
+<peptide query="324" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>666.2500</pep_exp_mz>
+<pep_exp_mr>665.2427</pep_exp_mr>
+<pep_exp_z>1</pep_exp_z>
+<pep_calc_mr>665.3384</pep_calc_mr>
+<pep_delta>-0.0957</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>26.73</pep_score>
+<pep_expect>2.2</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>SLGFDK</pep_seq>
+<pep_res_after>V</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.648.650.1.dta</pep_scan_title>
+</peptide>
+<peptide query="444" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>914.3100</pep_exp_mz>
+<pep_exp_mr>913.3027</pep_exp_mr>
+<pep_exp_z>1</pep_exp_z>
+<pep_calc_mr>913.4480</pep_calc_mr>
+<pep_delta>-0.1453</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>7.13</pep_score>
+<pep_expect>2.1e+02</pep_expect>
+<pep_res_before>R</pep_res_before>
+<pep_seq>FSVQMFR</pep_seq>
+<pep_res_after>F</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.947.947.1.dta</pep_scan_title>
+</peptide>
+<peptide query="445" rank="3" isbold="1" isunique="1">
+<pep_exp_mz>914.5100</pep_exp_mz>
+<pep_exp_mr>913.5027</pep_exp_mr>
+<pep_exp_z>1</pep_exp_z>
+<pep_calc_mr>913.4480</pep_calc_mr>
+<pep_delta>0.0547</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>6.75</pep_score>
+<pep_expect>3e+02</pep_expect>
+<pep_res_before>R</pep_res_before>
+<pep_seq>FSVQMFR</pep_seq>
+<pep_res_after>F</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.950.950.1.dta</pep_scan_title>
+</peptide>
+<peptide query="446" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>457.7786</pep_exp_mz>
+<pep_exp_mr>913.5427</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>913.4480</pep_calc_mr>
+<pep_delta>0.0947</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>34.05</pep_score>
+<pep_expect>0.56</pep_expect>
+<pep_res_before>R</pep_res_before>
+<pep_seq>FSVQMFR</pep_seq>
+<pep_res_after>F</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.949.949.2.dta</pep_scan_title>
+</peptide>
+<peptide query="470" rank="3" isbold="1" isunique="1">
+<pep_exp_mz>954.5200</pep_exp_mz>
+<pep_exp_mr>953.5127</pep_exp_mr>
+<pep_exp_z>1</pep_exp_z>
+<pep_calc_mr>953.4971</pep_calc_mr>
+<pep_delta>0.0157</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>11.91</pep_score>
+<pep_expect>67</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>YFIIQDR</pep_seq>
+<pep_res_after>C</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.866.868.1.dta</pep_scan_title>
+</peptide>
+<peptide query="471" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>477.9836</pep_exp_mz>
+<pep_exp_mr>953.9527</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>953.4971</pep_calc_mr>
+<pep_delta>0.4557</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>30.81</pep_score>
+<pep_expect>0.58</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>YFIIQDR</pep_seq>
+<pep_res_after>C</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.863.865.2.dta</pep_scan_title>
+</peptide>
+<peptide query="472" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>478.0336</pep_exp_mz>
+<pep_exp_mr>954.0527</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>953.4971</pep_calc_mr>
+<pep_delta>0.5557</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>9.01</pep_score>
+<pep_expect>88</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>YFIIQDR</pep_seq>
+<pep_res_after>C</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.982.982.2.dta</pep_scan_title>
+</peptide>
+<peptide query="479" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>982.2300</pep_exp_mz>
+<pep_exp_mr>981.2227</pep_exp_mr>
+<pep_exp_z>1</pep_exp_z>
+<pep_calc_mr>981.4556</pep_calc_mr>
+<pep_delta>-0.2329</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>9.48</pep_score>
+<pep_expect>80</pep_expect>
+<pep_res_before>R</pep_res_before>
+<pep_seq>TLDEYWR</pep_seq>
+<pep_res_after>S</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.1089.1089.1.dta</pep_scan_title>
+</peptide>
+<peptide query="480" rank="10" isbold="1" isunique="1">
+<pep_exp_mz>982.2600</pep_exp_mz>
+<pep_exp_mr>981.2527</pep_exp_mr>
+<pep_exp_z>1</pep_exp_z>
+<pep_calc_mr>981.4556</pep_calc_mr>
+<pep_delta>-0.2029</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>7.08</pep_score>
+<pep_expect>1.4e+02</pep_expect>
+<pep_res_before>R</pep_res_before>
+<pep_seq>TLDEYWR</pep_seq>
+<pep_res_after>S</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.989.989.1.dta</pep_scan_title>
+</peptide>
+<peptide query="481" rank="5" isbold="1" isunique="1">
+<pep_exp_mz>982.2800</pep_exp_mz>
+<pep_exp_mr>981.2727</pep_exp_mr>
+<pep_exp_z>1</pep_exp_z>
+<pep_calc_mr>981.4556</pep_calc_mr>
+<pep_delta>-0.1829</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>7.54</pep_score>
+<pep_expect>1.4e+02</pep_expect>
+<pep_res_before>R</pep_res_before>
+<pep_seq>TLDEYWR</pep_seq>
+<pep_res_after>S</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.1209.1209.1.dta</pep_scan_title>
+</peptide>
+<peptide query="482" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>982.3600</pep_exp_mz>
+<pep_exp_mr>981.3527</pep_exp_mr>
+<pep_exp_z>1</pep_exp_z>
+<pep_calc_mr>981.4556</pep_calc_mr>
+<pep_delta>-0.1029</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>16.34</pep_score>
+<pep_expect>22</pep_expect>
+<pep_res_before>R</pep_res_before>
+<pep_seq>TLDEYWR</pep_seq>
+<pep_res_after>S</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.976.976.1.dta</pep_scan_title>
+</peptide>
+<peptide query="483" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>982.3800</pep_exp_mz>
+<pep_exp_mr>981.3727</pep_exp_mr>
+<pep_exp_z>1</pep_exp_z>
+<pep_calc_mr>981.4556</pep_calc_mr>
+<pep_delta>-0.0829</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>13.05</pep_score>
+<pep_expect>49</pep_expect>
+<pep_res_before>R</pep_res_before>
+<pep_seq>TLDEYWR</pep_seq>
+<pep_res_after>S</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.1095.1095.1.dta</pep_scan_title>
+</peptide>
+<peptide query="484" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>982.4100</pep_exp_mz>
+<pep_exp_mr>981.4027</pep_exp_mr>
+<pep_exp_z>1</pep_exp_z>
+<pep_calc_mr>981.4556</pep_calc_mr>
+<pep_delta>-0.0529</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>21.52</pep_score>
+<pep_expect>7.3</pep_expect>
+<pep_res_before>R</pep_res_before>
+<pep_seq>TLDEYWR</pep_seq>
+<pep_res_after>S</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.857.859.1.dta</pep_scan_title>
+</peptide>
+<peptide query="485" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>491.8136</pep_exp_mz>
+<pep_exp_mr>981.6127</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>981.4556</pep_calc_mr>
+<pep_delta>0.1571</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>29.76</pep_score>
+<pep_expect>1.1</pep_expect>
+<pep_res_before>R</pep_res_before>
+<pep_seq>TLDEYWR</pep_seq>
+<pep_res_after>S</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.1085.1085.2.dta</pep_scan_title>
+</peptide>
+<peptide query="486" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>491.8586</pep_exp_mz>
+<pep_exp_mr>981.7027</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>981.4556</pep_calc_mr>
+<pep_delta>0.2471</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>37.76</pep_score>
+<pep_expect>0.15</pep_expect>
+<pep_res_before>R</pep_res_before>
+<pep_seq>TLDEYWR</pep_seq>
+<pep_res_after>S</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.986.986.2.dta</pep_scan_title>
+</peptide>
+<peptide query="487" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>491.8636</pep_exp_mz>
+<pep_exp_mr>981.7127</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>981.4556</pep_calc_mr>
+<pep_delta>0.2571</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>26.63</pep_score>
+<pep_expect>1.9</pep_expect>
+<pep_res_before>R</pep_res_before>
+<pep_seq>TLDEYWR</pep_seq>
+<pep_res_after>S</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.1227.1227.2.dta</pep_scan_title>
+</peptide>
+<peptide query="488" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>491.9286</pep_exp_mz>
+<pep_exp_mr>981.8427</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>981.4556</pep_calc_mr>
+<pep_delta>0.3871</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>32.91</pep_score>
+<pep_expect>0.37</pep_expect>
+<pep_res_before>R</pep_res_before>
+<pep_seq>TLDEYWR</pep_seq>
+<pep_res_after>S</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.860.862.2.dta</pep_scan_title>
+</peptide>
+<peptide query="489" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>491.9536</pep_exp_mz>
+<pep_exp_mr>981.8927</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>981.4556</pep_calc_mr>
+<pep_delta>0.4371</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>22.31</pep_score>
+<pep_expect>4.2</pep_expect>
+<pep_res_before>R</pep_res_before>
+<pep_seq>TLDEYWR</pep_seq>
+<pep_res_after>S</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.1079.1079.2.dta</pep_scan_title>
+</peptide>
+<peptide query="490" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>492.1036</pep_exp_mz>
+<pep_exp_mr>982.1927</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>981.4556</pep_calc_mr>
+<pep_delta>0.7371</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>26.32</pep_score>
+<pep_expect>1.7</pep_expect>
+<pep_res_before>R</pep_res_before>
+<pep_seq>TLDEYWR</pep_seq>
+<pep_res_after>S</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.1047.1047.2.dta</pep_scan_title>
+</peptide>
+<peptide query="491" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>492.1486</pep_exp_mz>
+<pep_exp_mr>982.2827</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>981.4556</pep_calc_mr>
+<pep_delta>0.8271</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>26.69</pep_score>
+<pep_expect>1.7</pep_expect>
+<pep_res_before>R</pep_res_before>
+<pep_seq>TLDEYWR</pep_seq>
+<pep_res_after>S</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.1183.1183.2.dta</pep_scan_title>
+</peptide>
+<peptide query="492" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>492.2736</pep_exp_mz>
+<pep_exp_mr>982.5327</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>981.4556</pep_calc_mr>
+<pep_delta>1.0771</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>19.89</pep_score>
+<pep_expect>12</pep_expect>
+<pep_res_before>R</pep_res_before>
+<pep_seq>TLDEYWR</pep_seq>
+<pep_res_after>S</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.1214.1214.2.dta</pep_scan_title>
+</peptide>
+<peptide query="620" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>707.4536</pep_exp_mz>
+<pep_exp_mr>1412.8927</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>1412.7809</pep_calc_mr>
+<pep_delta>0.1118</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>17.06</pep_score>
+<pep_expect>21</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>TALQPMVSALNIR</pep_seq>
+<pep_res_after>V</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.1117.1117.2.dta</pep_scan_title>
+</peptide>
+<peptide query="621" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>707.4686</pep_exp_mz>
+<pep_exp_mr>1412.9227</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>1412.7809</pep_calc_mr>
+<pep_delta>0.1418</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>42.32</pep_score>
+<pep_expect>0.059</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>TALQPMVSALNIR</pep_seq>
+<pep_res_after>V</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.1150.1150.2.dta</pep_scan_title>
+</peptide>
+<peptide query="622" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>707.5736</pep_exp_mz>
+<pep_exp_mr>1413.1327</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>1412.7809</pep_calc_mr>
+<pep_delta>0.3518</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>49.07</pep_score>
+<pep_expect>0.01</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>TALQPMVSALNIR</pep_seq>
+<pep_res_after>V</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.1168.1168.2.dta</pep_scan_title>
+</peptide>
+<peptide query="623" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>707.6186</pep_exp_mz>
+<pep_exp_mr>1413.2227</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>1412.7809</pep_calc_mr>
+<pep_delta>0.4418</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>55.01</pep_score>
+<pep_expect>0.0025</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>TALQPMVSALNIR</pep_seq>
+<pep_res_after>V</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.1004.1006.2.dta</pep_scan_title>
+</peptide>
+<peptide query="702" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>853.3586</pep_exp_mz>
+<pep_exp_mr>1704.7027</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>1704.7915</pep_calc_mr>
+<pep_delta>-0.0887</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>74.88</pep_score>
+<pep_expect>3.2e-05</pep_expect>
+<pep_res_before>R</pep_res_before>
+<pep_seq>DSTIQVVENGESSQGR</pep_seq>
+<pep_res_after>F</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.749.751.2.dta</pep_scan_title>
+</peptide>
+<peptide query="703" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>853.9686</pep_exp_mz>
+<pep_exp_mr>1705.9227</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>1704.7915</pep_calc_mr>
+<pep_delta>1.1313</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>28.02</pep_score>
+<pep_expect>1.7</pep_expect>
+<pep_res_before>R</pep_res_before>
+<pep_seq>DSTIQVVENGESSQGR</pep_seq>
+<pep_res_after>F</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.706.706.2.dta</pep_scan_title>
+</peptide>
+</protein>
+</hit>
+<hit number="2">
+<protein accession="gi|28590">
+<prot_desc>unnamed protein product [Homo sapiens]</prot_desc>
+<prot_score>82</prot_score>
+<prot_mass>69250</prot_mass>
+<prot_matches>9</prot_matches>
+<prot_matches_sig>2</prot_matches_sig>
+<prot_sequences>5</prot_sequences>
+<prot_sequences_sig>1</prot_sequences_sig>
+<peptide query="325" rank="3" isbold="1" isunique="0">
+<pep_exp_mz>673.2700</pep_exp_mz>
+<pep_exp_mr>672.2627</pep_exp_mr>
+<pep_exp_z>1</pep_exp_z>
+<pep_calc_mr>672.3707</pep_calc_mr>
+<pep_delta>-0.1080</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>23.69</pep_score>
+<pep_expect>8.9</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>AWAVAR</pep_seq>
+<pep_res_after>L</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.654.654.1.dta</pep_scan_title>
+</peptide>
+<peptide query="326" rank="1" isbold="1" isunique="0">
+<pep_exp_mz>337.2486</pep_exp_mz>
+<pep_exp_mr>672.4827</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>672.3707</pep_calc_mr>
+<pep_delta>0.1120</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>22.29</pep_score>
+<pep_expect>12</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>AWAVAR</pep_seq>
+<pep_res_after>L</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.653.653.2.dta</pep_scan_title>
+</peptide>
+<peptide query="327" rank="2" isbold="1" isunique="0">
+<pep_exp_mz>337.4086</pep_exp_mz>
+<pep_exp_mr>672.8027</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>672.3707</pep_calc_mr>
+<pep_delta>0.4320</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>19.92</pep_score>
+<pep_expect>16</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>AWAVAR</pep_seq>
+<pep_res_after>L</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.656.656.2.dta</pep_scan_title>
+</peptide>
+<peptide query="456" rank="1" isbold="1" isunique="0">
+<pep_exp_mz>927.3200</pep_exp_mz>
+<pep_exp_mr>926.3127</pep_exp_mr>
+<pep_exp_z>1</pep_exp_z>
+<pep_calc_mr>926.4861</pep_calc_mr>
+<pep_delta>-0.1734</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>12.43</pep_score>
+<pep_expect>52</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>YLYEIAR</pep_seq>
+<pep_res_after>R</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.829.829.1.dta</pep_scan_title>
+</peptide>
+<peptide query="457" rank="1" isbold="1" isunique="0">
+<pep_exp_mz>464.7886</pep_exp_mz>
+<pep_exp_mr>927.5627</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>926.4861</pep_calc_mr>
+<pep_delta>1.0766</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>29.09</pep_score>
+<pep_expect>1.7</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>YLYEIAR</pep_seq>
+<pep_res_after>R</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.830.830.2.dta</pep_scan_title>
+</peptide>
+<peptide query="474" rank="1" isbold="1" isunique="0">
+<pep_exp_mz>481.1236</pep_exp_mz>
+<pep_exp_mr>960.2327</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>959.5552</pep_calc_mr>
+<pep_delta>0.6775</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>20.70</pep_score>
+<pep_expect>9.2</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>FQNALLVR</pep_seq>
+<pep_res_after>Y</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.869.871.2.dta</pep_scan_title>
+</peptide>
+<peptide query="532" rank="1" isbold="1" isunique="0">
+<pep_exp_mz>564.9036</pep_exp_mz>
+<pep_exp_mr>1127.7927</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>1127.6914</pep_calc_mr>
+<pep_delta>0.1013</pep_delta>
+<pep_miss>1</pep_miss>
+<pep_score>57.10</pep_score>
+<pep_expect>0.0023</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>KQTALVELVK</pep_seq>
+<pep_res_after>H</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.844.844.2.dta</pep_scan_title>
+</peptide>
+<peptide query="533" rank="1" isbold="1" isunique="0">
+<pep_exp_mz>564.9986</pep_exp_mz>
+<pep_exp_mr>1127.9827</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>1127.6914</pep_calc_mr>
+<pep_delta>0.2913</pep_delta>
+<pep_miss>1</pep_miss>
+<pep_score>58.82</pep_score>
+<pep_expect>0.0012</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>KQTALVELVK</pep_seq>
+<pep_res_after>H</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.848.848.2.dta</pep_scan_title>
+</peptide>
+<peptide query="689" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>820.5486</pep_exp_mz>
+<pep_exp_mr>1639.0827</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>1639.9145</pep_calc_mr>
+<pep_delta>-0.8318</pep_delta>
+<pep_miss>1</pep_miss>
+<pep_score>34.33</pep_score>
+<pep_expect>0.28</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>KVPEVSTPTLVEVSR</pep_seq>
+<pep_res_after>N</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.884.884.2.dta</pep_scan_title>
+</peptide>
+</protein>
+</hit>
+<hit number="3">
+<protein accession="gi|78101694">
+<prot_desc>Chain A, Human Serum Albumin Complexed With Myristate And Azapropazone</prot_desc>
+<prot_score>82</prot_score>
+<prot_mass>66402</prot_mass>
+<prot_matches>9</prot_matches>
+<prot_matches_sig>2</prot_matches_sig>
+<prot_sequences>5</prot_sequences>
+<prot_sequences_sig>1</prot_sequences_sig>
+<peptide query="325" rank="3" isbold="0" isunique="0">
+<pep_exp_mz>673.2700</pep_exp_mz>
+<pep_exp_mr>672.2627</pep_exp_mr>
+<pep_exp_z>1</pep_exp_z>
+<pep_calc_mr>672.3707</pep_calc_mr>
+<pep_delta>-0.1080</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>23.69</pep_score>
+<pep_expect>8.9</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>AWAVAR</pep_seq>
+<pep_res_after>L</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.654.654.1.dta</pep_scan_title>
+</peptide>
+<peptide query="326" rank="1" isbold="0" isunique="0">
+<pep_exp_mz>337.2486</pep_exp_mz>
+<pep_exp_mr>672.4827</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>672.3707</pep_calc_mr>
+<pep_delta>0.1120</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>22.29</pep_score>
+<pep_expect>12</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>AWAVAR</pep_seq>
+<pep_res_after>L</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.653.653.2.dta</pep_scan_title>
+</peptide>
+<peptide query="327" rank="2" isbold="0" isunique="0">
+<pep_exp_mz>337.4086</pep_exp_mz>
+<pep_exp_mr>672.8027</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>672.3707</pep_calc_mr>
+<pep_delta>0.4320</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>19.92</pep_score>
+<pep_expect>16</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>AWAVAR</pep_seq>
+<pep_res_after>L</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.656.656.2.dta</pep_scan_title>
+</peptide>
+<peptide query="456" rank="1" isbold="0" isunique="0">
+<pep_exp_mz>927.3200</pep_exp_mz>
+<pep_exp_mr>926.3127</pep_exp_mr>
+<pep_exp_z>1</pep_exp_z>
+<pep_calc_mr>926.4861</pep_calc_mr>
+<pep_delta>-0.1734</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>12.43</pep_score>
+<pep_expect>52</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>YLYEIAR</pep_seq>
+<pep_res_after>R</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.829.829.1.dta</pep_scan_title>
+</peptide>
+<peptide query="457" rank="1" isbold="0" isunique="0">
+<pep_exp_mz>464.7886</pep_exp_mz>
+<pep_exp_mr>927.5627</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>926.4861</pep_calc_mr>
+<pep_delta>1.0766</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>29.09</pep_score>
+<pep_expect>1.7</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>YLYEIAR</pep_seq>
+<pep_res_after>R</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.830.830.2.dta</pep_scan_title>
+</peptide>
+<peptide query="474" rank="1" isbold="0" isunique="0">
+<pep_exp_mz>481.1236</pep_exp_mz>
+<pep_exp_mr>960.2327</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>959.5552</pep_calc_mr>
+<pep_delta>0.6775</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>20.70</pep_score>
+<pep_expect>9.2</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>FQNALLVR</pep_seq>
+<pep_res_after>Y</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.869.871.2.dta</pep_scan_title>
+</peptide>
+<peptide query="532" rank="1" isbold="0" isunique="0">
+<pep_exp_mz>564.9036</pep_exp_mz>
+<pep_exp_mr>1127.7927</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>1127.6914</pep_calc_mr>
+<pep_delta>0.1013</pep_delta>
+<pep_miss>1</pep_miss>
+<pep_score>57.10</pep_score>
+<pep_expect>0.0023</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>KQTALVELVK</pep_seq>
+<pep_res_after>H</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.844.844.2.dta</pep_scan_title>
+</peptide>
+<peptide query="533" rank="1" isbold="0" isunique="0">
+<pep_exp_mz>564.9986</pep_exp_mz>
+<pep_exp_mr>1127.9827</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>1127.6914</pep_calc_mr>
+<pep_delta>0.2913</pep_delta>
+<pep_miss>1</pep_miss>
+<pep_score>58.82</pep_score>
+<pep_expect>0.0012</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>KQTALVELVK</pep_seq>
+<pep_res_after>H</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.848.848.2.dta</pep_scan_title>
+</peptide>
+<peptide query="689" rank="2" isbold="0" isunique="0">
+<pep_exp_mz>820.5486</pep_exp_mz>
+<pep_exp_mr>1639.0827</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>1638.9305</pep_calc_mr>
+<pep_delta>0.1522</pep_delta>
+<pep_miss>1</pep_miss>
+<pep_score>28.49</pep_score>
+<pep_expect>1.1</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>KVPQVSTPTLVEVSR</pep_seq>
+<pep_res_after>N</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.884.884.2.dta</pep_scan_title>
+</peptide>
+</protein>
+</hit>
+<hit number="4">
+<protein accession="gi|386854">
+<prot_desc>type II keratin subunit protein [Homo sapiens]</prot_desc>
+<prot_score>68</prot_score>
+<prot_mass>52757</prot_mass>
+<prot_matches>2</prot_matches>
+<prot_matches_sig>1</prot_matches_sig>
+<prot_sequences>1</prot_sequences>
+<prot_sequences_sig>1</prot_sequences_sig>
+<peptide query="607" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>692.5436</pep_exp_mz>
+<pep_exp_mr>1383.0727</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>1382.6830</pep_calc_mr>
+<pep_delta>0.3897</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>35.68</pep_score>
+<pep_expect>0.2</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>SLNNQFASFIDK</pep_seq>
+<pep_res_after>V</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.997.997.2.dta</pep_scan_title>
+</peptide>
+<peptide query="608" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>692.5886</pep_exp_mz>
+<pep_exp_mr>1383.1627</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>1382.6830</pep_calc_mr>
+<pep_delta>0.4797</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>60.47</pep_score>
+<pep_expect>0.00065</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>SLNNQFASFIDK</pep_seq>
+<pep_res_after>V</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.994.994.2.dta</pep_scan_title>
+</peptide>
+</protein>
+</hit>
+<hit number="5">
+<protein accession="gi|992948">
+<prot_desc>OPN-a [Homo sapiens]</prot_desc>
+<prot_score>55</prot_score>
+<prot_mass>35393</prot_mass>
+<prot_matches>2</prot_matches>
+<prot_matches_sig>1</prot_matches_sig>
+<prot_sequences>1</prot_sequences>
+<prot_sequences_sig>1</prot_sequences_sig>
+<peptide query="723" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>901.3736</pep_exp_mz>
+<pep_exp_mr>1800.7327</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>1800.8683</pep_calc_mr>
+<pep_delta>-0.1355</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>48.92</pep_score>
+<pep_expect>0.01</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>YPDAVATWLNPDPSQK</pep_seq>
+<pep_res_after>Q</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.1012.1012.2.dta</pep_scan_title>
+</peptide>
+<peptide query="724" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>901.5786</pep_exp_mz>
+<pep_exp_mr>1801.1427</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>1800.8683</pep_calc_mr>
+<pep_delta>0.2745</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>34.56</pep_score>
+<pep_expect>0.26</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>YPDAVATWLNPDPSQK</pep_seq>
+<pep_res_after>Q</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.1007.1007.2.dta</pep_scan_title>
+</peptide>
+</protein>
+</hit>
+<hit number="6">
+<protein accession="gi|4504943">
+<prot_desc>leukocyte-associated immunoglobulin-like receptor 1 isoform a precursor [Homo sapiens]</prot_desc>
+<prot_score>52</prot_score>
+<prot_mass>31393</prot_mass>
+<prot_matches>2</prot_matches>
+<prot_matches_sig>0</prot_matches_sig>
+<prot_sequences>1</prot_sequences>
+<prot_sequences_sig>0</prot_sequences_sig>
+<peptide query="473" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>480.9336</pep_exp_mz>
+<pep_exp_mr>959.8527</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>959.5189</pep_calc_mr>
+<pep_delta>0.3338</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>33.55</pep_score>
+<pep_expect>0.46</pep_expect>
+<pep_res_before>R</pep_res_before>
+<pep_seq>GPVGVQTFR</pep_seq>
+<pep_res_after>L</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.772.772.2.dta</pep_scan_title>
+</peptide>
+<peptide query="475" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>481.1886</pep_exp_mz>
+<pep_exp_mr>960.3627</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>959.5189</pep_calc_mr>
+<pep_delta>0.8438</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>38.72</pep_score>
+<pep_expect>0.2</pep_expect>
+<pep_res_before>R</pep_res_before>
+<pep_seq>GPVGVQTFR</pep_seq>
+<pep_res_after>L</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.775.775.2.dta</pep_scan_title>
+</peptide>
+</protein>
+</hit>
+<hit number="7">
+<protein accession="gi|525241">
+<prot_desc>glutaminyl-peptide cyclotransferase [Homo sapiens]</prot_desc>
+<prot_score>51</prot_score>
+<prot_mass>28513</prot_mass>
+<prot_matches>1</prot_matches>
+<prot_matches_sig>1</prot_matches_sig>
+<prot_sequences>1</prot_sequences>
+<prot_sequences_sig>1</prot_sequences_sig>
+<peptide query="656" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>747.0686</pep_exp_mz>
+<pep_exp_mr>1492.1227</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>1491.7933</pep_calc_mr>
+<pep_delta>0.3294</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>51.04</pep_score>
+<pep_expect>0.006</pep_expect>
+<pep_res_before>R</pep_res_before>
+<pep_seq>SFSNIISTLNPTAK</pep_seq>
+<pep_res_after>R</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.1040.1040.2.dta</pep_scan_title>
+</peptide>
+</protein>
+</hit>
+<hit number="8">
+<protein accession="gi|165761385">
+<prot_desc>Chain A, Crystal Structure Of Human Co-Chaperone Protein Hscb</prot_desc>
+<prot_score>49</prot_score>
+<prot_mass>24014</prot_mass>
+<prot_matches>4</prot_matches>
+<prot_matches_sig>1</prot_matches_sig>
+<prot_sequences>3</prot_sequences>
+<prot_sequences_sig>1</prot_sequences_sig>
+<peptide query="642" rank="2" isbold="1" isunique="1">
+<pep_exp_mz>736.8236</pep_exp_mz>
+<pep_exp_mr>1471.6327</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>1471.7922</pep_calc_mr>
+<pep_delta>-0.1595</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>42.76</pep_score>
+<pep_expect>0.055</pep_expect>
+<pep_res_before>R</pep_res_before>
+<pep_seq>QFLIEIPEINEK</pep_seq>
+<pep_res_after>L</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.1019.1019.2.dta</pep_scan_title>
+</peptide>
+<peptide query="646" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>737.3686</pep_exp_mz>
+<pep_exp_mr>1472.7227</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>1473.8079</pep_calc_mr>
+<pep_delta>-1.0851</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>49.45</pep_score>
+<pep_expect>0.013</pep_expect>
+<pep_res_before>R</pep_res_before>
+<pep_seq>QFLIEIVEINEK</pep_seq>
+<pep_res_after>L</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.1016.1016.2.dta</pep_scan_title>
+</peptide>
+<peptide query="779" rank="3" isbold="1" isunique="1">
+<pep_exp_mz>715.3582</pep_exp_mz>
+<pep_exp_mr>2143.0527</pep_exp_mr>
+<pep_exp_z>3</pep_exp_z>
+<pep_calc_mr>2144.1212</pep_calc_mr>
+<pep_delta>-1.0684</pep_delta>
+<pep_miss>2</pep_miss>
+<pep_score>11.74</pep_score>
+<pep_expect>56</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>LAEAESEAAEKEIESIVKAK</pep_seq>
+<pep_res_after>Q</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.907.907.3.dta</pep_scan_title>
+</peptide>
+<peptide query="780" rank="7" isbold="1" isunique="1">
+<pep_exp_mz>715.5549</pep_exp_mz>
+<pep_exp_mr>2143.6427</pep_exp_mr>
+<pep_exp_z>3</pep_exp_z>
+<pep_calc_mr>2144.1212</pep_calc_mr>
+<pep_delta>-0.4784</pep_delta>
+<pep_miss>2</pep_miss>
+<pep_score>4.61</pep_score>
+<pep_expect>1.9e+02</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>LAEAESEAAEKEIESIVKAK</pep_seq>
+<pep_res_after>Q</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.904.904.3.dta</pep_scan_title>
+</peptide>
+</protein>
+</hit>
+<hit number="9">
+<protein accession="gi|23957690">
+<prot_desc>conserved oligomeric Golgi complex subunit 7 [Homo sapiens]</prot_desc>
+<prot_score>49</prot_score>
+<prot_mass>86289</prot_mass>
+<prot_matches>3</prot_matches>
+<prot_matches_sig>1</prot_matches_sig>
+<prot_sequences>2</prot_sequences>
+<prot_sequences_sig>1</prot_sequences_sig>
+<peptide query="539" rank="5" isbold="1" isunique="1">
+<pep_exp_mz>388.8749</pep_exp_mz>
+<pep_exp_mr>1163.6027</pep_exp_mr>
+<pep_exp_z>3</pep_exp_z>
+<pep_calc_mr>1164.7230</pep_calc_mr>
+<pep_delta>-1.1203</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>10.24</pep_score>
+<pep_expect>1.1e+02</pep_expect>
+<pep_res_before>R</pep_res_before>
+<pep_seq>TLQHIVTLLK</pep_seq>
+<pep_res_after>T</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.283.283.3.dta</pep_scan_title>
+</peptide>
+<peptide query="642" rank="1" isbold="0" isunique="1">
+<pep_exp_mz>736.8236</pep_exp_mz>
+<pep_exp_mr>1471.6327</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>1472.8272</pep_calc_mr>
+<pep_delta>-1.1945</pep_delta>
+<pep_miss>2</pep_miss>
+<pep_score>48.81</pep_score>
+<pep_expect>0.014</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>EQMILVKEDIKK</pep_seq>
+<pep_res_after>F</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.1019.1019.2.dta</pep_scan_title>
+</peptide>
+<peptide query="646" rank="3" isbold="0" isunique="1">
+<pep_exp_mz>737.3686</pep_exp_mz>
+<pep_exp_mr>1472.7227</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>1472.8272</pep_calc_mr>
+<pep_delta>-0.1045</pep_delta>
+<pep_miss>2</pep_miss>
+<pep_score>41.03</pep_score>
+<pep_expect>0.09</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>EQMILVKEDIKK</pep_seq>
+<pep_res_after>F</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.1016.1016.2.dta</pep_scan_title>
+</peptide>
+</protein>
+</hit>
+<hit number="10">
+<protein accession="gi|5031863">
+<prot_desc>galectin-3-binding protein [Homo sapiens]</prot_desc>
+<prot_score>48</prot_score>
+<prot_mass>65289</prot_mass>
+<prot_matches>2</prot_matches>
+<prot_matches_sig>0</prot_matches_sig>
+<prot_sequences>1</prot_sequences>
+<prot_sequences_sig>0</prot_sequences_sig>
+<peptide query="589" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>678.3486</pep_exp_mz>
+<pep_exp_mr>1354.6827</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>1354.7708</pep_calc_mr>
+<pep_delta>-0.0880</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>40.42</pep_score>
+<pep_expect>0.11</pep_expect>
+<pep_res_before>R</pep_res_before>
+<pep_seq>SDLAVPSELALLK</pep_seq>
+<pep_res_after>A</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.1055.1055.2.dta</pep_scan_title>
+</peptide>
+<peptide query="590" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>678.9386</pep_exp_mz>
+<pep_exp_mr>1355.8627</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>1354.7708</pep_calc_mr>
+<pep_delta>1.0920</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>36.07</pep_score>
+<pep_expect>0.29</pep_expect>
+<pep_res_before>R</pep_res_before>
+<pep_seq>SDLAVPSELALLK</pep_seq>
+<pep_res_after>A</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.1052.1052.2.dta</pep_scan_title>
+</peptide>
+</protein>
+</hit>
+<hit number="11">
+<protein accession="gi|4504893">
+<prot_desc>kininogen-1 isoform 2 [Homo sapiens]</prot_desc>
+<prot_score>46</prot_score>
+<prot_mass>47853</prot_mass>
+<prot_matches>1</prot_matches>
+<prot_matches_sig>1</prot_matches_sig>
+<prot_sequences>1</prot_sequences>
+<prot_sequences_sig>1</prot_sequences_sig>
+<peptide query="511" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>515.9786</pep_exp_mz>
+<pep_exp_mr>1029.9427</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>1029.5284</pep_calc_mr>
+<pep_delta>0.4144</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>45.53</pep_score>
+<pep_expect>0.028</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>YFIDFVAR</pep_seq>
+<pep_res_after>E</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.1015.1015.2.dta</pep_scan_title>
+</peptide>
+</protein>
+</hit>
+<hit number="12">
+<protein accession="gi|553734">
+<prot_desc>putative [Homo sapiens]</prot_desc>
+<prot_score>35</prot_score>
+<prot_mass>2212</prot_mass>
+<prot_matches>2</prot_matches>
+<prot_matches_sig>0</prot_matches_sig>
+<prot_sequences>1</prot_sequences>
+<prot_sequences_sig>0</prot_sequences_sig>
+<peptide query="426" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>421.9486</pep_exp_mz>
+<pep_exp_mr>841.8827</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>841.5022</pep_calc_mr>
+<pep_delta>0.3806</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>34.87</pep_score>
+<pep_expect>0.31</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>GITLSVRP</pep_seq>
+<pep_res_after>-</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.779.779.2.dta</pep_scan_title>
+</peptide>
+<peptide query="427" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>422.0936</pep_exp_mz>
+<pep_exp_mr>842.1727</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>841.5022</pep_calc_mr>
+<pep_delta>0.6706</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>28.41</pep_score>
+<pep_expect>1.4</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>GITLSVRP</pep_seq>
+<pep_res_after>-</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.776.776.2.dta</pep_scan_title>
+</peptide>
+</protein>
+</hit>
+<hit number="13">
+<protein accession="gi|307110">
+<prot_desc>lysosomal membrane glycoprotein-2 [Homo sapiens]</prot_desc>
+<prot_score>33</prot_score>
+<prot_mass>44804</prot_mass>
+<prot_matches>1</prot_matches>
+<prot_matches_sig>0</prot_matches_sig>
+<prot_sequences>1</prot_sequences>
+<prot_sequences_sig>0</prot_sequences_sig>
+<peptide query="493" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>494.6636</pep_exp_mz>
+<pep_exp_mr>987.3127</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>986.5549</pep_calc_mr>
+<pep_delta>0.7578</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>32.77</pep_score>
+<pep_expect>0.7</pep_expect>
+<pep_res_before>R</pep_res_before>
+<pep_seq>IPLNDLFR</pep_seq>
+<pep_res_after>C</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.1022.1022.2.dta</pep_scan_title>
+</peptide>
+</protein>
+</hit>
+<hit number="14">
+<protein accession="gi|15489339">
+<prot_desc>VASN protein [Homo sapiens]</prot_desc>
+<prot_score>30</prot_score>
+<prot_mass>64139</prot_mass>
+<prot_matches>1</prot_matches>
+<prot_matches_sig>0</prot_matches_sig>
+<prot_sequences>1</prot_sequences>
+<prot_sequences_sig>0</prot_sequences_sig>
+<peptide query="640" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>728.5286</pep_exp_mz>
+<pep_exp_mr>1455.0427</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>1454.7001</pep_calc_mr>
+<pep_delta>0.3426</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>29.96</pep_score>
+<pep_expect>0.85</pep_expect>
+<pep_res_before>R</pep_res_before>
+<pep_seq>ESHVTLASPEETR</pep_seq>
+<pep_res_after>C</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.689.689.2.dta</pep_scan_title>
+</peptide>
+</protein>
+</hit>
+<hit number="15">
+<protein accession="gi|112695758">
+<prot_desc>immunoglobulin heavy chain variable region [Homo sapiens]</prot_desc>
+<prot_score>25</prot_score>
+<prot_mass>10806</prot_mass>
+<prot_matches>2</prot_matches>
+<prot_matches_sig>0</prot_matches_sig>
+<prot_sequences>1</prot_sequences>
+<prot_sequences_sig>0</prot_sequences_sig>
+<peptide query="579" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>435.9115</pep_exp_mz>
+<pep_exp_mr>1304.7127</pep_exp_mr>
+<pep_exp_z>3</pep_exp_z>
+<pep_calc_mr>1305.6313</pep_calc_mr>
+<pep_delta>-0.9186</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>17.20</pep_score>
+<pep_expect>24</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>GLEWVSATSGSGR</pep_seq>
+<pep_res_after>S</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.778.778.3.dta</pep_scan_title>
+</peptide>
+<peptide query="581" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>436.0582</pep_exp_mz>
+<pep_exp_mr>1305.1527</pep_exp_mr>
+<pep_exp_z>3</pep_exp_z>
+<pep_calc_mr>1305.6313</pep_calc_mr>
+<pep_delta>-0.4786</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>25.12</pep_score>
+<pep_expect>2.4</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>GLEWVSATSGSGR</pep_seq>
+<pep_res_after>S</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.781.781.3.dta</pep_scan_title>
+</peptide>
+</protein>
+</hit>
+<hit number="16">
+<protein accession="gi|28336">
+<prot_desc>mutant beta-actin (beta&apos;-actin) [Homo sapiens]</prot_desc>
+<prot_score>23</prot_score>
+<prot_mass>41786</prot_mass>
+<prot_matches>1</prot_matches>
+<prot_matches_sig>0</prot_matches_sig>
+<prot_sequences>1</prot_sequences>
+<prot_sequences_sig>0</prot_sequences_sig>
+<peptide query="720" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>896.3386</pep_exp_mz>
+<pep_exp_mr>1790.6627</pep_exp_mr>
+<pep_exp_z>2</pep_exp_z>
+<pep_calc_mr>1789.8846</pep_calc_mr>
+<pep_delta>0.7781</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>22.89</pep_score>
+<pep_expect>3.6</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>SYELPDGQVITIGNER</pep_seq>
+<pep_res_after>F</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.980.980.2.dta</pep_scan_title>
+</peptide>
+</protein>
+</hit>
+<hit number="17">
+<protein accession="gi|119610991">
+<prot_desc/>
+<prot_score>18</prot_score>
+<prot_matches>4</prot_matches>
+<prot_matches_sig>0</prot_matches_sig>
+<prot_sequences>1</prot_sequences>
+<prot_sequences_sig>0</prot_sequences_sig>
+<peptide query="98" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>518.8500</pep_exp_mz>
+<pep_exp_mr>517.8427</pep_exp_mr>
+<pep_exp_z>1</pep_exp_z>
+<pep_calc_mr>518.2336</pep_calc_mr>
+<pep_delta>-0.3909</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>14.19</pep_score>
+<pep_expect>67</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>QGIDS</pep_seq>
+<pep_res_after>-</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.362.364.1.dta</pep_scan_title>
+</peptide>
+<peptide query="99" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>518.8800</pep_exp_mz>
+<pep_exp_mr>517.8727</pep_exp_mr>
+<pep_exp_z>1</pep_exp_z>
+<pep_calc_mr>518.2336</pep_calc_mr>
+<pep_delta>-0.3609</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>18.51</pep_score>
+<pep_expect>25</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>QGIDS</pep_seq>
+<pep_res_after>-</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.485.485.1.dta</pep_scan_title>
+</peptide>
+<peptide query="100" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>518.9100</pep_exp_mz>
+<pep_exp_mr>517.9027</pep_exp_mr>
+<pep_exp_z>1</pep_exp_z>
+<pep_calc_mr>518.2336</pep_calc_mr>
+<pep_delta>-0.3309</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>12.18</pep_score>
+<pep_expect>1.1e+02</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>QGIDS</pep_seq>
+<pep_res_after>-</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.269.269.1.dta</pep_scan_title>
+</peptide>
+<peptide query="102" rank="1" isbold="1" isunique="1">
+<pep_exp_mz>518.9300</pep_exp_mz>
+<pep_exp_mr>517.9227</pep_exp_mr>
+<pep_exp_z>1</pep_exp_z>
+<pep_calc_mr>518.2336</pep_calc_mr>
+<pep_delta>-0.3109</pep_delta>
+<pep_miss>0</pep_miss>
+<pep_score>9.01</pep_score>
+<pep_expect>2.2e+02</pep_expect>
+<pep_res_before>K</pep_res_before>
+<pep_seq>QGIDS</pep_seq>
+<pep_res_after>-</pep_res_after>
+<pep_var_mod/>
+<pep_var_mod_pos/>
+<pep_scan_title>C:\Documents and Settings\dds\Desktop\dta\test_V_02_B_05.571.571.1.dta</pep_scan_title>
+</peptide>
+</protein>
+</hit>
+</hits>
+</mascot_search_results>

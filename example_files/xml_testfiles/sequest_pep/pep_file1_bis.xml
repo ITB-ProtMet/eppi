@@ -1,0 +1,5907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequestresults xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" <origfilename></origfilename>
+<origfilepath></origfilepath>
+<bioworksinfo>3.3.1 SP1</bioworksinfo>
+<database>C:\Xcalibur\database\Human_V.fasta</database>
+<enzyme></enzyme>
+<modifications> </modifications>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens] </reference>
+	<peptide>R.DSTIQVVENGESSQGR.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>720 - 720</scan_range>
+	<charge>2</charge>
+	<search_time>13.9</search_time>
+	<intensity>6792</intensity>
+	<actual_mass>1705.80</actual_mass>
+	<input_mass>1706.76</input_mass>
+	<xcorr>3.085</xcorr>
+	<deltacn>0.156</deltacn>
+	<sp>915.2</sp>
+	<rsp>1</rsp>
+	<ions>18/30</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|47077449|dbj|BAD18612.1| unnamed protein product [Homo sapiens]</reference>
+	<peptide>L.ERIFVVEFRPDSDT.Q</peptide>
+	<dta_file></dta_file>
+	<scan_range>723 - 723</scan_range>
+	<charge>2</charge>
+	<search_time>10.3</search_time>
+	<intensity>6950</intensity>
+	<actual_mass>1709.85</actual_mass>
+	<input_mass>1707.94</input_mass>
+	<xcorr>2.916</xcorr>
+	<deltacn>0.068</deltacn>
+	<sp>476.0</sp>
+	<rsp>27</rsp>
+	<ions>13/26</ions>
+	<count>3</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|190885499|ref|NP_004246.2| cytochrome c oxidase subunit Va precursor [Homo sa</reference>
+	<peptide>H.SARTPGPAVAIQSVRCYSHG.S</peptide>
+	<dta_file></dta_file>
+	<scan_range>739 - 741</scan_range>
+	<charge>2</charge>
+	<search_time>11.0</search_time>
+	<intensity>6433</intensity>
+	<actual_mass>2057.03</actual_mass>
+	<input_mass>2057.78</input_mass>
+	<xcorr>2.383</xcorr>
+	<deltacn>0.082</deltacn>
+	<sp>503.2</sp>
+	<rsp>1</rsp>
+	<ions>16/38</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|3288487|emb|CAA75875.1| COL1A1 and PDGFB fusion transcript [Homo sapiens] </reference>
+	<peptide>R.GETGPAGPAGPVGPVG.A</peptide>
+	<dta_file></dta_file>
+	<scan_range>791 - 791</scan_range>
+	<charge>1</charge>
+	<search_time>9.9</search_time>
+	<intensity>6853</intensity>
+	<actual_mass>1319.66</actual_mass>
+	<input_mass>1319.56</input_mass>
+	<xcorr>3.298</xcorr>
+	<deltacn>0.537</deltacn>
+	<sp>626.4</sp>
+	<rsp>1</rsp>
+	<ions>14/30</ions>
+	<count>6</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|119598419|gb|EAW78013.1| hCG2001284 [Homo sapiens]</reference>
+	<peptide>L.KAIGVY.A</peptide>
+	<dta_file></dta_file>
+	<scan_range>815 - 815</scan_range>
+	<charge>1</charge>
+	<search_time>11.8</search_time>
+	<intensity>2518</intensity>
+	<actual_mass>650.39</actual_mass>
+	<input_mass>650.33</input_mass>
+	<xcorr>1.573</xcorr>
+	<deltacn>0.070</deltacn>
+	<sp>316.6</sp>
+	<rsp>6</rsp>
+	<ions>8/10</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|11545761|ref|NP_071338.1| potassium channel, subfamily K, member 12 [Homo sap</reference>
+	<peptide>N.VISILIKQ.V</peptide>
+	<dta_file></dta_file>
+	<scan_range>848 - 848</scan_range>
+	<charge>1</charge>
+	<search_time>9.1</search_time>
+	<intensity>3212</intensity>
+	<actual_mass>913.61</actual_mass>
+	<input_mass>913.46</input_mass>
+	<xcorr>2.377</xcorr>
+	<deltacn>0.008</deltacn>
+	<sp>347.6</sp>
+	<rsp>31</rsp>
+	<ions>10/14</ions>
+	<count>2</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|15029677|gb|AAH11049.1| Phosphoinositide-3-kinase interacting protein 1 [Homo</reference>
+	<peptide>R.SEAAAVQPVIGISQ.R</peptide>
+	<dta_file></dta_file>
+	<scan_range>888 - 888</scan_range>
+	<charge>2</charge>
+	<search_time>14.3</search_time>
+	<intensity>6366</intensity>
+	<actual_mass>1369.73</actual_mass>
+	<input_mass>1370.81</input_mass>
+	<xcorr>4.458</xcorr>
+	<deltacn>0.380</deltacn>
+	<sp>1224.8</sp>
+	<rsp>1</rsp>
+	<ions>19/26</ions>
+	<count>6</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4507685|ref|NP_003295.1| transient receptor potential cation channel, subfami</reference>
+	<peptide>M.FAKDLLAQARNSRELEVILNHTSSD.E</peptide>
+	<dta_file></dta_file>
+	<scan_range>930 - 930</scan_range>
+	<charge>3</charge>
+	<search_time>22.9</search_time>
+	<intensity>5764</intensity>
+	<actual_mass>2827.47</actual_mass>
+	<input_mass>2825.55</input_mass>
+	<xcorr>2.597</xcorr>
+	<deltacn>0.067</deltacn>
+	<sp>312.3</sp>
+	<rsp>41</rsp>
+	<ions>22/96</ions>
+	<count>2</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4502027|ref|NP_000468.1| albumin preproprotein [Homo sapiens] </reference>
+	<peptide>K.LVAASQAALGL.-</peptide>
+	<dta_file></dta_file>
+	<scan_range>954 - 954</scan_range>
+	<charge>2</charge>
+	<search_time>9.2</search_time>
+	<intensity>4368</intensity>
+	<actual_mass>1013.60</actual_mass>
+	<input_mass>1014.03</input_mass>
+	<xcorr>3.734</xcorr>
+	<deltacn>0.261</deltacn>
+	<sp>1131.1</sp>
+	<rsp>1</rsp>
+	<ions>17/20</ions>
+	<count>20</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4502027|ref|NP_000468.1| albumin preproprotein [Homo sapiens] </reference>
+	<peptide>K.LVAASQAALGL.-</peptide>
+	<dta_file></dta_file>
+	<scan_range>957 - 957</scan_range>
+	<charge>2</charge>
+	<search_time>9.3</search_time>
+	<intensity>4640</intensity>
+	<actual_mass>1013.60</actual_mass>
+	<input_mass>1013.65</input_mass>
+	<xcorr>4.299</xcorr>
+	<deltacn>0.242</deltacn>
+	<sp>1404.0</sp>
+	<rsp>1</rsp>
+	<ions>18/20</ions>
+	<count>20</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|639693|emb|CAA58807.1| transcription factor [Homo sapiens]</reference>
+	<peptide>L.FDSVEGDGAMM.E</peptide>
+	<dta_file></dta_file>
+	<scan_range>993 - 993</scan_range>
+	<charge>1</charge>
+	<search_time>7.9</search_time>
+	<intensity>7060</intensity>
+	<actual_mass>1158.44</actual_mass>
+	<input_mass>1158.34</input_mass>
+	<xcorr>1.797</xcorr>
+	<deltacn>0.132</deltacn>
+	<sp>265.6</sp>
+	<rsp>57</rsp>
+	<ions>9/20</ions>
+	<count>2</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|75707225|gb|ABA26076.1| immunoglobulin light chain variable region [Homo sapi</reference>
+	<peptide>G.SFSNLGAGYA.V</peptide>
+	<dta_file></dta_file>
+	<scan_range>999 - 1001</scan_range>
+	<charge>1</charge>
+	<search_time>9.2</search_time>
+	<intensity>1598</intensity>
+	<actual_mass>986.46</actual_mass>
+	<input_mass>986.42</input_mass>
+	<xcorr>1.501</xcorr>
+	<deltacn>0.247</deltacn>
+	<sp>96.5</sp>
+	<rsp>1</rsp>
+	<ions>12/18</ions>
+	<count>2</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|14335444|gb|AAK60620.1|AF356519_1 axonemal dynein heavy chain 8 [Homo sapiens</reference>
+	<peptide>F.TTIVDVQLIAAM.I</peptide>
+	<dta_file></dta_file>
+	<scan_range>1025 - 1025</scan_range>
+	<charge>2</charge>
+	<search_time>10.1</search_time>
+	<intensity>7272</intensity>
+	<actual_mass>1274.70</actual_mass>
+	<input_mass>1275.86</input_mass>
+	<xcorr>2.105</xcorr>
+	<deltacn>0.187</deltacn>
+	<sp>358.6</sp>
+	<rsp>25</rsp>
+	<ions>11/22</ions>
+	<count>5</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|169209924|ref|XP_001718089.1| PREDICTED: hypothetical protein [Homo sapiens]</reference>
+	<peptide>A.HFLVQLVQ.S</peptide>
+	<dta_file></dta_file>
+	<scan_range>1044 - 1044</scan_range>
+	<charge>1</charge>
+	<search_time>11.4</search_time>
+	<intensity>2478</intensity>
+	<actual_mass>983.57</actual_mass>
+	<input_mass>983.46</input_mass>
+	<xcorr>1.734</xcorr>
+	<deltacn>0.175</deltacn>
+	<sp>218.2</sp>
+	<rsp>47</rsp>
+	<ions>8/14</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|194018472|ref|NP_000615.3| serine (or cysteine) proteinase inhibitor, clade A</reference>
+	<peptide>R.ALASAAPSQSIFF.S</peptide>
+	<dta_file></dta_file>
+	<scan_range>1101 - 1103</scan_range>
+	<charge>1</charge>
+	<search_time>9.5</search_time>
+	<intensity>6078</intensity>
+	<actual_mass>1309.68</actual_mass>
+	<input_mass>1309.27</input_mass>
+	<xcorr>2.541</xcorr>
+	<deltacn>0.150</deltacn>
+	<sp>663.7</sp>
+	<rsp>1</rsp>
+	<ions>14/24</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|119611148|gb|EAW90742.1| hCG2027382 [Homo sapiens]</reference>
+	<peptide>L.SLDGMNPFIS.G</peptide>
+	<dta_file></dta_file>
+	<scan_range>1111 - 1111</scan_range>
+	<charge>1</charge>
+	<search_time>9.3</search_time>
+	<intensity>2984</intensity>
+	<actual_mass>1080.50</actual_mass>
+	<input_mass>1082.24</input_mass>
+	<xcorr>1.829</xcorr>
+	<deltacn>0.045</deltacn>
+	<sp>186.6</sp>
+	<rsp>113</rsp>
+	<ions>8/18</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|5262663|emb|CAB45766.1| hypothetical protein [Homo sapiens] </reference>
+	<peptide>K.AVVEVDESGTR.A</peptide>
+	<dta_file></dta_file>
+	<scan_range>663 - 663</scan_range>
+	<charge>2</charge>
+	<search_time>9.7</search_time>
+	<intensity>6903</intensity>
+	<actual_mass>1161.57</actual_mass>
+	<input_mass>1161.46</input_mass>
+	<xcorr>2.912</xcorr>
+	<deltacn>0.328</deltacn>
+	<sp>1058.4</sp>
+	<rsp>1</rsp>
+	<ions>15/20</ions>
+	<count>6</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|5262663|emb|CAB45766.1| hypothetical protein [Homo sapiens] </reference>
+	<peptide>K.AVVEVDESGTR.A</peptide>
+	<dta_file></dta_file>
+	<scan_range>666 - 666</scan_range>
+	<charge>2</charge>
+	<search_time>9.8</search_time>
+	<intensity>7894</intensity>
+	<actual_mass>1161.57</actual_mass>
+	<input_mass>1161.45</input_mass>
+	<xcorr>3.031</xcorr>
+	<deltacn>0.276</deltacn>
+	<sp>1185.4</sp>
+	<rsp>1</rsp>
+	<ions>15/20</ions>
+	<count>6</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|34327974|dbj|BAA86551.2| KIAA1237 protein [Homo sapiens] </reference>
+	<peptide>R.SYSESSSTSSSESLNSSAPR.G</peptide>
+	<dta_file></dta_file>
+	<scan_range>688 - 688</scan_range>
+	<charge>2</charge>
+	<search_time>15.4</search_time>
+	<intensity>10569</intensity>
+	<actual_mass>2049.88</actual_mass>
+	<input_mass>2051.09</input_mass>
+	<xcorr>4.592</xcorr>
+	<deltacn>0.455</deltacn>
+	<sp>1342.4</sp>
+	<rsp>1</rsp>
+	<ions>20/38</ions>
+	<count>1</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|21669337|dbj|BAC01693.1| immunoglobulin kappa light chain VLJ region [Homo sa</reference>
+	<peptide>K.VDNALQSGNSQESVTEQDSK.D</peptide>
+	<dta_file></dta_file>
+	<scan_range>696 - 696</scan_range>
+	<charge>2</charge>
+	<search_time>11.1</search_time>
+	<intensity>7487</intensity>
+	<actual_mass>2135.97</actual_mass>
+	<input_mass>2136.35</input_mass>
+	<xcorr>5.687</xcorr>
+	<deltacn>0.511</deltacn>
+	<sp>1787.7</sp>
+	<rsp>1</rsp>
+	<ions>25/38</ions>
+	<count>99</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|21669337|dbj|BAC01693.1| immunoglobulin kappa light chain VLJ region [Homo sa</reference>
+	<peptide>K.VDNALQSGNSQESVTEQDSK.D</peptide>
+	<dta_file></dta_file>
+	<scan_range>699 - 699</scan_range>
+	<charge>2</charge>
+	<search_time>11.2</search_time>
+	<intensity>7355</intensity>
+	<actual_mass>2135.97</actual_mass>
+	<input_mass>2136.38</input_mass>
+	<xcorr>5.493</xcorr>
+	<deltacn>0.535</deltacn>
+	<sp>1902.7</sp>
+	<rsp>1</rsp>
+	<ions>26/38</ions>
+	<count>99</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|3116214|dbj|BAA25922.1| SH3 binding protein [Homo sapiens]</reference>
+	<peptide>A.KETISLAEQRLLEDDKRQFDSAWQEML.N</peptide>
+	<dta_file></dta_file>
+	<scan_range>722 - 722</scan_range>
+	<charge>3</charge>
+	<search_time>17.4</search_time>
+	<intensity>7337</intensity>
+	<actual_mass>3279.63</actual_mass>
+	<input_mass>3280.59</input_mass>
+	<xcorr>2.706</xcorr>
+	<deltacn>0.031</deltacn>
+	<sp>295.8</sp>
+	<rsp>12</rsp>
+	<ions>20/104</ions>
+	<count>1</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens] </reference>
+	<peptide>R.DSTIQVVENGESSQGR.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>727 - 727</scan_range>
+	<charge>2</charge>
+	<search_time>13.3</search_time>
+	<intensity>7141</intensity>
+	<actual_mass>1705.80</actual_mass>
+	<input_mass>1706.84</input_mass>
+	<xcorr>3.124</xcorr>
+	<deltacn>0.110</deltacn>
+	<sp>1112.1</sp>
+	<rsp>1</rsp>
+	<ions>19/30</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens] </reference>
+	<peptide>R.DSTIQVVENGESSQGR.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>730 - 730</scan_range>
+	<charge>2</charge>
+	<search_time>11.0</search_time>
+	<intensity>7318</intensity>
+	<actual_mass>1705.80</actual_mass>
+	<input_mass>1707.50</input_mass>
+	<xcorr>2.933</xcorr>
+	<deltacn>0.077</deltacn>
+	<sp>859.7</sp>
+	<rsp>1</rsp>
+	<ions>17/30</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|51476489|emb|CAH18234.1| hypothetical protein [Homo sapiens]</reference>
+	<peptide>T.GQVGTKLYMSPEQIHGNSYSHKV.D</peptide>
+	<dta_file></dta_file>
+	<scan_range>730 - 730</scan_range>
+	<charge>3</charge>
+	<search_time>15.6</search_time>
+	<intensity>7318</intensity>
+	<actual_mass>2560.26</actual_mass>
+	<input_mass>2560.75</input_mass>
+	<xcorr>2.551</xcorr>
+	<deltacn>0.020</deltacn>
+	<sp>389.9</sp>
+	<rsp>8</rsp>
+	<ions>23/88</ions>
+	<count>9</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|47077449|dbj|BAD18612.1| unnamed protein product [Homo sapiens]</reference>
+	<peptide>L.ERIFVVEFRPDSDT.Q</peptide>
+	<dta_file></dta_file>
+	<scan_range>732 - 732</scan_range>
+	<charge>2</charge>
+	<search_time>13.5</search_time>
+	<intensity>7457</intensity>
+	<actual_mass>1709.85</actual_mass>
+	<input_mass>1711.29</input_mass>
+	<xcorr>2.887</xcorr>
+	<deltacn>0.049</deltacn>
+	<sp>577.3</sp>
+	<rsp>10</rsp>
+	<ions>14/26</ions>
+	<count>3</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|29826279|ref|NP_813977.1| tubby isoform b [Homo sapiens]</reference>
+	<peptide>A.SAPSPTAPEQPVDVEVQDLEEFAL.R</peptide>
+	<dta_file></dta_file>
+	<scan_range>732 - 732</scan_range>
+	<charge>3</charge>
+	<search_time>15.6</search_time>
+	<intensity>7457</intensity>
+	<actual_mass>2568.24</actual_mass>
+	<input_mass>2566.42</input_mass>
+	<xcorr>3.136</xcorr>
+	<deltacn>0.049</deltacn>
+	<sp>374.5</sp>
+	<rsp>33</rsp>
+	<ions>20/92</ions>
+	<count>4</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens] </reference>
+	<peptide>D.STIQVVENGESSQGR.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>739 - 739</scan_range>
+	<charge>2</charge>
+	<search_time>10.1</search_time>
+	<intensity>8607</intensity>
+	<actual_mass>1590.77</actual_mass>
+	<input_mass>1590.92</input_mass>
+	<xcorr>4.385</xcorr>
+	<deltacn>0.391</deltacn>
+	<sp>1939.1</sp>
+	<rsp>1</rsp>
+	<ions>21/28</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|62089232|dbj|BAD93060.1| dual specificity phosphatase 5 variant [Homo sapiens</reference>
+	<peptide>A.GGGGGMKVTSLDGRQLR.K</peptide>
+	<dta_file></dta_file>
+	<scan_range>783 - 783</scan_range>
+	<charge>2</charge>
+	<search_time>10.4</search_time>
+	<intensity>6244</intensity>
+	<actual_mass>1688.89</actual_mass>
+	<input_mass>1689.45</input_mass>
+	<xcorr>2.474</xcorr>
+	<deltacn>0.063</deltacn>
+	<sp>484.4</sp>
+	<rsp>25</rsp>
+	<ions>14/32</ions>
+	<count>1</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens] </reference>
+	<peptide>R.DSTIQVVENGESSQGR.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>784 - 784</scan_range>
+	<charge>3</charge>
+	<search_time>13.3</search_time>
+	<intensity>5944</intensity>
+	<actual_mass>1705.80</actual_mass>
+	<input_mass>1706.68</input_mass>
+	<xcorr>4.906</xcorr>
+	<deltacn>0.374</deltacn>
+	<sp>1547.0</sp>
+	<rsp>1</rsp>
+	<ions>31/60</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|58222483|gb|AAW68874.1| anti-tetanus toxoid immunoglobulin light chain variab</reference>
+	<peptide>-.DVVMTQFPSSLSASVGDR.V</peptide>
+	<dta_file></dta_file>
+	<scan_range>804 - 804</scan_range>
+	<charge>2</charge>
+	<search_time>10.7</search_time>
+	<intensity>6921</intensity>
+	<actual_mass>1895.92</actual_mass>
+	<input_mass>1895.04</input_mass>
+	<xcorr>4.179</xcorr>
+	<deltacn>0.172</deltacn>
+	<sp>809.0</sp>
+	<rsp>2</rsp>
+	<ions>18/34</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens] </reference>
+	<peptide>R.DSTIQVVENGESSQGR.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>821 - 821</scan_range>
+	<charge>2</charge>
+	<search_time>11.3</search_time>
+	<intensity>7909</intensity>
+	<actual_mass>1705.80</actual_mass>
+	<input_mass>1707.02</input_mass>
+	<xcorr>4.909</xcorr>
+	<deltacn>0.395</deltacn>
+	<sp>1589.0</sp>
+	<rsp>1</rsp>
+	<ions>21/30</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|84784317|gb|ABC62080.1| alpha-1-antitrypsin MBrescia variant [Homo sapiens]</reference>
+	<peptide>E.EDFHVDQVTTVKVPMMKRLRM.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>821 - 821</scan_range>
+	<charge>3</charge>
+	<search_time>15.6</search_time>
+	<intensity>7909</intensity>
+	<actual_mass>2560.32</actual_mass>
+	<input_mass>2560.02</input_mass>
+	<xcorr>2.637</xcorr>
+	<deltacn>0.118</deltacn>
+	<sp>456.2</sp>
+	<rsp>5</rsp>
+	<ions>20/80</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|24415404|ref|NP_055426.1| MDN1, midasin homolog [Homo sapiens] </reference>
+	<peptide>Q.VSVHLQGLESLFILPG.M</peptide>
+	<dta_file></dta_file>
+	<scan_range>822 - 822</scan_range>
+	<charge>2</charge>
+	<search_time>9.7</search_time>
+	<intensity>8317</intensity>
+	<actual_mass>1708.96</actual_mass>
+	<input_mass>1710.81</input_mass>
+	<xcorr>2.538</xcorr>
+	<deltacn>0.071</deltacn>
+	<sp>657.1</sp>
+	<rsp>1</rsp>
+	<ions>16/30</ions>
+	<count>3</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|20977054|gb|AAM33254.1|AF490839_1 RGS3 isoform C2PA-RGS3 [Homo sapiens]</reference>
+	<peptide>I.PEVRLDSTYSQKAGAEHGCSGDEE.D</peptide>
+	<dta_file></dta_file>
+	<scan_range>822 - 822</scan_range>
+	<charge>3</charge>
+	<search_time>15.4</search_time>
+	<intensity>8317</intensity>
+	<actual_mass>2565.12</actual_mass>
+	<input_mass>2565.70</input_mass>
+	<xcorr>2.814</xcorr>
+	<deltacn>0.143</deltacn>
+	<sp>370.1</sp>
+	<rsp>49</rsp>
+	<ions>22/92</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens] </reference>
+	<peptide>R.DSTIQVVENGESSQGR.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>824 - 824</scan_range>
+	<charge>2</charge>
+	<search_time>13.1</search_time>
+	<intensity>8693</intensity>
+	<actual_mass>1705.80</actual_mass>
+	<input_mass>1706.22</input_mass>
+	<xcorr>5.004</xcorr>
+	<deltacn>0.390</deltacn>
+	<sp>1429.1</sp>
+	<rsp>1</rsp>
+	<ions>19/30</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|47124478|gb|AAH70104.1| KIAA1841 [Homo sapiens]</reference>
+	<peptide>S.SESENCTTHNGGEMTEESEGPNM.V</peptide>
+	<dta_file></dta_file>
+	<scan_range>867 - 867</scan_range>
+	<charge>3</charge>
+	<search_time>15.2</search_time>
+	<intensity>6898</intensity>
+	<actual_mass>2469.91</actual_mass>
+	<input_mass>2471.75</input_mass>
+	<xcorr>2.631</xcorr>
+	<deltacn>0.116</deltacn>
+	<sp>267.6</sp>
+	<rsp>82</rsp>
+	<ions>21/88</ions>
+	<count>3</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4504875|ref|NP_002248.1| kallikrein 1 preproprotein [Homo sapiens] </reference>
+	<peptide>R.LTEPADTITDAVK.V</peptide>
+	<dta_file></dta_file>
+	<scan_range>869 - 869</scan_range>
+	<charge>2</charge>
+	<search_time>9.2</search_time>
+	<intensity>3684</intensity>
+	<actual_mass>1373.72</actual_mass>
+	<input_mass>1373.96</input_mass>
+	<xcorr>3.320</xcorr>
+	<deltacn>0.348</deltacn>
+	<sp>524.0</sp>
+	<rsp>1</rsp>
+	<ions>17/24</ions>
+	<count>5</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|1212992|emb|CAA62188.1| titin [Homo sapiens] </reference>
+	<peptide>K.ATNGSGQATSTAELLVK.A</peptide>
+	<dta_file></dta_file>
+	<scan_range>870 - 870</scan_range>
+	<charge>2</charge>
+	<search_time>10.2</search_time>
+	<intensity>7253</intensity>
+	<actual_mass>1647.85</actual_mass>
+	<input_mass>1648.52</input_mass>
+	<xcorr>3.485</xcorr>
+	<deltacn>0.318</deltacn>
+	<sp>719.3</sp>
+	<rsp>1</rsp>
+	<ions>17/32</ions>
+	<count>16</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4504875|ref|NP_002248.1| kallikrein 1 preproprotein [Homo sapiens] </reference>
+	<peptide>R.LTEPADTITDAVK.V</peptide>
+	<dta_file></dta_file>
+	<scan_range>872 - 872</scan_range>
+	<charge>2</charge>
+	<search_time>8.1</search_time>
+	<intensity>3933</intensity>
+	<actual_mass>1373.72</actual_mass>
+	<input_mass>1373.95</input_mass>
+	<xcorr>3.332</xcorr>
+	<deltacn>0.294</deltacn>
+	<sp>659.9</sp>
+	<rsp>1</rsp>
+	<ions>18/24</ions>
+	<count>5</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens] </reference>
+	<peptide>R.DSTIQVVENGESSQGR.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>918 - 920</scan_range>
+	<charge>2</charge>
+	<search_time>10.9</search_time>
+	<intensity>7728</intensity>
+	<actual_mass>1705.80</actual_mass>
+	<input_mass>1705.77</input_mass>
+	<xcorr>4.908</xcorr>
+	<deltacn>0.418</deltacn>
+	<sp>1365.5</sp>
+	<rsp>1</rsp>
+	<ions>20/30</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|5689475|dbj|BAA83021.1| KIAA1069 protein [Homo sapiens]</reference>
+	<peptide>C.KGTFNPFSGDP.L</peptide>
+	<dta_file></dta_file>
+	<scan_range>965 - 967</scan_range>
+	<charge>2</charge>
+	<search_time>13.7</search_time>
+	<intensity>7455</intensity>
+	<actual_mass>1166.55</actual_mass>
+	<input_mass>1166.71</input_mass>
+	<xcorr>2.218</xcorr>
+	<deltacn>0.143</deltacn>
+	<sp>672.4</sp>
+	<rsp>4</rsp>
+	<ions>14/20</ions>
+	<count>6</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens] </reference>
+	<peptide>R.DSTIQVVENGESSQGR.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>1019 - 1019</scan_range>
+	<charge>2</charge>
+	<search_time>10.4</search_time>
+	<intensity>8259</intensity>
+	<actual_mass>1705.80</actual_mass>
+	<input_mass>1705.63</input_mass>
+	<xcorr>3.835</xcorr>
+	<deltacn>0.244</deltacn>
+	<sp>1299.0</sp>
+	<rsp>1</rsp>
+	<ions>19/30</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens] </reference>
+	<peptide>R.DSTIQVVENGESSQGR.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>1022 - 1022</scan_range>
+	<charge>2</charge>
+	<search_time>10.3</search_time>
+	<intensity>8798</intensity>
+	<actual_mass>1705.80</actual_mass>
+	<input_mass>1705.40</input_mass>
+	<xcorr>4.813</xcorr>
+	<deltacn>0.405</deltacn>
+	<sp>1519.2</sp>
+	<rsp>1</rsp>
+	<ions>20/30</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|119919456|ref|XP_869363.2| PREDICTED: similar to Interferon-inducible protein</reference>
+	<peptide>N.DLNGAVEDAKTAR.L</peptide>
+	<dta_file></dta_file>
+	<scan_range>1057 - 1057</scan_range>
+	<charge>1</charge>
+	<search_time>9.9</search_time>
+	<intensity>5871</intensity>
+	<actual_mass>1359.69</actual_mass>
+	<input_mass>1361.23</input_mass>
+	<xcorr>1.827</xcorr>
+	<deltacn>0.176</deltacn>
+	<sp>254.2</sp>
+	<rsp>146</rsp>
+	<ions>10/24</ions>
+	<count>2</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens] </reference>
+	<peptide>R.DSTIQVVENGESSQGR.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>1137 - 1137</scan_range>
+	<charge>2</charge>
+	<search_time>10.4</search_time>
+	<intensity>8273</intensity>
+	<actual_mass>1705.80</actual_mass>
+	<input_mass>1706.14</input_mass>
+	<xcorr>3.578</xcorr>
+	<deltacn>0.374</deltacn>
+	<sp>1024.5</sp>
+	<rsp>1</rsp>
+	<ions>17/30</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens] </reference>
+	<peptide>R.DSTIQVVENGESSQGR.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>1173 - 1173</scan_range>
+	<charge>2</charge>
+	<search_time>10.5</search_time>
+	<intensity>8545</intensity>
+	<actual_mass>1705.80</actual_mass>
+	<input_mass>1707.38</input_mass>
+	<xcorr>4.411</xcorr>
+	<deltacn>0.413</deltacn>
+	<sp>1380.4</sp>
+	<rsp>1</rsp>
+	<ions>19/30</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|1335064|emb|CAA45118.1| fibrillin [Homo sapiens]</reference>
+	<peptide>R.ILELLPALTT.L</peptide>
+	<dta_file></dta_file>
+	<scan_range>1190 - 1190</scan_range>
+	<charge>1</charge>
+	<search_time>9.2</search_time>
+	<intensity>4675</intensity>
+	<actual_mass>1083.67</actual_mass>
+	<input_mass>1085.34</input_mass>
+	<xcorr>2.065</xcorr>
+	<deltacn>0.186</deltacn>
+	<sp>410.1</sp>
+	<rsp>2</rsp>
+	<ions>11/18</ions>
+	<count>4</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|197115883|emb|CAR62963.1| immunoglobulin heavy chain variable region [Homo sa</reference>
+	<peptide>G.LQWVGFIRSKPYGGTAEYAASVKGRFI.I</peptide>
+	<dta_file></dta_file>
+	<scan_range>142 - 144</scan_range>
+	<charge>3</charge>
+	<search_time>18.0</search_time>
+	<intensity>5698</intensity>
+	<actual_mass>3001.60</actual_mass>
+	<input_mass>3001.56</input_mass>
+	<xcorr>2.749</xcorr>
+	<deltacn>0.020</deltacn>
+	<sp>323.2</sp>
+	<rsp>7</rsp>
+	<ions>26/104</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4502027|ref|NP_000468.1| albumin preproprotein [Homo sapiens]</reference>
+	<peptide>K.DDNPNLPR.L</peptide>
+	<dta_file></dta_file>
+	<scan_range>496 - 496</scan_range>
+	<charge>2</charge>
+	<search_time>9.0</search_time>
+	<intensity>4586</intensity>
+	<actual_mass>940.45</actual_mass>
+	<input_mass>940.51</input_mass>
+	<xcorr>2.867</xcorr>
+	<deltacn>0.135</deltacn>
+	<sp>787.6</sp>
+	<rsp>5</rsp>
+	<ions>13/14</ions>
+	<count>25</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|15029677|gb|AAH11049.1| Phosphoinositide-3-kinase interacting protein 1 [Homo</reference>
+	<peptide>R.EDQTSPAPGLR.C</peptide>
+	<dta_file></dta_file>
+	<scan_range>541 - 541</scan_range>
+	<charge>2</charge>
+	<search_time>9.7</search_time>
+	<intensity>3970</intensity>
+	<actual_mass>1170.57</actual_mass>
+	<input_mass>1170.78</input_mass>
+	<xcorr>2.880</xcorr>
+	<deltacn>0.288</deltacn>
+	<sp>520.4</sp>
+	<rsp>1</rsp>
+	<ions>15/20</ions>
+	<count>5</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|15029677|gb|AAH11049.1| Phosphoinositide-3-kinase interacting protein 1 [Homo</reference>
+	<peptide>R.EDQTSPAPGLR.C</peptide>
+	<dta_file></dta_file>
+	<scan_range>544 - 544</scan_range>
+	<charge>2</charge>
+	<search_time>9.2</search_time>
+	<intensity>3873</intensity>
+	<actual_mass>1170.57</actual_mass>
+	<input_mass>1170.58</input_mass>
+	<xcorr>2.798</xcorr>
+	<deltacn>0.259</deltacn>
+	<sp>344.8</sp>
+	<rsp>6</rsp>
+	<ions>13/20</ions>
+	<count>5</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|119595139|gb|EAW74733.1| hCG2038411 [Homo sapiens] </reference>
+	<peptide>L.RHPTGPCKSR.H</peptide>
+	<dta_file></dta_file>
+	<scan_range>594 - 594</scan_range>
+	<charge>2</charge>
+	<search_time>9.3</search_time>
+	<intensity>6923</intensity>
+	<actual_mass>1138.59</actual_mass>
+	<input_mass>1137.71</input_mass>
+	<xcorr>2.042</xcorr>
+	<deltacn>0.075</deltacn>
+	<sp>676.6</sp>
+	<rsp>1</rsp>
+	<ions>13/18</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4502027|ref|NP_000468.1| albumin preproprotein [Homo sapiens]</reference>
+	<peptide>K.AEFAEVSK.L</peptide>
+	<dta_file></dta_file>
+	<scan_range>606 - 606</scan_range>
+	<charge>2</charge>
+	<search_time>7.2</search_time>
+	<intensity>2629</intensity>
+	<actual_mass>880.44</actual_mass>
+	<input_mass>881.07</input_mass>
+	<xcorr>2.684</xcorr>
+	<deltacn>0.178</deltacn>
+	<sp>472.1</sp>
+	<rsp>7</rsp>
+	<ions>12/14</ions>
+	<count>16</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4502027|ref|NP_000468.1| albumin preproprotein [Homo sapiens]</reference>
+	<peptide>K.AEFAEVSK.L</peptide>
+	<dta_file></dta_file>
+	<scan_range>608 - 608</scan_range>
+	<charge>1</charge>
+	<search_time>10.1</search_time>
+	<intensity>3613</intensity>
+	<actual_mass>880.44</actual_mass>
+	<input_mass>880.33</input_mass>
+	<xcorr>1.879</xcorr>
+	<deltacn>0.144</deltacn>
+	<sp>230.8</sp>
+	<rsp>17</rsp>
+	<ions>9/14</ions>
+	<count>16</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4502027|ref|NP_000468.1| albumin preproprotein [Homo sapiens]</reference>
+	<peptide>K.AEFAEVSK.L</peptide>
+	<dta_file></dta_file>
+	<scan_range>609 - 609</scan_range>
+	<charge>2</charge>
+	<search_time>8.9</search_time>
+	<intensity>2708</intensity>
+	<actual_mass>880.44</actual_mass>
+	<input_mass>880.47</input_mass>
+	<xcorr>2.681</xcorr>
+	<deltacn>0.156</deltacn>
+	<sp>458.4</sp>
+	<rsp>12</rsp>
+	<ions>12/14</ions>
+	<count>16</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|10835165|ref|NP_000602.1| CD59 antigen preproprotein [Homo sapiens] </reference>
+	<peptide>K.AGLQVYNK.C</peptide>
+	<dta_file></dta_file>
+	<scan_range>640 - 640</scan_range>
+	<charge>2</charge>
+	<search_time>9.2</search_time>
+	<intensity>5684</intensity>
+	<actual_mass>892.49</actual_mass>
+	<input_mass>892.98</input_mass>
+	<xcorr>3.464</xcorr>
+	<deltacn>0.203</deltacn>
+	<sp>1136.0</sp>
+	<rsp>1</rsp>
+	<ions>13/14</ions>
+	<count>1</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|11056054|ref|NP_067675.1| tribbles homolog 2 [Homo sapiens]</reference>
+	<peptide>S.FVRTCKKLREEEAARLFYQIASAVAHCH.D</peptide>
+	<dta_file></dta_file>
+	<scan_range>672 - 672</scan_range>
+	<charge>3</charge>
+	<search_time>19.7</search_time>
+	<intensity>6130</intensity>
+	<actual_mass>3276.69</actual_mass>
+	<input_mass>3278.05</input_mass>
+	<xcorr>2.816</xcorr>
+	<deltacn>0.061</deltacn>
+	<sp>204.6</sp>
+	<rsp>189</rsp>
+	<ions>18/108</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|992949|dbj|BAA05950.1| OPN-b [Homo sapiens]</reference>
+	<peptide>R.ISHELDSASSEVN.-</peptide>
+	<dta_file></dta_file>
+	<scan_range>679 - 681</scan_range>
+	<charge>2</charge>
+	<search_time>10.0</search_time>
+	<intensity>7382</intensity>
+	<actual_mass>1387.63</actual_mass>
+	<input_mass>1387.89</input_mass>
+	<xcorr>3.154</xcorr>
+	<deltacn>0.234</deltacn>
+	<sp>521.6</sp>
+	<rsp>14</rsp>
+	<ions>13/24</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4504943|ref|NP_002278.1| leukocyte-associated immunoglobulin-like receptor 1 </reference>
+	<peptide>R.IDSVSEGNAGPYR.C</peptide>
+	<dta_file></dta_file>
+	<scan_range>682 - 684</scan_range>
+	<charge>2</charge>
+	<search_time>10.0</search_time>
+	<intensity>5461</intensity>
+	<actual_mass>1364.64</actual_mass>
+	<input_mass>1365.05</input_mass>
+	<xcorr>3.336</xcorr>
+	<deltacn>0.262</deltacn>
+	<sp>808.1</sp>
+	<rsp>1</rsp>
+	<ions>17/24</ions>
+	<count>11</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|992949|dbj|BAA05950.1| OPN-b [Homo sapiens] </reference>
+	<peptide>R.ISHELDSASSEVN.-</peptide>
+	<dta_file></dta_file>
+	<scan_range>685 - 685</scan_range>
+	<charge>1</charge>
+	<search_time>9.9</search_time>
+	<intensity>4125</intensity>
+	<actual_mass>1387.63</actual_mass>
+	<input_mass>1387.39</input_mass>
+	<xcorr>2.722</xcorr>
+	<deltacn>0.236</deltacn>
+	<sp>391.2</sp>
+	<rsp>1</rsp>
+	<ions>13/24</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|2653877|gb|AAB87669.1| interleukin-1 receptor-associated kinase-2; IRAK-2 [Ho</reference>
+	<peptide>Y.VITDLTQ.L</peptide>
+	<dta_file></dta_file>
+	<scan_range>687 - 687</scan_range>
+	<charge>1</charge>
+	<search_time>9.3</search_time>
+	<intensity>2695</intensity>
+	<actual_mass>789.44</actual_mass>
+	<input_mass>789.29</input_mass>
+	<xcorr>1.932</xcorr>
+	<deltacn>0.005</deltacn>
+	<sp>169.8</sp>
+	<rsp>2</rsp>
+	<ions>9/12</ions>
+	<count>3</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|14041892|dbj|BAB55026.1| unnamed protein product [Homo sapiens]</reference>
+	<peptide>G.TYGKVKRATE.R</peptide>
+	<dta_file></dta_file>
+	<scan_range>694 - 694</scan_range>
+	<charge>2</charge>
+	<search_time>12.2</search_time>
+	<intensity>6279</intensity>
+	<actual_mass>1152.64</actual_mass>
+	<input_mass>1153.59</input_mass>
+	<xcorr>2.009</xcorr>
+	<deltacn>0.062</deltacn>
+	<sp>489.0</sp>
+	<rsp>9</rsp>
+	<ions>12/18</ions>
+	<count>2</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|34528163|dbj|BAC85463.1| unnamed protein product [Homo sapiens]</reference>
+	<peptide>G.CTATLGNFTKATFDAISKTYNYLTPDLWK.E</peptide>
+	<dta_file></dta_file>
+	<scan_range>709 - 709</scan_range>
+	<charge>3</charge>
+	<search_time>17.5</search_time>
+	<intensity>7991</intensity>
+	<actual_mass>3283.63</actual_mass>
+	<input_mass>3282.16</input_mass>
+	<xcorr>2.825</xcorr>
+	<deltacn>0.079</deltacn>
+	<sp>307.7</sp>
+	<rsp>14</rsp>
+	<ions>21/112</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens] </reference>
+	<peptide>R.DSTIQVVENGESSQGR.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>712 - 714</scan_range>
+	<charge>2</charge>
+	<search_time>8.6</search_time>
+	<intensity>6759</intensity>
+	<actual_mass>1705.80</actual_mass>
+	<input_mass>1706.86</input_mass>
+	<xcorr>3.845</xcorr>
+	<deltacn>0.307</deltacn>
+	<sp>1457.9</sp>
+	<rsp>1</rsp>
+	<ions>21/30</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4502027|ref|NP_000468.1| albumin preproprotein [Homo sapiens]</reference>
+	<peptide>K.DLGEENFK.A</peptide>
+	<dta_file></dta_file>
+	<scan_range>727 - 729</scan_range>
+	<charge>1</charge>
+	<search_time>9.0</search_time>
+	<intensity>4104</intensity>
+	<actual_mass>951.44</actual_mass>
+	<input_mass>951.27</input_mass>
+	<xcorr>1.924</xcorr>
+	<deltacn>0.074</deltacn>
+	<sp>248.8</sp>
+	<rsp>163</rsp>
+	<ions>9/14</ions>
+	<count>28</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|119629414|gb|EAX09009.1| hCG2041645 [Homo sapiens]</reference>
+	<peptide>E.TGRPAPSTRV.V</peptide>
+	<dta_file></dta_file>
+	<scan_range>741 - 741</scan_range>
+	<charge>2</charge>
+	<search_time>12.3</search_time>
+	<intensity>6618</intensity>
+	<actual_mass>1041.58</actual_mass>
+	<input_mass>1041.06</input_mass>
+	<xcorr>2.033</xcorr>
+	<deltacn>0.047</deltacn>
+	<sp>605.6</sp>
+	<rsp>7</rsp>
+	<ions>12/18</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens]</reference>
+	<peptide>M.VSALNIR.V</peptide>
+	<dta_file></dta_file>
+	<scan_range>753 - 753</scan_range>
+	<charge>2</charge>
+	<search_time>8.9</search_time>
+	<intensity>3879</intensity>
+	<actual_mass>772.47</actual_mass>
+	<input_mass>772.84</input_mass>
+	<xcorr>2.214</xcorr>
+	<deltacn>0.087</deltacn>
+	<sp>488.8</sp>
+	<rsp>33</rsp>
+	<ions>10/12</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|32698964|ref|NP_872372.1| vitelline membrane outer layer 1 [Homo sapiens] </reference>
+	<peptide>R.VEAPTTLGDNTAANNVR.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>771 - 771</scan_range>
+	<charge>2</charge>
+	<search_time>10.6</search_time>
+	<intensity>5123</intensity>
+	<actual_mass>1742.87</actual_mass>
+	<input_mass>1743.34</input_mass>
+	<xcorr>4.136</xcorr>
+	<deltacn>0.379</deltacn>
+	<sp>865.6</sp>
+	<rsp>1</rsp>
+	<ions>21/32</ions>
+	<count>3</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|12224837|emb|CAC21644.1| hypothetical protein [Homo sapiens]</reference>
+	<peptide>V.TFSYDGNVLASR.G</peptide>
+	<dta_file></dta_file>
+	<scan_range>808 - 808</scan_range>
+	<charge>2</charge>
+	<search_time>13.0</search_time>
+	<intensity>5809</intensity>
+	<actual_mass>1329.64</actual_mass>
+	<input_mass>1329.73</input_mass>
+	<xcorr>2.656</xcorr>
+	<deltacn>0.363</deltacn>
+	<sp>650.5</sp>
+	<rsp>20</rsp>
+	<ions>14/22</ions>
+	<count>3</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|119226|sp|P01133.1|EGF_HUMAN RecName: Full=Pro-epidermal growth factor; Short</reference>
+	<peptide>K.YPANVAVDPVER.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>814 - 814</scan_range>
+	<charge>2</charge>
+	<search_time>10.1</search_time>
+	<intensity>6167</intensity>
+	<actual_mass>1329.68</actual_mass>
+	<input_mass>1329.67</input_mass>
+	<xcorr>3.745</xcorr>
+	<deltacn>0.245</deltacn>
+	<sp>1167.1</sp>
+	<rsp>1</rsp>
+	<ions>17/22</ions>
+	<count>3</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|31074631|emb|CAD91892.1| keratin 1b [Homo sapiens] </reference>
+	<peptide>R.FLEQQNQVLQTK.W</peptide>
+	<dta_file></dta_file>
+	<scan_range>817 - 817</scan_range>
+	<charge>2</charge>
+	<search_time>9.9</search_time>
+	<intensity>9758</intensity>
+	<actual_mass>1475.79</actual_mass>
+	<input_mass>1475.55</input_mass>
+	<xcorr>4.501</xcorr>
+	<deltacn>0.039</deltacn>
+	<sp>2448.0</sp>
+	<rsp>1</rsp>
+	<ions>20/22</ions>
+	<count>10</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|119590685|gb|EAW70279.1| amyotrophic lateral sclerosis 2 (juvenile) chromosom</reference>
+	<peptide>I.QAFPIDTLLESGIIKVIELD.K</peptide>
+	<dta_file></dta_file>
+	<scan_range>817 - 817</scan_range>
+	<charge>3</charge>
+	<search_time>14.8</search_time>
+	<intensity>9758</intensity>
+	<actual_mass>2214.23</actual_mass>
+	<input_mass>2212.82</input_mass>
+	<xcorr>2.599</xcorr>
+	<deltacn>0.002</deltacn>
+	<sp>590.2</sp>
+	<rsp>23</rsp>
+	<ions>21/76</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|31074631|emb|CAD91892.1| keratin 1b [Homo sapiens] </reference>
+	<peptide>R.FLEQQNQVLQTK.W</peptide>
+	<dta_file></dta_file>
+	<scan_range>820 - 820</scan_range>
+	<charge>2</charge>
+	<search_time>20.2</search_time>
+	<intensity>10756</intensity>
+	<actual_mass>1475.79</actual_mass>
+	<input_mass>1475.87</input_mass>
+	<xcorr>4.392</xcorr>
+	<deltacn>0.108</deltacn>
+	<sp>2147.0</sp>
+	<rsp>1</rsp>
+	<ions>19/22</ions>
+	<count>10</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|40788231|dbj|BAA20828.2| KIAA0373 [Homo sapiens]</reference>
+	<peptide>A.LESEKELEELKKRNLDLE.N</peptide>
+	<dta_file></dta_file>
+	<scan_range>820 - 820</scan_range>
+	<charge>3</charge>
+	<search_time>14.7</search_time>
+	<intensity>10756</intensity>
+	<actual_mass>2215.18</actual_mass>
+	<input_mass>2213.30</input_mass>
+	<xcorr>2.766</xcorr>
+	<deltacn>0.004</deltacn>
+	<sp>600.8</sp>
+	<rsp>12</rsp>
+	<ions>20/68</ions>
+	<count>5</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|7706751|ref|NP_057521.1| tubulin, gamma 2 [Homo sapiens]</reference>
+	<peptide>D.VFFYQADDE.H</peptide>
+	<dta_file></dta_file>
+	<scan_range>835 - 837</scan_range>
+	<charge>2</charge>
+	<search_time>21.5</search_time>
+	<intensity>6531</intensity>
+	<actual_mass>1133.48</actual_mass>
+	<input_mass>1134.40</input_mass>
+	<xcorr>2.096</xcorr>
+	<deltacn>0.087</deltacn>
+	<sp>462.0</sp>
+	<rsp>159</rsp>
+	<ions>10/16</ions>
+	<count>7</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4502027|ref|NP_000468.1| albumin preproprotein [Homo sapiens]</reference>
+	<peptide>K.YLYEIAR.R</peptide>
+	<dta_file></dta_file>
+	<scan_range>844 - 846</scan_range>
+	<charge>2</charge>
+	<search_time>9.1</search_time>
+	<intensity>3575</intensity>
+	<actual_mass>927.49</actual_mass>
+	<input_mass>927.99</input_mass>
+	<xcorr>2.478</xcorr>
+	<deltacn>0.114</deltacn>
+	<sp>560.8</sp>
+	<rsp>2</rsp>
+	<ions>11/12</ions>
+	<count>22</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|6688241|emb|CAB65124.1| spalt-like zinc finger protein [Homo sapiens]</reference>
+	<peptide>E.SPQSLLGGPPLTKAEPVSLP.C</peptide>
+	<dta_file></dta_file>
+	<scan_range>855 - 855</scan_range>
+	<charge>3</charge>
+	<search_time>15.8</search_time>
+	<intensity>4685</intensity>
+	<actual_mass>1988.11</actual_mass>
+	<input_mass>1987.04</input_mass>
+	<xcorr>2.567</xcorr>
+	<deltacn>0.116</deltacn>
+	<sp>643.3</sp>
+	<rsp>11</rsp>
+	<ions>27/76</ions>
+	<count>2</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|643589|dbj|BAA05536.1| dihydrolipoamide succinyltransferase [Homo sapiens] </reference>
+	<peptide>K.TPAFAESVTEGDVR.W</peptide>
+	<dta_file></dta_file>
+	<scan_range>859 - 859</scan_range>
+	<charge>2</charge>
+	<search_time>13.2</search_time>
+	<intensity>8056</intensity>
+	<actual_mass>1478.71</actual_mass>
+	<input_mass>1479.10</input_mass>
+	<xcorr>4.236</xcorr>
+	<deltacn>0.440</deltacn>
+	<sp>2209.9</sp>
+	<rsp>1</rsp>
+	<ions>22/26</ions>
+	<count>4</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|15029677|gb|AAH11049.1| Phosphoinositide-3-kinase interacting protein 1 [Homo</reference>
+	<peptide>R.SEAAAVQPVIGISQR.V</peptide>
+	<dta_file></dta_file>
+	<scan_range>861 - 861</scan_range>
+	<charge>2</charge>
+	<search_time>13.4</search_time>
+	<intensity>5654</intensity>
+	<actual_mass>1525.83</actual_mass>
+	<input_mass>1526.26</input_mass>
+	<xcorr>4.303</xcorr>
+	<deltacn>0.383</deltacn>
+	<sp>1138.0</sp>
+	<rsp>1</rsp>
+	<ions>21/28</ions>
+	<count>6</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|15029677|gb|AAH11049.1| Phosphoinositide-3-kinase interacting protein 1 [Homo</reference>
+	<peptide>R.SEAAAVQPVIGISQR.V</peptide>
+	<dta_file></dta_file>
+	<scan_range>864 - 864</scan_range>
+	<charge>2</charge>
+	<search_time>10.0</search_time>
+	<intensity>5930</intensity>
+	<actual_mass>1525.83</actual_mass>
+	<input_mass>1525.94</input_mass>
+	<xcorr>3.951</xcorr>
+	<deltacn>0.337</deltacn>
+	<sp>975.4</sp>
+	<rsp>1</rsp>
+	<ions>19/28</ions>
+	<count>6</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|62897705|dbj|BAD96792.1| kelch-like 12 variant [Homo sapiens]</reference>
+	<peptide>Q.VDSEEPVLGAVINW.V</peptide>
+	<dta_file></dta_file>
+	<scan_range>865 - 865</scan_range>
+	<charge>2</charge>
+	<search_time>10.1</search_time>
+	<intensity>5995</intensity>
+	<actual_mass>1527.77</actual_mass>
+	<input_mass>1529.52</input_mass>
+	<xcorr>2.396</xcorr>
+	<deltacn>0.217</deltacn>
+	<sp>606.8</sp>
+	<rsp>4</rsp>
+	<ions>14/26</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4502027|ref|NP_000468.1| albumin preproprotein [Homo sapiens] </reference>
+	<peptide>K.LVNEVTEFAK.T</peptide>
+	<dta_file></dta_file>
+	<scan_range>867 - 867</scan_range>
+	<charge>2</charge>
+	<search_time>9.7</search_time>
+	<intensity>4456</intensity>
+	<actual_mass>1149.62</actual_mass>
+	<input_mass>1149.71</input_mass>
+	<xcorr>3.184</xcorr>
+	<deltacn>0.288</deltacn>
+	<sp>900.6</sp>
+	<rsp>1</rsp>
+	<ions>16/18</ions>
+	<count>25</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4502027|ref|NP_000468.1| albumin preproprotein [Homo sapiens] </reference>
+	<peptide>K.LVNEVTEFAK.T</peptide>
+	<dta_file></dta_file>
+	<scan_range>868 - 870</scan_range>
+	<charge>1</charge>
+	<search_time>9.7</search_time>
+	<intensity>3529</intensity>
+	<actual_mass>1149.62</actual_mass>
+	<input_mass>1149.47</input_mass>
+	<xcorr>2.525</xcorr>
+	<deltacn>0.238</deltacn>
+	<sp>231.0</sp>
+	<rsp>1</rsp>
+	<ions>12/18</ions>
+	<count>25</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4502027|ref|NP_000468.1| albumin preproprotein [Homo sapiens] </reference>
+	<peptide>K.LVNEVTEFAK.T</peptide>
+	<dta_file></dta_file>
+	<scan_range>871 - 871</scan_range>
+	<charge>2</charge>
+	<search_time>9.6</search_time>
+	<intensity>4346</intensity>
+	<actual_mass>1149.62</actual_mass>
+	<input_mass>1151.11</input_mass>
+	<xcorr>3.725</xcorr>
+	<deltacn>0.248</deltacn>
+	<sp>673.2</sp>
+	<rsp>1</rsp>
+	<ions>15/18</ions>
+	<count>25</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens]</reference>
+	<peptide>R.VGGTGMFTVR.M</peptide>
+	<dta_file></dta_file>
+	<scan_range>874 - 874</scan_range>
+	<charge>2</charge>
+	<search_time>8.1</search_time>
+	<intensity>7639</intensity>
+	<actual_mass>1024.52</actual_mass>
+	<input_mass>1025.20</input_mass>
+	<xcorr>3.576</xcorr>
+	<deltacn>0.296</deltacn>
+	<sp>871.9</sp>
+	<rsp>5</rsp>
+	<ions>13/18</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens] </reference>
+	<peptide>R.VGGTGMFTVR.M</peptide>
+	<dta_file></dta_file>
+	<scan_range>877 - 877</scan_range>
+	<charge>2</charge>
+	<search_time>9.0</search_time>
+	<intensity>7416</intensity>
+	<actual_mass>1024.52</actual_mass>
+	<input_mass>1024.99</input_mass>
+	<xcorr>3.354</xcorr>
+	<deltacn>0.350</deltacn>
+	<sp>959.1</sp>
+	<rsp>1</rsp>
+	<ions>14/18</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens]</reference>
+	<peptide>K.YFIIQDR.C</peptide>
+	<dta_file></dta_file>
+	<scan_range>882 - 882</scan_range>
+	<charge>2</charge>
+	<search_time>9.0</search_time>
+	<intensity>4059</intensity>
+	<actual_mass>954.50</actual_mass>
+	<input_mass>954.79</input_mass>
+	<xcorr>2.375</xcorr>
+	<deltacn>0.141</deltacn>
+	<sp>725.3</sp>
+	<rsp>2</rsp>
+	<ions>11/12</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens] </reference>
+	<peptide>K.YFIIQDR.C</peptide>
+	<dta_file></dta_file>
+	<scan_range>885 - 885</scan_range>
+	<charge>2</charge>
+	<search_time>7.2</search_time>
+	<intensity>4441</intensity>
+	<actual_mass>954.50</actual_mass>
+	<input_mass>955.23</input_mass>
+	<xcorr>2.721</xcorr>
+	<deltacn>0.206</deltacn>
+	<sp>894.8</sp>
+	<rsp>1</rsp>
+	<ions>12/12</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4504893|ref|NP_000884.1| kininogen 1 isoform 2 [Homo sapiens] </reference>
+	<peptide>K.YNSQNQSNNQFVLYR.I</peptide>
+	<dta_file></dta_file>
+	<scan_range>889 - 891</scan_range>
+	<charge>2</charge>
+	<search_time>11.2</search_time>
+	<intensity>8112</intensity>
+	<actual_mass>1874.88</actual_mass>
+	<input_mass>1875.25</input_mass>
+	<xcorr>4.435</xcorr>
+	<deltacn>0.392</deltacn>
+	<sp>1682.1</sp>
+	<rsp>1</rsp>
+	<ions>21/28</ions>
+	<count>6</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens]</reference>
+	<peptide>Y.LADEIIIR.D</peptide>
+	<dta_file></dta_file>
+	<scan_range>895 - 895</scan_range>
+	<charge>2</charge>
+	<search_time>9.3</search_time>
+	<intensity>4919</intensity>
+	<actual_mass>942.56</actual_mass>
+	<input_mass>943.15</input_mass>
+	<xcorr>3.317</xcorr>
+	<deltacn>0.083</deltacn>
+	<sp>954.9</sp>
+	<rsp>9</rsp>
+	<ions>13/14</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens]</reference>
+	<peptide>Y.LADEIIIR.D</peptide>
+	<dta_file></dta_file>
+	<scan_range>898 - 898</scan_range>
+	<charge>2</charge>
+	<search_time>9.4</search_time>
+	<intensity>4652</intensity>
+	<actual_mass>942.56</actual_mass>
+	<input_mass>943.18</input_mass>
+	<xcorr>3.658</xcorr>
+	<deltacn>0.139</deltacn>
+	<sp>944.2</sp>
+	<rsp>5</rsp>
+	<ions>13/14</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|119602863|gb|EAW82457.1| hCG2038771 [Homo sapiens]</reference>
+	<peptide>D.IFLSFILGSGRTVPHLRLSAS.D</peptide>
+	<dta_file></dta_file>
+	<scan_range>901 - 901</scan_range>
+	<charge>3</charge>
+	<search_time>28.1</search_time>
+	<intensity>7099</intensity>
+	<actual_mass>2271.30</actual_mass>
+	<input_mass>2269.44</input_mass>
+	<xcorr>2.528</xcorr>
+	<deltacn>0.120</deltacn>
+	<sp>778.2</sp>
+	<rsp>2</rsp>
+	<ions>27/80</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|167857790|ref|NP_000598.2| orosomucoid 1 precursor [Homo sapiens]</reference>
+	<peptide>K.TEDTIFLR.E</peptide>
+	<dta_file></dta_file>
+	<scan_range>906 - 906</scan_range>
+	<charge>2</charge>
+	<search_time>9.0</search_time>
+	<intensity>4466</intensity>
+	<actual_mass>994.52</actual_mass>
+	<input_mass>995.17</input_mass>
+	<xcorr>3.074</xcorr>
+	<deltacn>0.056</deltacn>
+	<sp>762.4</sp>
+	<rsp>2</rsp>
+	<ions>13/14</ions>
+	<count>7</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|24474789|emb|CAD43719.1| retinoblastoma-associated factor 600-like protein [H</reference>
+	<peptide>F.GEVEKMQILVER.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>921 - 921</scan_range>
+	<charge>2</charge>
+	<search_time>10.1</search_time>
+	<intensity>3300</intensity>
+	<actual_mass>1430.77</actual_mass>
+	<input_mass>1431.41</input_mass>
+	<xcorr>2.813</xcorr>
+	<deltacn>0.060</deltacn>
+	<sp>350.2</sp>
+	<rsp>33</rsp>
+	<ions>14/22</ions>
+	<count>12</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|24474789|emb|CAD43719.1| retinoblastoma-associated factor 600-like protein [H</reference>
+	<peptide>F.GEVEKMQILVER.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>924 - 924</scan_range>
+	<charge>2</charge>
+	<search_time>10.0</search_time>
+	<intensity>3108</intensity>
+	<actual_mass>1430.77</actual_mass>
+	<input_mass>1429.79</input_mass>
+	<xcorr>2.765</xcorr>
+	<deltacn>0.041</deltacn>
+	<sp>393.5</sp>
+	<rsp>18</rsp>
+	<ions>15/22</ions>
+	<count>12</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|14196468|ref|NP_114442.1| protocadherin gamma subfamily A, 4 isoform 2 precur</reference>
+	<peptide>A.DGIKYPELVLER.A</peptide>
+	<dta_file></dta_file>
+	<scan_range>928 - 930</scan_range>
+	<charge>2</charge>
+	<search_time>8.2</search_time>
+	<intensity>3762</intensity>
+	<actual_mass>1431.78</actual_mass>
+	<input_mass>1433.25</input_mass>
+	<xcorr>2.530</xcorr>
+	<deltacn>0.103</deltacn>
+	<sp>488.1</sp>
+	<rsp>1</rsp>
+	<ions>15/22</ions>
+	<count>1</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|21389427|ref|NP_653219.1| GA repeat binding protein, beta 2 [Homo sapiens]</reference>
+	<peptide>I.IEGNSVDSSIQQVMGSGGQRV.I</peptide>
+	<dta_file></dta_file>
+	<scan_range>928 - 930</scan_range>
+	<charge>3</charge>
+	<search_time>14.5</search_time>
+	<intensity>3762</intensity>
+	<actual_mass>2148.03</actual_mass>
+	<input_mass>2149.37</input_mass>
+	<xcorr>3.252</xcorr>
+	<deltacn>0.095</deltacn>
+	<sp>412.0</sp>
+	<rsp>5</rsp>
+	<ions>27/80</ions>
+	<count>4</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens] </reference>
+	<peptide>R.DWVSVVTPAR.D</peptide>
+	<dta_file></dta_file>
+	<scan_range>934 - 936</scan_range>
+	<charge>2</charge>
+	<search_time>7.9</search_time>
+	<intensity>5300</intensity>
+	<actual_mass>1129.60</actual_mass>
+	<input_mass>1129.79</input_mass>
+	<xcorr>4.029</xcorr>
+	<deltacn>0.241</deltacn>
+	<sp>1095.0</sp>
+	<rsp>1</rsp>
+	<ions>16/18</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|6382064|ref|NP_001090.2| acid phosphatase, prostate short isoform precursor [</reference>
+	<peptide>R.SPIDTFPTDPIK.E</peptide>
+	<dta_file></dta_file>
+	<scan_range>952 - 952</scan_range>
+	<charge>2</charge>
+	<search_time>8.1</search_time>
+	<intensity>7480</intensity>
+	<actual_mass>1330.69</actual_mass>
+	<input_mass>1331.97</input_mass>
+	<xcorr>3.000</xcorr>
+	<deltacn>0.298</deltacn>
+	<sp>710.5</sp>
+	<rsp>3</rsp>
+	<ions>13/22</ions>
+	<count>10</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|6453469|emb|CAB61378.1| hypothetical protein [Homo sapiens]</reference>
+	<peptide>L.QREVFLGTLNDR.T</peptide>
+	<dta_file></dta_file>
+	<scan_range>954 - 954</scan_range>
+	<charge>2</charge>
+	<search_time>10.7</search_time>
+	<intensity>3444</intensity>
+	<actual_mass>1447.77</actual_mass>
+	<input_mass>1445.95</input_mass>
+	<xcorr>2.181</xcorr>
+	<deltacn>0.045</deltacn>
+	<sp>253.0</sp>
+	<rsp>150</rsp>
+	<ions>12/22</ions>
+	<count>5</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|992949|dbj|BAA05950.1| OPN-b [Homo sapiens] </reference>
+	<peptide>K.AIPVAQDLNAPSDWDSR.G</peptide>
+	<dta_file></dta_file>
+	<scan_range>961 - 963</scan_range>
+	<charge>2</charge>
+	<search_time>8.8</search_time>
+	<intensity>5004</intensity>
+	<actual_mass>1854.90</actual_mass>
+	<input_mass>1855.42</input_mass>
+	<xcorr>4.262</xcorr>
+	<deltacn>0.379</deltacn>
+	<sp>792.2</sp>
+	<rsp>1</rsp>
+	<ions>21/32</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4507761|ref|NP_003324.1| ubiquitin and ribosomal protein L40 precursor [Homo </reference>
+	<peptide>K.TITLEVEPSDTIENVK.A</peptide>
+	<dta_file></dta_file>
+	<scan_range>964 - 966</scan_range>
+	<charge>2</charge>
+	<search_time>10.7</search_time>
+	<intensity>4284</intensity>
+	<actual_mass>1787.93</actual_mass>
+	<input_mass>1788.54</input_mass>
+	<xcorr>3.802</xcorr>
+	<deltacn>0.298</deltacn>
+	<sp>730.7</sp>
+	<rsp>1</rsp>
+	<ions>21/30</ions>
+	<count>47</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|29568086|ref|NP_002988.3| syndecan 1 precursor [Homo sapiens] </reference>
+	<peptide>K.EGEAVVLPEVEPGLTAR.E</peptide>
+	<dta_file></dta_file>
+	<scan_range>981 - 981</scan_range>
+	<charge>2</charge>
+	<search_time>8.7</search_time>
+	<intensity>4011</intensity>
+	<actual_mass>1765.93</actual_mass>
+	<input_mass>1766.32</input_mass>
+	<xcorr>3.667</xcorr>
+	<deltacn>0.183</deltacn>
+	<sp>589.7</sp>
+	<rsp>1</rsp>
+	<ions>19/32</ions>
+	<count>5</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|29568086|ref|NP_002988.3| syndecan 1 precursor [Homo sapiens] </reference>
+	<peptide>K.EGEAVVLPEVEPGLTAR.E</peptide>
+	<dta_file></dta_file>
+	<scan_range>984 - 984</scan_range>
+	<charge>2</charge>
+	<search_time>8.8</search_time>
+	<intensity>4026</intensity>
+	<actual_mass>1765.93</actual_mass>
+	<input_mass>1765.98</input_mass>
+	<xcorr>3.837</xcorr>
+	<deltacn>0.268</deltacn>
+	<sp>711.9</sp>
+	<rsp>1</rsp>
+	<ions>21/32</ions>
+	<count>5</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4502067|ref|NP_001624.1| alpha-1-microglobulin/bikunin preproprotein [Homo sa</reference>
+	<peptide>R.ETLLQDFR.V</peptide>
+	<dta_file></dta_file>
+	<scan_range>988 - 990</scan_range>
+	<charge>2</charge>
+	<search_time>9.3</search_time>
+	<intensity>4360</intensity>
+	<actual_mass>1021.53</actual_mass>
+	<input_mass>1022.54</input_mass>
+	<xcorr>2.707</xcorr>
+	<deltacn>0.187</deltacn>
+	<sp>682.5</sp>
+	<rsp>3</rsp>
+	<ions>13/14</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|24474789|emb|CAD43719.1| retinoblastoma-associated factor 600-like protein [H</reference>
+	<peptide>F.GEVEKMQILVER.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>1014 - 1014</scan_range>
+	<charge>2</charge>
+	<search_time>10.0</search_time>
+	<intensity>3261</intensity>
+	<actual_mass>1430.77</actual_mass>
+	<input_mass>1430.12</input_mass>
+	<xcorr>2.601</xcorr>
+	<deltacn>0.116</deltacn>
+	<sp>278.4</sp>
+	<rsp>65</rsp>
+	<ions>13/22</ions>
+	<count>12</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|19920317|ref|NP_006816.2| cytoskeleton-associated protein 4 [Homo sapiens]</reference>
+	<peptide>T.QLVLYGDVEELKRSVGELP.S</peptide>
+	<dta_file></dta_file>
+	<scan_range>1014 - 1014</scan_range>
+	<charge>3</charge>
+	<search_time>19.6</search_time>
+	<intensity>3261</intensity>
+	<actual_mass>2144.16</actual_mass>
+	<input_mass>2144.68</input_mass>
+	<xcorr>3.062</xcorr>
+	<deltacn>0.142</deltacn>
+	<sp>274.7</sp>
+	<rsp>200</rsp>
+	<ions>23/72</ions>
+	<count>7</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|21361254|ref|NP_005214.2| deoxyribonuclease I precursor [Homo sapiens] </reference>
+	<peptide>K.IAAFNIQTFGETK.M</peptide>
+	<dta_file></dta_file>
+	<scan_range>1017 - 1017</scan_range>
+	<charge>2</charge>
+	<search_time>14.4</search_time>
+	<intensity>7498</intensity>
+	<actual_mass>1439.75</actual_mass>
+	<input_mass>1440.19</input_mass>
+	<xcorr>3.819</xcorr>
+	<deltacn>0.260</deltacn>
+	<sp>1877.3</sp>
+	<rsp>1</rsp>
+	<ions>21/24</ions>
+	<count>2</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|21361254|ref|NP_005214.2| deoxyribonuclease I precursor [Homo sapiens] </reference>
+	<peptide>K.IAAFNIQTFGETK.M</peptide>
+	<dta_file></dta_file>
+	<scan_range>1020 - 1020</scan_range>
+	<charge>2</charge>
+	<search_time>10.1</search_time>
+	<intensity>7193</intensity>
+	<actual_mass>1439.75</actual_mass>
+	<input_mass>1439.92</input_mass>
+	<xcorr>4.416</xcorr>
+	<deltacn>0.352</deltacn>
+	<sp>1671.8</sp>
+	<rsp>1</rsp>
+	<ions>20/24</ions>
+	<count>2</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|21749264|dbj|BAC03564.1| unnamed protein product [Homo sapiens]</reference>
+	<peptide>R.PVLEGQGGFEEHFQE.A</peptide>
+	<dta_file></dta_file>
+	<scan_range>1023 - 1023</scan_range>
+	<charge>2</charge>
+	<search_time>10.3</search_time>
+	<intensity>5988</intensity>
+	<actual_mass>1702.77</actual_mass>
+	<input_mass>1703.24</input_mass>
+	<xcorr>2.762</xcorr>
+	<deltacn>0.022</deltacn>
+	<sp>495.3</sp>
+	<rsp>9</rsp>
+	<ions>15/28</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|21669521|dbj|BAC01785.1| immunoglobulin lambda light chain VLJ region [Homo s</reference>
+	<peptide>K.AAPSVTLFPPSSEELQANK.A</peptide>
+	<dta_file></dta_file>
+	<scan_range>1027 - 1027</scan_range>
+	<charge>2</charge>
+	<search_time>10.7</search_time>
+	<intensity>3865</intensity>
+	<actual_mass>1986.02</actual_mass>
+	<input_mass>1986.69</input_mass>
+	<xcorr>2.464</xcorr>
+	<deltacn>0.068</deltacn>
+	<sp>258.9</sp>
+	<rsp>2</rsp>
+	<ions>15/36</ions>
+	<count>99</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens]</reference>
+	<peptide>R.DWVSVVTPAR.D</peptide>
+	<dta_file></dta_file>
+	<scan_range>1029 - 1029</scan_range>
+	<charge>2</charge>
+	<search_time>9.8</search_time>
+	<intensity>5629</intensity>
+	<actual_mass>1129.60</actual_mass>
+	<input_mass>1129.77</input_mass>
+	<xcorr>3.039</xcorr>
+	<deltacn>0.196</deltacn>
+	<sp>818.5</sp>
+	<rsp>5</rsp>
+	<ions>13/18</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens] </reference>
+	<peptide>K.TALQPMVSALNIR.V</peptide>
+	<dta_file></dta_file>
+	<scan_range>1032 - 1032</scan_range>
+	<charge>2</charge>
+	<search_time>10.1</search_time>
+	<intensity>3464</intensity>
+	<actual_mass>1413.79</actual_mass>
+	<input_mass>1413.95</input_mass>
+	<xcorr>3.684</xcorr>
+	<deltacn>0.291</deltacn>
+	<sp>847.2</sp>
+	<rsp>1</rsp>
+	<ions>20/24</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens] </reference>
+	<peptide>K.TALQPMVSALNIR.V</peptide>
+	<dta_file></dta_file>
+	<scan_range>1035 - 1035</scan_range>
+	<charge>2</charge>
+	<search_time>10.6</search_time>
+	<intensity>3731</intensity>
+	<actual_mass>1413.79</actual_mass>
+	<input_mass>1414.67</input_mass>
+	<xcorr>4.235</xcorr>
+	<deltacn>0.296</deltacn>
+	<sp>746.5</sp>
+	<rsp>1</rsp>
+	<ions>19/24</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|169216247|ref|XP_942953.3| PREDICTED: similar to ubiquitin carboxyl-terminal </reference>
+	<peptide>E.LEDENPARSGGGGNSDEVPPPTL.P</peptide>
+	<dta_file></dta_file>
+	<scan_range>1045 - 1045</scan_range>
+	<charge>3</charge>
+	<search_time>15.0</search_time>
+	<intensity>8432</intensity>
+	<actual_mass>2308.07</actual_mass>
+	<input_mass>2309.46</input_mass>
+	<xcorr>2.629</xcorr>
+	<deltacn>0.038</deltacn>
+	<sp>567.3</sp>
+	<rsp>1</rsp>
+	<ions>26/88</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|21361633|ref|NP_060238.3| leucine rich repeat containing 40 [Homo sapiens]</reference>
+	<peptide>S.AIRELENLQKLNVSHNKLKIL.P</peptide>
+	<dta_file></dta_file>
+	<scan_range>1047 - 1047</scan_range>
+	<charge>3</charge>
+	<search_time>15.4</search_time>
+	<intensity>7874</intensity>
+	<actual_mass>2473.46</actual_mass>
+	<input_mass>2474.91</input_mass>
+	<xcorr>2.516</xcorr>
+	<deltacn>0.100</deltacn>
+	<sp>358.8</sp>
+	<rsp>153</rsp>
+	<ions>21/80</ions>
+	<count>1</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|38201675|ref|NP_002990.2| syndecan 4 precursor [Homo sapiens] </reference>
+	<peptide>R.ETEVIDPQDLLEGR.Y</peptide>
+	<dta_file></dta_file>
+	<scan_range>1048 - 1050</scan_range>
+	<charge>2</charge>
+	<search_time>8.4</search_time>
+	<intensity>4924</intensity>
+	<actual_mass>1613.80</actual_mass>
+	<input_mass>1614.11</input_mass>
+	<xcorr>4.297</xcorr>
+	<deltacn>0.227</deltacn>
+	<sp>1286.0</sp>
+	<rsp>1</rsp>
+	<ions>22/26</ions>
+	<count>1</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens]</reference>
+	<peptide>R.DWVSVVTPAR.D</peptide>
+	<dta_file></dta_file>
+	<scan_range>1051 - 1051</scan_range>
+	<charge>2</charge>
+	<search_time>9.4</search_time>
+	<intensity>5530</intensity>
+	<actual_mass>1129.60</actual_mass>
+	<input_mass>1129.91</input_mass>
+	<xcorr>3.534</xcorr>
+	<deltacn>0.284</deltacn>
+	<sp>935.0</sp>
+	<rsp>2</rsp>
+	<ions>14/18</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens]</reference>
+	<peptide>R.DWVSVVTPAR.D</peptide>
+	<dta_file></dta_file>
+	<scan_range>1054 - 1054</scan_range>
+	<charge>2</charge>
+	<search_time>10.9</search_time>
+	<intensity>5776</intensity>
+	<actual_mass>1129.60</actual_mass>
+	<input_mass>1130.06</input_mass>
+	<xcorr>3.308</xcorr>
+	<deltacn>0.245</deltacn>
+	<sp>896.2</sp>
+	<rsp>3</rsp>
+	<ions>14/18</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|62087874|dbj|BAD92384.1| caspase 9 isoform alpha preproprotein variant [Homo </reference>
+	<peptide>S.WGLGRAAEARKRTEAAWSL.S</peptide>
+	<dta_file></dta_file>
+	<scan_range>1080 - 1080</scan_range>
+	<charge>3</charge>
+	<search_time>14.5</search_time>
+	<intensity>7013</intensity>
+	<actual_mass>2129.14</actual_mass>
+	<input_mass>2130.74</input_mass>
+	<xcorr>2.681</xcorr>
+	<deltacn>0.036</deltacn>
+	<sp>427.1</sp>
+	<rsp>90</rsp>
+	<ions>22/72</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|7021836|dbj|BAA91407.1| unnamed protein product [Homo sapiens]</reference>
+	<peptide>K.VGDMLEKAAELMMSCFRVC.A</peptide>
+	<dta_file></dta_file>
+	<scan_range>1083 - 1083</scan_range>
+	<charge>3</charge>
+	<search_time>14.5</search_time>
+	<intensity>8096</intensity>
+	<actual_mass>2132.97</actual_mass>
+	<input_mass>2131.31</input_mass>
+	<xcorr>2.514</xcorr>
+	<deltacn>0.079</deltacn>
+	<sp>558.6</sp>
+	<rsp>30</rsp>
+	<ions>22/72</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|5541863|emb|CAB51071.1| hypothetical protein [Homo sapiens] </reference>
+	<peptide>K.TEKKDLPPPPPPPQPPAPIQP.Q</peptide>
+	<dta_file></dta_file>
+	<scan_range>1107 - 1107</scan_range>
+	<charge>3</charge>
+	<search_time>17.6</search_time>
+	<intensity>8210</intensity>
+	<actual_mass>2241.23</actual_mass>
+	<input_mass>2242.85</input_mass>
+	<xcorr>2.749</xcorr>
+	<deltacn>0.030</deltacn>
+	<sp>1022.2</sp>
+	<rsp>1</rsp>
+	<ions>28/80</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens] </reference>
+	<peptide>K.VFMYLSDSR.C</peptide>
+	<dta_file></dta_file>
+	<scan_range>1132 - 1132</scan_range>
+	<charge>2</charge>
+	<search_time>9.6</search_time>
+	<intensity>6071</intensity>
+	<actual_mass>1117.53</actual_mass>
+	<input_mass>1117.73</input_mass>
+	<xcorr>2.852</xcorr>
+	<deltacn>0.189</deltacn>
+	<sp>1248.5</sp>
+	<rsp>1</rsp>
+	<ions>14/16</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens]</reference>
+	<peptide>R.DWVSVVTPAR.D</peptide>
+	<dta_file></dta_file>
+	<scan_range>1169 - 1169</scan_range>
+	<charge>2</charge>
+	<search_time>9.7</search_time>
+	<intensity>5587</intensity>
+	<actual_mass>1129.60</actual_mass>
+	<input_mass>1129.47</input_mass>
+	<xcorr>3.218</xcorr>
+	<deltacn>0.222</deltacn>
+	<sp>817.6</sp>
+	<rsp>3</rsp>
+	<ions>13/18</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens] </reference>
+	<peptide>K.VFMYLSDSR.C</peptide>
+	<dta_file></dta_file>
+	<scan_range>2227 - 2227</scan_range>
+	<charge>2</charge>
+	<search_time>9.6</search_time>
+	<intensity>7364</intensity>
+	<actual_mass>1117.53</actual_mass>
+	<input_mass>1119.43</input_mass>
+	<xcorr>2.454</xcorr>
+	<deltacn>0.225</deltacn>
+	<sp>1141.1</sp>
+	<rsp>1</rsp>
+	<ions>14/16</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|15929366|gb|AAH15117.1| DEPDC4 protein [Homo sapiens]</reference>
+	<peptide>C.FTGSDAVDVVLSHLMQNTC.L</peptide>
+	<dta_file></dta_file>
+	<scan_range>630 - 630</scan_range>
+	<charge>2</charge>
+	<search_time>18.9</search_time>
+	<intensity>7465</intensity>
+	<actual_mass>2036.94</actual_mass>
+	<input_mass>2036.27</input_mass>
+	<xcorr>2.048</xcorr>
+	<deltacn>0.010</deltacn>
+	<sp>250.2</sp>
+	<rsp>78</rsp>
+	<ions>11/36</ions>
+	<count>2</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|50409810|ref|NP_001002244.1| APC11 anaphase promoting complex subunit 11 isof</reference>
+	<peptide>R.SPDPTPPALDQETSSLLRCTSPWCLDHS.C</peptide>
+	<dta_file></dta_file>
+	<scan_range>633 - 633</scan_range>
+	<charge>3</charge>
+	<search_time>21.7</search_time>
+	<intensity>7644</intensity>
+	<actual_mass>3053.40</actual_mass>
+	<input_mass>3053.86</input_mass>
+	<xcorr>2.569</xcorr>
+	<deltacn>0.174</deltacn>
+	<sp>254.1</sp>
+	<rsp>113</rsp>
+	<ions>21/108</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|122937486|ref|NP_001073993.1| chromosome 16 open reading frame 90 [Homo sapie</reference>
+	<peptide>G.LGLYLESHPPPTGQCE.S</peptide>
+	<dta_file></dta_file>
+	<scan_range>647 - 647</scan_range>
+	<charge>2</charge>
+	<search_time>10.4</search_time>
+	<intensity>5005</intensity>
+	<actual_mass>1740.83</actual_mass>
+	<input_mass>1739.15</input_mass>
+	<xcorr>2.243</xcorr>
+	<deltacn>0.156</deltacn>
+	<sp>280.5</sp>
+	<rsp>6</rsp>
+	<ions>13/30</ions>
+	<count>1</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|88702793|ref|NP_612449.2| slit-like 2 [Homo sapiens] </reference>
+	<peptide>R.ESHVTLASPEETR.C</peptide>
+	<dta_file></dta_file>
+	<scan_range>689 - 689</scan_range>
+	<charge>2</charge>
+	<search_time>13.2</search_time>
+	<intensity>7709</intensity>
+	<actual_mass>1455.71</actual_mass>
+	<input_mass>1456.05</input_mass>
+	<xcorr>3.145</xcorr>
+	<deltacn>0.317</deltacn>
+	<sp>819.2</sp>
+	<rsp>1</rsp>
+	<ions>15/24</ions>
+	<count>3</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|18088477|gb|AAH20778.1| Leucine-rich repeats and IQ motif containing 3 [Homo </reference>
+	<peptide>I.HPLQSCIKLIKLDLHGNQI.K</peptide>
+	<dta_file></dta_file>
+	<scan_range>698 - 700</scan_range>
+	<charge>2</charge>
+	<search_time>12.6</search_time>
+	<intensity>5369</intensity>
+	<actual_mass>2170.22</actual_mass>
+	<input_mass>2169.57</input_mass>
+	<xcorr>3.691</xcorr>
+	<deltacn>0.053</deltacn>
+	<sp>724.2</sp>
+	<rsp>2</rsp>
+	<ions>17/36</ions>
+	<count>5</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens] </reference>
+	<peptide>R.DSTIQVVENGESSQGR.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>706 - 706</scan_range>
+	<charge>2</charge>
+	<search_time>10.2</search_time>
+	<intensity>7168</intensity>
+	<actual_mass>1705.80</actual_mass>
+	<input_mass>1706.93</input_mass>
+	<xcorr>3.170</xcorr>
+	<deltacn>0.121</deltacn>
+	<sp>1125.3</sp>
+	<rsp>1</rsp>
+	<ions>19/30</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|21748570|dbj|BAC03422.1| FLJ00361 protein [Homo sapiens]</reference>
+	<peptide>T.SRLRPGLQLQPRGEHRPR.D</peptide>
+	<dta_file></dta_file>
+	<scan_range>725 - 725</scan_range>
+	<charge>2</charge>
+	<search_time>11.2</search_time>
+	<intensity>5769</intensity>
+	<actual_mass>2153.23</actual_mass>
+	<input_mass>2154.49</input_mass>
+	<xcorr>3.060</xcorr>
+	<deltacn>0.053</deltacn>
+	<sp>451.0</sp>
+	<rsp>17</rsp>
+	<ions>14/34</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|2921583|gb|AAC04830.1| rod photoreceptor CNG-channel beta subunit [Homo sapie</reference>
+	<peptide>T.APPGRPQEMGPKLQARETPSLPTPIPLQPK.E</peptide>
+	<dta_file></dta_file>
+	<scan_range>725 - 725</scan_range>
+	<charge>3</charge>
+	<search_time>15.2</search_time>
+	<intensity>5769</intensity>
+	<actual_mass>3231.77</actual_mass>
+	<input_mass>3231.23</input_mass>
+	<xcorr>2.946</xcorr>
+	<deltacn>0.178</deltacn>
+	<sp>262.2</sp>
+	<rsp>47</rsp>
+	<ions>23/116</ions>
+	<count>3</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens] </reference>
+	<peptide>R.DSTIQVVENGESSQGR.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>749 - 751</scan_range>
+	<charge>2</charge>
+	<search_time>10.3</search_time>
+	<intensity>7888</intensity>
+	<actual_mass>1705.80</actual_mass>
+	<input_mass>1705.71</input_mass>
+	<xcorr>4.860</xcorr>
+	<deltacn>0.456</deltacn>
+	<sp>1667.2</sp>
+	<rsp>1</rsp>
+	<ions>22/30</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|3288487|emb|CAA75875.1| COL1A1 and PDGFB fusion transcript [Homo sapiens] </reference>
+	<peptide>K.SGDRGETGPAGPAGPVGPVG.A</peptide>
+	<dta_file></dta_file>
+	<scan_range>760 - 760</scan_range>
+	<charge>2</charge>
+	<search_time>8.6</search_time>
+	<intensity>9829</intensity>
+	<actual_mass>1734.84</actual_mass>
+	<input_mass>1735.21</input_mass>
+	<xcorr>5.068</xcorr>
+	<deltacn>0.481</deltacn>
+	<sp>1784.3</sp>
+	<rsp>1</rsp>
+	<ions>23/38</ions>
+	<count>6</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|3288487|emb|CAA75875.1| COL1A1 and PDGFB fusion transcript [Homo sapiens] </reference>
+	<peptide>K.SGDRGETGPAGPAGPVGPVG.A</peptide>
+	<dta_file></dta_file>
+	<scan_range>764 - 764</scan_range>
+	<charge>2</charge>
+	<search_time>10.4</search_time>
+	<intensity>8721</intensity>
+	<actual_mass>1734.84</actual_mass>
+	<input_mass>1735.25</input_mass>
+	<xcorr>4.980</xcorr>
+	<deltacn>0.484</deltacn>
+	<sp>1185.2</sp>
+	<rsp>1</rsp>
+	<ions>21/38</ions>
+	<count>6</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4504943|ref|NP_002278.1| leukocyte-associated immunoglobulin-like receptor 1 </reference>
+	<peptide>R.GPVGVQTFR.L</peptide>
+	<dta_file></dta_file>
+	<scan_range>772 - 772</scan_range>
+	<charge>2</charge>
+	<search_time>9.5</search_time>
+	<intensity>5362</intensity>
+	<actual_mass>960.53</actual_mass>
+	<input_mass>960.86</input_mass>
+	<xcorr>2.615</xcorr>
+	<deltacn>0.204</deltacn>
+	<sp>641.1</sp>
+	<rsp>28</rsp>
+	<ions>12/16</ions>
+	<count>20</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|42740907|ref|NP_976084.1| clusterin isoform 2 [Homo sapiens] </reference>
+	<peptide>V.ASHTSDSDVPSGVTEVVVK.L</peptide>
+	<dta_file></dta_file>
+	<scan_range>824 - 824</scan_range>
+	<charge>2</charge>
+	<search_time>10.8</search_time>
+	<intensity>4233</intensity>
+	<actual_mass>1913.95</actual_mass>
+	<input_mass>1914.02</input_mass>
+	<xcorr>4.391</xcorr>
+	<deltacn>0.391</deltacn>
+	<sp>684.7</sp>
+	<rsp>1</rsp>
+	<ions>22/36</ions>
+	<count>6</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4502027|ref|NP_000468.1| albumin preproprotein [Homo sapiens] </reference>
+	<peptide>K.KQTALVELVK.H</peptide>
+	<dta_file></dta_file>
+	<scan_range>844 - 844</scan_range>
+	<charge>2</charge>
+	<search_time>7.8</search_time>
+	<intensity>5835</intensity>
+	<actual_mass>1128.70</actual_mass>
+	<input_mass>1128.80</input_mass>
+	<xcorr>3.284</xcorr>
+	<deltacn>0.188</deltacn>
+	<sp>1205.0</sp>
+	<rsp>1</rsp>
+	<ions>16/18</ions>
+	<count>20</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4502027|ref|NP_000468.1| albumin preproprotein [Homo sapiens] </reference>
+	<peptide>K.KQTALVELVK.H</peptide>
+	<dta_file></dta_file>
+	<scan_range>848 - 848</scan_range>
+	<charge>2</charge>
+	<search_time>9.6</search_time>
+	<intensity>5367</intensity>
+	<actual_mass>1128.70</actual_mass>
+	<input_mass>1128.99</input_mass>
+	<xcorr>2.973</xcorr>
+	<deltacn>0.160</deltacn>
+	<sp>1152.8</sp>
+	<rsp>1</rsp>
+	<ions>16/18</ions>
+	<count>20</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens]</reference>
+	<peptide>R.TLDEYWR.S</peptide>
+	<dta_file></dta_file>
+	<scan_range>857 - 859</scan_range>
+	<charge>1</charge>
+	<search_time>8.6</search_time>
+	<intensity>1938</intensity>
+	<actual_mass>982.46</actual_mass>
+	<input_mass>982.41</input_mass>
+	<xcorr>1.729</xcorr>
+	<deltacn>0.054</deltacn>
+	<sp>135.4</sp>
+	<rsp>13</rsp>
+	<ions>9/12</ions>
+	<count>6</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens]</reference>
+	<peptide>R.TLDEYWR.S</peptide>
+	<dta_file></dta_file>
+	<scan_range>860 - 862</scan_range>
+	<charge>2</charge>
+	<search_time>7.2</search_time>
+	<intensity>2745</intensity>
+	<actual_mass>982.46</actual_mass>
+	<input_mass>982.85</input_mass>
+	<xcorr>2.511</xcorr>
+	<deltacn>0.082</deltacn>
+	<sp>432.1</sp>
+	<rsp>5</rsp>
+	<ions>11/12</ions>
+	<count>6</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens]</reference>
+	<peptide>K.YFIIQDR.C</peptide>
+	<dta_file></dta_file>
+	<scan_range>863 - 865</scan_range>
+	<charge>2</charge>
+	<search_time>18.1</search_time>
+	<intensity>3798</intensity>
+	<actual_mass>954.50</actual_mass>
+	<input_mass>954.96</input_mass>
+	<xcorr>2.789</xcorr>
+	<deltacn>0.141</deltacn>
+	<sp>775.2</sp>
+	<rsp>2</rsp>
+	<ions>12/12</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|28590|emb|CAA23753.1| unnamed protein product [Homo sapiens] </reference>
+	<peptide>K.KVPEVSTPTLVEVSR.N</peptide>
+	<dta_file></dta_file>
+	<scan_range>884 - 884</scan_range>
+	<charge>2</charge>
+	<search_time>13.4</search_time>
+	<intensity>5155</intensity>
+	<actual_mass>1640.92</actual_mass>
+	<input_mass>1640.09</input_mass>
+	<xcorr>3.155</xcorr>
+	<deltacn>0.117</deltacn>
+	<sp>479.7</sp>
+	<rsp>1</rsp>
+	<ions>16/28</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|1335344|emb|CAA23842.1| unnamed protein product [Homo sapiens] </reference>
+	<peptide>K.LAACLEGNCAEGLGTNYR.G</peptide>
+	<dta_file></dta_file>
+	<scan_range>898 - 898</scan_range>
+	<charge>2</charge>
+	<search_time>10.5</search_time>
+	<intensity>8158</intensity>
+	<actual_mass>1854.85</actual_mass>
+	<input_mass>1853.21</input_mass>
+	<xcorr>3.403</xcorr>
+	<deltacn>0.181</deltacn>
+	<sp>714.3</sp>
+	<rsp>1</rsp>
+	<ions>17/34</ions>
+	<count>9</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|1335344|emb|CAA23842.1| unnamed protein product [Homo sapiens]</reference>
+	<peptide>K.LAACLEGNCAEGLGTNYR.G</peptide>
+	<dta_file></dta_file>
+	<scan_range>901 - 901</scan_range>
+	<charge>2</charge>
+	<search_time>10.9</search_time>
+	<intensity>6386</intensity>
+	<actual_mass>1854.85</actual_mass>
+	<input_mass>1853.38</input_mass>
+	<xcorr>2.590</xcorr>
+	<deltacn>0.043</deltacn>
+	<sp>363.0</sp>
+	<rsp>12</rsp>
+	<ions>13/34</ions>
+	<count>9</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|71052160|gb|AAH40542.2| KIAA0802 protein [Homo sapiens]</reference>
+	<peptide>G.STVKTLKSLGLQR.L</peptide>
+	<dta_file></dta_file>
+	<scan_range>904 - 904</scan_range>
+	<charge>2</charge>
+	<search_time>10.0</search_time>
+	<intensity>3082</intensity>
+	<actual_mass>1430.87</actual_mass>
+	<input_mass>1430.10</input_mass>
+	<xcorr>2.624</xcorr>
+	<deltacn>0.150</deltacn>
+	<sp>465.4</sp>
+	<rsp>5</rsp>
+	<ions>15/24</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|24474789|emb|CAD43719.1| retinoblastoma-associated factor 600-like protein [H</reference>
+	<peptide>F.GEVEKMQILVER.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>907 - 907</scan_range>
+	<charge>2</charge>
+	<search_time>10.1</search_time>
+	<intensity>3343</intensity>
+	<actual_mass>1430.77</actual_mass>
+	<input_mass>1429.71</input_mass>
+	<xcorr>2.312</xcorr>
+	<deltacn>0.140</deltacn>
+	<sp>414.6</sp>
+	<rsp>16</rsp>
+	<ions>15/22</ions>
+	<count>12</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|11544639|emb|CAC17609.1| importin7 [Homo sapiens]</reference>
+	<peptide>V.FEDFISPTTAAQTLLFTACS.K</peptide>
+	<dta_file></dta_file>
+	<scan_range>934 - 934</scan_range>
+	<charge>2</charge>
+	<search_time>14.1</search_time>
+	<intensity>5800</intensity>
+	<actual_mass>2163.03</actual_mass>
+	<input_mass>2164.78</input_mass>
+	<xcorr>2.980</xcorr>
+	<deltacn>0.028</deltacn>
+	<sp>287.4</sp>
+	<rsp>98</rsp>
+	<ions>14/38</ions>
+	<count>4</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|55859590|emb|CAI10905.1| carboxypeptidase B2 (plasma) [Homo sapiens] </reference>
+	<peptide>A.FQSGQVLAALPR.T</peptide>
+	<dta_file></dta_file>
+	<scan_range>943 - 943</scan_range>
+	<charge>2</charge>
+	<search_time>9.8</search_time>
+	<intensity>6858</intensity>
+	<actual_mass>1286.72</actual_mass>
+	<input_mass>1287.35</input_mass>
+	<xcorr>3.831</xcorr>
+	<deltacn>0.393</deltacn>
+	<sp>1241.7</sp>
+	<rsp>1</rsp>
+	<ions>17/22</ions>
+	<count>4</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens]</reference>
+	<peptide>R.FSVQMFR.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>949 - 949</scan_range>
+	<charge>2</charge>
+	<search_time>11.7</search_time>
+	<intensity>5420</intensity>
+	<actual_mass>914.46</actual_mass>
+	<input_mass>914.55</input_mass>
+	<xcorr>2.296</xcorr>
+	<deltacn>0.097</deltacn>
+	<sp>759.2</sp>
+	<rsp>2</rsp>
+	<ions>11/12</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|1362827|pir||S57408 Ig lambda chain V-J region - human (fragment)</reference>
+	<peptide>T.ISCSGSRSNIGTNTVNW.Y</peptide>
+	<dta_file></dta_file>
+	<scan_range>970 - 970</scan_range>
+	<charge>2</charge>
+	<search_time>13.1</search_time>
+	<intensity>4871</intensity>
+	<actual_mass>1795.84</actual_mass>
+	<input_mass>1794.86</input_mass>
+	<xcorr>2.441</xcorr>
+	<deltacn>0.166</deltacn>
+	<sp>309.7</sp>
+	<rsp>46</rsp>
+	<ions>14/32</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|186928827|ref|NP_001119529.1| dermokine isoform 5 precursor [Homo sapiens]</reference>
+	<peptide>S.GGSSGGSSGGSSGNSGGSRG.D</peptide>
+	<dta_file></dta_file>
+	<scan_range>971 - 971</scan_range>
+	<charge>2</charge>
+	<search_time>10.2</search_time>
+	<intensity>6148</intensity>
+	<actual_mass>1555.63</actual_mass>
+	<input_mass>1554.98</input_mass>
+	<xcorr>2.203</xcorr>
+	<deltacn>0.034</deltacn>
+	<sp>477.0</sp>
+	<rsp>4</rsp>
+	<ions>17/38</ions>
+	<count>5</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4503351|ref|NP_001370.1| DNA (cytosine-5-)-methyltransferase 1 isoform b [Hom</reference>
+	<peptide>V.KFGGSGRSKQACQERR.C</peptide>
+	<dta_file></dta_file>
+	<scan_range>973 - 973</scan_range>
+	<charge>2</charge>
+	<search_time>10.5</search_time>
+	<intensity>4912</intensity>
+	<actual_mass>1794.91</actual_mass>
+	<input_mass>1795.17</input_mass>
+	<xcorr>2.254</xcorr>
+	<deltacn>0.119</deltacn>
+	<sp>242.5</sp>
+	<rsp>70</rsp>
+	<ions>13/30</ions>
+	<count>5</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|992949|dbj|BAA05950.1| OPN-b [Homo sapiens] </reference>
+	<peptide>K.AIPVAQDLNAPSDWDSR.G</peptide>
+	<dta_file></dta_file>
+	<scan_range>979 - 979</scan_range>
+	<charge>2</charge>
+	<search_time>10.6</search_time>
+	<intensity>6426</intensity>
+	<actual_mass>1854.90</actual_mass>
+	<input_mass>1856.48</input_mass>
+	<xcorr>3.343</xcorr>
+	<deltacn>0.254</deltacn>
+	<sp>777.6</sp>
+	<rsp>1</rsp>
+	<ions>19/32</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4501881|ref|NP_001091.1| actin, alpha 1, skeletal muscle [Homo sapiens] </reference>
+	<peptide>K.SYELPDGQVITIGNER.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>980 - 980</scan_range>
+	<charge>2</charge>
+	<search_time>10.4</search_time>
+	<intensity>6456</intensity>
+	<actual_mass>1790.89</actual_mass>
+	<input_mass>1791.67</input_mass>
+	<xcorr>2.683</xcorr>
+	<deltacn>0.133</deltacn>
+	<sp>625.3</sp>
+	<rsp>1</rsp>
+	<ions>16/30</ions>
+	<count>39</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|11935049|gb|AAG41947.1|AF304164_1 keratin 1 [Homo sapiens] </reference>
+	<peptide>K.SLNNQFASFIDK.V</peptide>
+	<dta_file></dta_file>
+	<scan_range>994 - 994</scan_range>
+	<charge>2</charge>
+	<search_time>9.8</search_time>
+	<intensity>6868</intensity>
+	<actual_mass>1383.69</actual_mass>
+	<input_mass>1384.17</input_mass>
+	<xcorr>3.849</xcorr>
+	<deltacn>0.289</deltacn>
+	<sp>829.0</sp>
+	<rsp>1</rsp>
+	<ions>15/22</ions>
+	<count>3</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|11935049|gb|AAG41947.1|AF304164_1 keratin 1 [Homo sapiens]</reference>
+	<peptide>K.SLNNQFASFIDK.V</peptide>
+	<dta_file></dta_file>
+	<scan_range>997 - 997</scan_range>
+	<charge>2</charge>
+	<search_time>9.8</search_time>
+	<intensity>10421</intensity>
+	<actual_mass>1383.69</actual_mass>
+	<input_mass>1384.08</input_mass>
+	<xcorr>2.939</xcorr>
+	<deltacn>0.001</deltacn>
+	<sp>1159.7</sp>
+	<rsp>3</rsp>
+	<ions>15/22</ions>
+	<count>3</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens] </reference>
+	<peptide>K.TALQPMVSALNIR.V</peptide>
+	<dta_file></dta_file>
+	<scan_range>1004 - 1006</scan_range>
+	<charge>2</charge>
+	<search_time>9.9</search_time>
+	<intensity>3360</intensity>
+	<actual_mass>1413.79</actual_mass>
+	<input_mass>1414.23</input_mass>
+	<xcorr>4.253</xcorr>
+	<deltacn>0.308</deltacn>
+	<sp>807.8</sp>
+	<rsp>1</rsp>
+	<ions>20/24</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|992949|dbj|BAA05950.1| OPN-b [Homo sapiens] </reference>
+	<peptide>K.YPDAVATWLNPDPSQK.Q</peptide>
+	<dta_file></dta_file>
+	<scan_range>1007 - 1007</scan_range>
+	<charge>2</charge>
+	<search_time>13.9</search_time>
+	<intensity>8024</intensity>
+	<actual_mass>1801.88</actual_mass>
+	<input_mass>1802.15</input_mass>
+	<xcorr>3.988</xcorr>
+	<deltacn>0.333</deltacn>
+	<sp>1527.5</sp>
+	<rsp>1</rsp>
+	<ions>21/30</ions>
+	<count>6</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|14270502|ref|NP_115271.1| protocadherin gamma subfamily B, 6 isoform 2 precur</reference>
+	<peptide>S.VDAESGDLLVKNR.I</peptide>
+	<dta_file></dta_file>
+	<scan_range>1009 - 1009</scan_range>
+	<charge>2</charge>
+	<search_time>10.1</search_time>
+	<intensity>3834</intensity>
+	<actual_mass>1415.75</actual_mass>
+	<input_mass>1417.33</input_mass>
+	<xcorr>2.804</xcorr>
+	<deltacn>0.105</deltacn>
+	<sp>527.3</sp>
+	<rsp>2</rsp>
+	<ions>15/24</ions>
+	<count>1</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|31377705|ref|NP_078824.2| centrosomal protein 97kDa [Homo sapiens]</reference>
+	<peptide>C.QISQESEPVIQVNSWVGIN.S</peptide>
+	<dta_file></dta_file>
+	<scan_range>1009 - 1009</scan_range>
+	<charge>3</charge>
+	<search_time>13.1</search_time>
+	<intensity>3834</intensity>
+	<actual_mass>2127.07</actual_mass>
+	<input_mass>2125.49</input_mass>
+	<xcorr>2.951</xcorr>
+	<deltacn>0.084</deltacn>
+	<sp>419.1</sp>
+	<rsp>61</rsp>
+	<ions>25/72</ions>
+	<count>2</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|992949|dbj|BAA05950.1| OPN-b [Homo sapiens] </reference>
+	<peptide>K.YPDAVATWLNPDPSQK.Q</peptide>
+	<dta_file></dta_file>
+	<scan_range>1012 - 1012</scan_range>
+	<charge>2</charge>
+	<search_time>10.6</search_time>
+	<intensity>8845</intensity>
+	<actual_mass>1801.88</actual_mass>
+	<input_mass>1801.74</input_mass>
+	<xcorr>4.523</xcorr>
+	<deltacn>0.298</deltacn>
+	<sp>1429.6</sp>
+	<rsp>1</rsp>
+	<ions>19/30</ions>
+	<count>6</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4504893|ref|NP_000884.1| kininogen 1 isoform 2 [Homo sapiens]</reference>
+	<peptide>K.YFIDFVAR.E</peptide>
+	<dta_file></dta_file>
+	<scan_range>1015 - 1015</scan_range>
+	<charge>2</charge>
+	<search_time>12.4</search_time>
+	<intensity>3540</intensity>
+	<actual_mass>1030.54</actual_mass>
+	<input_mass>1030.95</input_mass>
+	<xcorr>2.977</xcorr>
+	<deltacn>0.296</deltacn>
+	<sp>705.7</sp>
+	<rsp>3</rsp>
+	<ions>13/14</ions>
+	<count>7</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|23957690|ref|NP_705831.1| component of oligomeric golgi complex 7 [Homo sapie</reference>
+	<peptide>K.EQMILVKEDIKK.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>1016 - 1016</scan_range>
+	<charge>2</charge>
+	<search_time>10.2</search_time>
+	<intensity>7838</intensity>
+	<actual_mass>1473.83</actual_mass>
+	<input_mass>1473.73</input_mass>
+	<xcorr>3.631</xcorr>
+	<deltacn>0.068</deltacn>
+	<sp>1690.3</sp>
+	<rsp>1</rsp>
+	<ions>17/22</ions>
+	<count>2</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|23957690|ref|NP_705831.1| component of oligomeric golgi complex 7 [Homo sapie</reference>
+	<peptide>K.EQMILVKEDIKK.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>1019 - 1019</scan_range>
+	<charge>2</charge>
+	<search_time>10.2</search_time>
+	<intensity>7697</intensity>
+	<actual_mass>1473.83</actual_mass>
+	<input_mass>1472.64</input_mass>
+	<xcorr>3.476</xcorr>
+	<deltacn>0.070</deltacn>
+	<sp>1623.1</sp>
+	<rsp>1</rsp>
+	<ions>17/22</ions>
+	<count>2</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4504957|ref|NP_002285.1| lysosomal-associated membrane protein 2 isoform A pr</reference>
+	<peptide>R.IPLNDLFR.C</peptide>
+	<dta_file></dta_file>
+	<scan_range>1022 - 1022</scan_range>
+	<charge>2</charge>
+	<search_time>9.4</search_time>
+	<intensity>4190</intensity>
+	<actual_mass>987.56</actual_mass>
+	<input_mass>988.32</input_mass>
+	<xcorr>2.690</xcorr>
+	<deltacn>0.112</deltacn>
+	<sp>817.8</sp>
+	<rsp>4</rsp>
+	<ions>12/14</ions>
+	<count>4</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|525241|emb|CAA47961.1| glutaminyl-peptide cyclotransferase [Homo sapiens] </reference>
+	<peptide>R.SFSNIISTLNPTAK.R</peptide>
+	<dta_file></dta_file>
+	<scan_range>1040 - 1040</scan_range>
+	<charge>2</charge>
+	<search_time>10.1</search_time>
+	<intensity>7576</intensity>
+	<actual_mass>1492.80</actual_mass>
+	<input_mass>1493.13</input_mass>
+	<xcorr>3.115</xcorr>
+	<deltacn>0.184</deltacn>
+	<sp>1092.2</sp>
+	<rsp>1</rsp>
+	<ions>18/26</ions>
+	<count>5</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|5031863|ref|NP_005558.1| galectin 3 binding protein [Homo sapiens]</reference>
+	<peptide>R.SDLAVPSELALLK.A</peptide>
+	<dta_file></dta_file>
+	<scan_range>1052 - 1052</scan_range>
+	<charge>2</charge>
+	<search_time>8.1</search_time>
+	<intensity>3007</intensity>
+	<actual_mass>1355.78</actual_mass>
+	<input_mass>1356.87</input_mass>
+	<xcorr>3.154</xcorr>
+	<deltacn>0.233</deltacn>
+	<sp>518.7</sp>
+	<rsp>5</rsp>
+	<ions>18/24</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|5031863|ref|NP_005558.1| galectin 3 binding protein [Homo sapiens]</reference>
+	<peptide>R.SDLAVPSELALLK.A</peptide>
+	<dta_file></dta_file>
+	<scan_range>1055 - 1055</scan_range>
+	<charge>2</charge>
+	<search_time>9.7</search_time>
+	<intensity>3232</intensity>
+	<actual_mass>1355.78</actual_mass>
+	<input_mass>1355.69</input_mass>
+	<xcorr>3.163</xcorr>
+	<deltacn>0.172</deltacn>
+	<sp>616.4</sp>
+	<rsp>3</rsp>
+	<ions>18/24</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens] </reference>
+	<peptide>K.TALQPMVSALNIR.V</peptide>
+	<dta_file></dta_file>
+	<scan_range>1150 - 1150</scan_range>
+	<charge>2</charge>
+	<search_time>10.1</search_time>
+	<intensity>3992</intensity>
+	<actual_mass>1413.79</actual_mass>
+	<input_mass>1413.93</input_mass>
+	<xcorr>3.158</xcorr>
+	<deltacn>0.228</deltacn>
+	<sp>962.2</sp>
+	<rsp>1</rsp>
+	<ions>20/24</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens] </reference>
+	<peptide>K.TALQPMVSALNIR.V</peptide>
+	<dta_file></dta_file>
+	<scan_range>1168 - 1168</scan_range>
+	<charge>2</charge>
+	<search_time>10.9</search_time>
+	<intensity>4432</intensity>
+	<actual_mass>1413.79</actual_mass>
+	<input_mass>1414.14</input_mass>
+	<xcorr>3.005</xcorr>
+	<deltacn>0.241</deltacn>
+	<sp>767.6</sp>
+	<rsp>1</rsp>
+	<ions>18/24</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|5031863|ref|NP_005558.1| galectin 3 binding protein [Homo sapiens] </reference>
+	<peptide>R.STHTLDLSR.E</peptide>
+	<dta_file></dta_file>
+	<scan_range>640 - 640</scan_range>
+	<charge>2</charge>
+	<search_time>7.6</search_time>
+	<intensity>6402</intensity>
+	<actual_mass>1029.53</actual_mass>
+	<input_mass>1029.82</input_mass>
+	<xcorr>2.028</xcorr>
+	<deltacn>0.187</deltacn>
+	<sp>658.9</sp>
+	<rsp>1</rsp>
+	<ions>12/16</ions>
+	<count>3</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|169169847|ref|XP_001717563.1| PREDICTED: hypothetical protein [Homo sapiens]</reference>
+	<peptide>V.RVAGVALGAQLAQLLGADAAAAAAVQH.E</peptide>
+	<dta_file></dta_file>
+	<scan_range>645 - 645</scan_range>
+	<charge>3</charge>
+	<search_time>13.8</search_time>
+	<intensity>9377</intensity>
+	<actual_mass>2513.39</actual_mass>
+	<input_mass>2512.87</input_mass>
+	<xcorr>2.916</xcorr>
+	<deltacn>0.126</deltacn>
+	<sp>1091.7</sp>
+	<rsp>3</rsp>
+	<ions>32/104</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|119585735|gb|EAW65331.1| hCG1997940, isoform CRA_a [Homo sapiens] </reference>
+	<peptide>K.WILMEHILKLKADKAHKKLQA.D</peptide>
+	<dta_file></dta_file>
+	<scan_range>648 - 648</scan_range>
+	<charge>3</charge>
+	<search_time>13.1</search_time>
+	<intensity>5773</intensity>
+	<actual_mass>2514.47</actual_mass>
+	<input_mass>2513.43</input_mass>
+	<xcorr>4.475</xcorr>
+	<deltacn>0.098</deltacn>
+	<sp>1304.3</sp>
+	<rsp>1</rsp>
+	<ions>33/80</ions>
+	<count>1</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens]</reference>
+	<peptide>R.DSTIQVVENGESSQGR.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>702 - 704</scan_range>
+	<charge>2</charge>
+	<search_time>10.3</search_time>
+	<intensity>6846</intensity>
+	<actual_mass>1705.80</actual_mass>
+	<input_mass>1707.06</input_mass>
+	<xcorr>2.997</xcorr>
+	<deltacn>0.045</deltacn>
+	<sp>712.8</sp>
+	<rsp>2</rsp>
+	<ions>16/30</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|113472200|gb|ABI35582.1| immunoglobulin heavy chain variable region [Homo sap</reference>
+	<peptide>S.RLRSDDTAVYYCARTKLGSCSAGSCYPFDY.W</peptide>
+	<dta_file></dta_file>
+	<scan_range>727 - 727</scan_range>
+	<charge>3</charge>
+	<search_time>15.5</search_time>
+	<intensity>9902</intensity>
+	<actual_mass>3368.51</actual_mass>
+	<input_mass>3369.19</input_mass>
+	<xcorr>2.708</xcorr>
+	<deltacn>0.047</deltacn>
+	<sp>313.8</sp>
+	<rsp>131</rsp>
+	<ions>22/116</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4502951|ref|NP_000081.1| collagen type III alpha 1 preproprotein [Homo sapien</reference>
+	<peptide>E.KGEGGPPGVAGPPGGSGPAGPPGPQG.V</peptide>
+	<dta_file></dta_file>
+	<scan_range>744 - 744</scan_range>
+	<charge>2</charge>
+	<search_time>9.1</search_time>
+	<intensity>6121</intensity>
+	<actual_mass>2136.05</actual_mass>
+	<input_mass>2137.13</input_mass>
+	<xcorr>2.526</xcorr>
+	<deltacn>0.082</deltacn>
+	<sp>418.5</sp>
+	<rsp>63</rsp>
+	<ions>18/50</ions>
+	<count>3</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4837831|gb|AAD30707.1| immunoglobulin heavy chain variable region [Homo sapie</reference>
+	<peptide>T.TAYMEVRSLRSDDTAV.Y</peptide>
+	<dta_file></dta_file>
+	<scan_range>750 - 750</scan_range>
+	<charge>2</charge>
+	<search_time>9.0</search_time>
+	<intensity>3067</intensity>
+	<actual_mass>1813.87</actual_mass>
+	<input_mass>1814.23</input_mass>
+	<xcorr>2.186</xcorr>
+	<deltacn>0.019</deltacn>
+	<sp>194.5</sp>
+	<rsp>12</rsp>
+	<ions>12/30</ions>
+	<count>3</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4502027|ref|NP_000468.1| albumin preproprotein [Homo sapiens] </reference>
+	<peptide>R.FKDLGEENFK.A</peptide>
+	<dta_file></dta_file>
+	<scan_range>781 - 783</scan_range>
+	<charge>2</charge>
+	<search_time>12.7</search_time>
+	<intensity>4409</intensity>
+	<actual_mass>1226.61</actual_mass>
+	<input_mass>1227.00</input_mass>
+	<xcorr>3.439</xcorr>
+	<deltacn>0.133</deltacn>
+	<sp>967.2</sp>
+	<rsp>1</rsp>
+	<ions>16/18</ions>
+	<count>28</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4502027|ref|NP_000468.1| albumin preproprotein [Homo sapiens] </reference>
+	<peptide>R.FKDLGEENFK.A</peptide>
+	<dta_file></dta_file>
+	<scan_range>784 - 786</scan_range>
+	<charge>3</charge>
+	<search_time>9.8</search_time>
+	<intensity>6319</intensity>
+	<actual_mass>1226.61</actual_mass>
+	<input_mass>1227.63</input_mass>
+	<xcorr>4.028</xcorr>
+	<deltacn>0.203</deltacn>
+	<sp>1172.5</sp>
+	<rsp>1</rsp>
+	<ions>23/36</ions>
+	<count>28</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4502027|ref|NP_000468.1| albumin preproprotein [Homo sapiens] </reference>
+	<peptide>R.FKDLGEENFK.A</peptide>
+	<dta_file></dta_file>
+	<scan_range>787 - 787</scan_range>
+	<charge>1</charge>
+	<search_time>9.6</search_time>
+	<intensity>5945</intensity>
+	<actual_mass>1226.61</actual_mass>
+	<input_mass>1226.55</input_mass>
+	<xcorr>2.629</xcorr>
+	<deltacn>0.161</deltacn>
+	<sp>632.4</sp>
+	<rsp>1</rsp>
+	<ions>13/18</ions>
+	<count>28</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4501913|ref|NP_003803.1| ADAM metallopeptidase domain 23 preproprotein [Homo </reference>
+	<peptide>P.TECGNGYVEAGE.E</peptide>
+	<dta_file></dta_file>
+	<scan_range>789 - 789</scan_range>
+	<charge>2</charge>
+	<search_time>9.7</search_time>
+	<intensity>4600</intensity>
+	<actual_mass>1228.48</actual_mass>
+	<input_mass>1230.41</input_mass>
+	<xcorr>2.446</xcorr>
+	<deltacn>0.060</deltacn>
+	<sp>366.7</sp>
+	<rsp>174</rsp>
+	<ions>12/22</ions>
+	<count>3</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4502027|ref|NP_000468.1| albumin preproprotein [Homo sapiens] </reference>
+	<peptide>K.KYLYEIAR.R</peptide>
+	<dta_file></dta_file>
+	<scan_range>811 - 811</scan_range>
+	<charge>2</charge>
+	<search_time>7.7</search_time>
+	<intensity>4411</intensity>
+	<actual_mass>1055.59</actual_mass>
+	<input_mass>1056.85</input_mass>
+	<xcorr>2.619</xcorr>
+	<deltacn>0.128</deltacn>
+	<sp>751.6</sp>
+	<rsp>1</rsp>
+	<ions>13/14</ions>
+	<count>22</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|785996|dbj|BAA05116.1| ZFM1 protein alternatively spliced product [Homo sapie</reference>
+	<peptide>M.EQKTVIPGMPTVIPPGLTR.E</peptide>
+	<dta_file></dta_file>
+	<scan_range>819 - 819</scan_range>
+	<charge>3</charge>
+	<search_time>17.9</search_time>
+	<intensity>5847</intensity>
+	<actual_mass>2034.14</actual_mass>
+	<input_mass>2034.47</input_mass>
+	<xcorr>2.521</xcorr>
+	<deltacn>0.089</deltacn>
+	<sp>284.4</sp>
+	<rsp>174</rsp>
+	<ions>20/72</ions>
+	<count>10</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|21740225|emb|CAD39124.1| hypothetical protein [Homo sapiens]</reference>
+	<peptide>Y.DTVLKDEEPGDGLYGWTAPRQYK.N</peptide>
+	<dta_file></dta_file>
+	<scan_range>825 - 825</scan_range>
+	<charge>3</charge>
+	<search_time>13.7</search_time>
+	<intensity>9234</intensity>
+	<actual_mass>2638.28</actual_mass>
+	<input_mass>2637.67</input_mass>
+	<xcorr>3.186</xcorr>
+	<deltacn>0.033</deltacn>
+	<sp>452.4</sp>
+	<rsp>37</rsp>
+	<ions>21/88</ions>
+	<count>4</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|435700|gb|AAB27919.1| CD44R5 [Homo sapiens] </reference>
+	<peptide>R.FAGVFHVEK.N</peptide>
+	<dta_file></dta_file>
+	<scan_range>828 - 828</scan_range>
+	<charge>2</charge>
+	<search_time>7.4</search_time>
+	<intensity>4574</intensity>
+	<actual_mass>1033.55</actual_mass>
+	<input_mass>1034.88</input_mass>
+	<xcorr>2.362</xcorr>
+	<deltacn>0.083</deltacn>
+	<sp>1232.3</sp>
+	<rsp>1</rsp>
+	<ions>15/16</ions>
+	<count>30</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|435700|gb|AAB27919.1| CD44R5 [Homo sapiens] </reference>
+	<peptide>R.FAGVFHVEK.N</peptide>
+	<dta_file></dta_file>
+	<scan_range>831 - 831</scan_range>
+	<charge>2</charge>
+	<search_time>9.4</search_time>
+	<intensity>4617</intensity>
+	<actual_mass>1033.55</actual_mass>
+	<input_mass>1033.86</input_mass>
+	<xcorr>2.407</xcorr>
+	<deltacn>0.042</deltacn>
+	<sp>1256.0</sp>
+	<rsp>1</rsp>
+	<ions>15/16</ions>
+	<count>30</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|435700|gb|AAB27919.1| CD44R5 [Homo sapiens] </reference>
+	<peptide>R.FAGVFHVEK.N</peptide>
+	<dta_file></dta_file>
+	<scan_range>832 - 832</scan_range>
+	<charge>3</charge>
+	<search_time>9.1</search_time>
+	<intensity>4564</intensity>
+	<actual_mass>1033.55</actual_mass>
+	<input_mass>1034.66</input_mass>
+	<xcorr>2.565</xcorr>
+	<deltacn>0.243</deltacn>
+	<sp>953.1</sp>
+	<rsp>1</rsp>
+	<ions>20/32</ions>
+	<count>30</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4502027|ref|NP_000468.1| albumin preproprotein [Homo sapiens] </reference>
+	<peptide>K.KQTALVELVK.H</peptide>
+	<dta_file></dta_file>
+	<scan_range>840 - 840</scan_range>
+	<charge>2</charge>
+	<search_time>9.6</search_time>
+	<intensity>5369</intensity>
+	<actual_mass>1128.70</actual_mass>
+	<input_mass>1129.45</input_mass>
+	<xcorr>3.068</xcorr>
+	<deltacn>0.250</deltacn>
+	<sp>1142.9</sp>
+	<rsp>1</rsp>
+	<ions>16/18</ions>
+	<count>20</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4502027|ref|NP_000468.1| albumin preproprotein [Homo sapiens] </reference>
+	<peptide>K.KQTALVELVK.H</peptide>
+	<dta_file></dta_file>
+	<scan_range>843 - 843</scan_range>
+	<charge>2</charge>
+	<search_time>9.7</search_time>
+	<intensity>5355</intensity>
+	<actual_mass>1128.70</actual_mass>
+	<input_mass>1129.03</input_mass>
+	<xcorr>3.498</xcorr>
+	<deltacn>0.271</deltacn>
+	<sp>1150.9</sp>
+	<rsp>1</rsp>
+	<ions>16/18</ions>
+	<count>20</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4502027|ref|NP_000468.1| albumin preproprotein [Homo sapiens]</reference>
+	<peptide>K.SLHTLFGDK.L</peptide>
+	<dta_file></dta_file>
+	<scan_range>844 - 846</scan_range>
+	<charge>2</charge>
+	<search_time>9.6</search_time>
+	<intensity>5298</intensity>
+	<actual_mass>1017.54</actual_mass>
+	<input_mass>1018.16</input_mass>
+	<xcorr>2.350</xcorr>
+	<deltacn>0.197</deltacn>
+	<sp>504.1</sp>
+	<rsp>4</rsp>
+	<ions>12/16</ions>
+	<count>25</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4502027|ref|NP_000468.1| albumin preproprotein [Homo sapiens] </reference>
+	<peptide>K.SLHTLFGDK.L</peptide>
+	<dta_file></dta_file>
+	<scan_range>847 - 847</scan_range>
+	<charge>1</charge>
+	<search_time>9.5</search_time>
+	<intensity>4131</intensity>
+	<actual_mass>1017.54</actual_mass>
+	<input_mass>1017.39</input_mass>
+	<xcorr>2.211</xcorr>
+	<deltacn>0.212</deltacn>
+	<sp>330.7</sp>
+	<rsp>1</rsp>
+	<ions>11/16</ions>
+	<count>25</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|119595694|gb|EAW75288.1| collagen, type XX, alpha 1, isoform CRA_d [Homo sapi</reference>
+	<peptide>L.VQVKPMAGDSEQEVILTTKTPKATVGGLSPSKGYT.L</peptide>
+	<dta_file></dta_file>
+	<scan_range>853 - 853</scan_range>
+	<charge>3</charge>
+	<search_time>18.2</search_time>
+	<intensity>7609</intensity>
+	<actual_mass>3617.91</actual_mass>
+	<input_mass>3616.86</input_mass>
+	<xcorr>2.567</xcorr>
+	<deltacn>0.049</deltacn>
+	<sp>228.7</sp>
+	<rsp>108</rsp>
+	<ions>22/136</ions>
+	<count>3</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|28590|emb|CAA23753.1| unnamed protein product [Homo sapiens]</reference>
+	<peptide>K.KVPEVSTPTLVEVSR.N</peptide>
+	<dta_file></dta_file>
+	<scan_range>855 - 855</scan_range>
+	<charge>2</charge>
+	<search_time>12.8</search_time>
+	<intensity>5906</intensity>
+	<actual_mass>1640.92</actual_mass>
+	<input_mass>1641.26</input_mass>
+	<xcorr>4.122</xcorr>
+	<deltacn>0.058</deltacn>
+	<sp>873.4</sp>
+	<rsp>2</rsp>
+	<ions>20/28</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|28590|emb|CAA23753.1| unnamed protein product [Homo sapiens]</reference>
+	<peptide>K.KVPEVSTPTLVEVSR.N</peptide>
+	<dta_file></dta_file>
+	<scan_range>856 - 856</scan_range>
+	<charge>3</charge>
+	<search_time>13.1</search_time>
+	<intensity>9167</intensity>
+	<actual_mass>1640.92</actual_mass>
+	<input_mass>1641.10</input_mass>
+	<xcorr>4.335</xcorr>
+	<deltacn>0.244</deltacn>
+	<sp>2067.1</sp>
+	<rsp>2</rsp>
+	<ions>29/56</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|28590|emb|CAA23753.1| unnamed protein product [Homo sapiens]</reference>
+	<peptide>K.KVPEVSTPTLVEVSR.N</peptide>
+	<dta_file></dta_file>
+	<scan_range>858 - 858</scan_range>
+	<charge>2</charge>
+	<search_time>10.2</search_time>
+	<intensity>5344</intensity>
+	<actual_mass>1640.92</actual_mass>
+	<input_mass>1640.58</input_mass>
+	<xcorr>3.789</xcorr>
+	<deltacn>0.009</deltacn>
+	<sp>778.2</sp>
+	<rsp>2</rsp>
+	<ions>20/28</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|28590|emb|CAA23753.1| unnamed protein product [Homo sapiens]</reference>
+	<peptide>K.KVPEVSTPTLVEVSR.N</peptide>
+	<dta_file></dta_file>
+	<scan_range>859 - 859</scan_range>
+	<charge>3</charge>
+	<search_time>17.6</search_time>
+	<intensity>7753</intensity>
+	<actual_mass>1640.92</actual_mass>
+	<input_mass>1640.49</input_mass>
+	<xcorr>4.311</xcorr>
+	<deltacn>0.275</deltacn>
+	<sp>1192.3</sp>
+	<rsp>3</rsp>
+	<ions>25/56</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|16554150|dbj|BAB71670.1| unnamed protein product [Homo sapiens] </reference>
+	<peptide>V.ALLSLYLLFGY.G</peptide>
+	<dta_file></dta_file>
+	<scan_range>904 - 904</scan_range>
+	<charge>2</charge>
+	<search_time>8.2</search_time>
+	<intensity>6087</intensity>
+	<actual_mass>1272.72</actual_mass>
+	<input_mass>1272.96</input_mass>
+	<xcorr>2.483</xcorr>
+	<deltacn>0.186</deltacn>
+	<sp>715.7</sp>
+	<rsp>1</rsp>
+	<ions>13/20</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|10436374|dbj|BAB14819.1| unnamed protein product [Homo sapiens] </reference>
+	<peptide>L.LAQELPQQLTSPGYPEPYGK.G</peptide>
+	<dta_file></dta_file>
+	<scan_range>912 - 912</scan_range>
+	<charge>2</charge>
+	<search_time>9.4</search_time>
+	<intensity>6389</intensity>
+	<actual_mass>2216.12</actual_mass>
+	<input_mass>2217.42</input_mass>
+	<xcorr>3.577</xcorr>
+	<deltacn>0.313</deltacn>
+	<sp>780.6</sp>
+	<rsp>1</rsp>
+	<ions>20/38</ions>
+	<count>5</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|10436374|dbj|BAB14819.1| unnamed protein product [Homo sapiens] </reference>
+	<peptide>L.LAQELPQQLTSPGYPEPYGK.G</peptide>
+	<dta_file></dta_file>
+	<scan_range>915 - 915</scan_range>
+	<charge>2</charge>
+	<search_time>11.0</search_time>
+	<intensity>6322</intensity>
+	<actual_mass>2216.12</actual_mass>
+	<input_mass>2216.55</input_mass>
+	<xcorr>3.821</xcorr>
+	<deltacn>0.381</deltacn>
+	<sp>625.2</sp>
+	<rsp>1</rsp>
+	<ions>18/38</ions>
+	<count>5</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|169166551|ref|XP_001715861.1| PREDICTED: similar to homeodomain protein Sax2 </reference>
+	<peptide>A.QQPGKCLVCPSSGNSERGTNT.S</peptide>
+	<dta_file></dta_file>
+	<scan_range>925 - 927</scan_range>
+	<charge>2</charge>
+	<search_time>9.2</search_time>
+	<intensity>6061</intensity>
+	<actual_mass>2162.99</actual_mass>
+	<input_mass>2163.46</input_mass>
+	<xcorr>2.845</xcorr>
+	<deltacn>0.128</deltacn>
+	<sp>261.0</sp>
+	<rsp>125</rsp>
+	<ions>15/40</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|992949|dbj|BAA05950.1| OPN-b [Homo sapiens] </reference>
+	<peptide>K.AIPVAQDLNAPSDWDSR.G</peptide>
+	<dta_file></dta_file>
+	<scan_range>930 - 930</scan_range>
+	<charge>2</charge>
+	<search_time>8.7</search_time>
+	<intensity>4973</intensity>
+	<actual_mass>1854.90</actual_mass>
+	<input_mass>1854.81</input_mass>
+	<xcorr>4.243</xcorr>
+	<deltacn>0.407</deltacn>
+	<sp>903.2</sp>
+	<rsp>1</rsp>
+	<ions>22/32</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|435700|gb|AAB27919.1| CD44R5 [Homo sapiens] </reference>
+	<peptide>R.YGFIEGHVVIPR.I</peptide>
+	<dta_file></dta_file>
+	<scan_range>934 - 936</scan_range>
+	<charge>2</charge>
+	<search_time>8.2</search_time>
+	<intensity>7040</intensity>
+	<actual_mass>1386.75</actual_mass>
+	<input_mass>1386.95</input_mass>
+	<xcorr>4.461</xcorr>
+	<deltacn>0.353</deltacn>
+	<sp>2001.0</sp>
+	<rsp>1</rsp>
+	<ions>20/22</ions>
+	<count>28</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|435700|gb|AAB27919.1| CD44R5 [Homo sapiens]</reference>
+	<peptide>I.GFETCRYGFIEGHVVIPR.I</peptide>
+	<dta_file></dta_file>
+	<scan_range>934 - 936</scan_range>
+	<charge>3</charge>
+	<search_time>12.3</search_time>
+	<intensity>7038</intensity>
+	<actual_mass>2080.04</actual_mass>
+	<input_mass>2079.91</input_mass>
+	<xcorr>2.808</xcorr>
+	<deltacn>0.251</deltacn>
+	<sp>604.2</sp>
+	<rsp>12</rsp>
+	<ions>22/68</ions>
+	<count>28</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|435700|gb|AAB27919.1| CD44R5 [Homo sapiens] </reference>
+	<peptide>R.YGFIEGHVVIPR.I</peptide>
+	<dta_file></dta_file>
+	<scan_range>937 - 937</scan_range>
+	<charge>3</charge>
+	<search_time>12.5</search_time>
+	<intensity>5539</intensity>
+	<actual_mass>1386.75</actual_mass>
+	<input_mass>1387.39</input_mass>
+	<xcorr>3.887</xcorr>
+	<deltacn>0.345</deltacn>
+	<sp>807.3</sp>
+	<rsp>1</rsp>
+	<ions>21/44</ions>
+	<count>28</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|27262661|ref|NP_000748.3| colony stimulating factor 1 isoform a precursor [Ho</reference>
+	<peptide>R.SHSSGSVLPLGELEGR.R</peptide>
+	<dta_file></dta_file>
+	<scan_range>939 - 939</scan_range>
+	<charge>2</charge>
+	<search_time>10.2</search_time>
+	<intensity>5784</intensity>
+	<actual_mass>1624.83</actual_mass>
+	<input_mass>1626.21</input_mass>
+	<xcorr>4.409</xcorr>
+	<deltacn>0.404</deltacn>
+	<sp>985.0</sp>
+	<rsp>1</rsp>
+	<ions>21/30</ions>
+	<count>4</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|435700|gb|AAB27919.1| CD44R5 [Homo sapiens] </reference>
+	<peptide>R.YGFIEGHVVIPR.I</peptide>
+	<dta_file></dta_file>
+	<scan_range>940 - 940</scan_range>
+	<charge>3</charge>
+	<search_time>12.4</search_time>
+	<intensity>5765</intensity>
+	<actual_mass>1386.75</actual_mass>
+	<input_mass>1388.04</input_mass>
+	<xcorr>3.325</xcorr>
+	<deltacn>0.234</deltacn>
+	<sp>843.0</sp>
+	<rsp>1</rsp>
+	<ions>21/44</ions>
+	<count>28</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|27262661|ref|NP_000748.3| colony stimulating factor 1 isoform a precursor [Ho</reference>
+	<peptide>R.SHSSGSVLPLGELEGR.R</peptide>
+	<dta_file></dta_file>
+	<scan_range>942 - 942</scan_range>
+	<charge>2</charge>
+	<search_time>11.9</search_time>
+	<intensity>5826</intensity>
+	<actual_mass>1624.83</actual_mass>
+	<input_mass>1625.25</input_mass>
+	<xcorr>4.083</xcorr>
+	<deltacn>0.362</deltacn>
+	<sp>1042.8</sp>
+	<rsp>1</rsp>
+	<ions>21/30</ions>
+	<count>4</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|37183160|gb|AAQ89380.1| HRPE773 [Homo sapiens] </reference>
+	<peptide>K.LGALGGNTQEVTLQPGEYITK.V</peptide>
+	<dta_file></dta_file>
+	<scan_range>943 - 945</scan_range>
+	<charge>2</charge>
+	<search_time>13.2</search_time>
+	<intensity>5950</intensity>
+	<actual_mass>2189.14</actual_mass>
+	<input_mass>2190.02</input_mass>
+	<xcorr>4.562</xcorr>
+	<deltacn>0.399</deltacn>
+	<sp>834.9</sp>
+	<rsp>1</rsp>
+	<ions>22/40</ions>
+	<count>2</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|51094573|gb|EAL23825.1| procollagen C-endopeptidase enhancer [Homo sapiens] </reference>
+	<peptide>K.GESGYVASEGFPNLYPPNK.E</peptide>
+	<dta_file></dta_file>
+	<scan_range>949 - 949</scan_range>
+	<charge>2</charge>
+	<search_time>10.7</search_time>
+	<intensity>6426</intensity>
+	<actual_mass>2025.96</actual_mass>
+	<input_mass>2027.27</input_mass>
+	<xcorr>3.165</xcorr>
+	<deltacn>0.338</deltacn>
+	<sp>393.7</sp>
+	<rsp>1</rsp>
+	<ions>14/36</ions>
+	<count>2</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|7959225|dbj|BAA96006.1| KIAA1482 protein [Homo sapiens]</reference>
+	<peptide>C.HNGEKSKKPSKIKSLFKKK.S</peptide>
+	<dta_file></dta_file>
+	<scan_range>954 - 954</scan_range>
+	<charge>2</charge>
+	<search_time>9.3</search_time>
+	<intensity>8789</intensity>
+	<actual_mass>2212.33</actual_mass>
+	<input_mass>2211.85</input_mass>
+	<xcorr>3.406</xcorr>
+	<deltacn>0.069</deltacn>
+	<sp>629.7</sp>
+	<rsp>20</rsp>
+	<ions>16/36</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|16877456|gb|AAH16974.1| B3GALNT2 protein [Homo sapiens]</reference>
+	<peptide>S.FRVLYPIVITSLGVFYDANDVGFQRNITV.K</peptide>
+	<dta_file></dta_file>
+	<scan_range>954 - 954</scan_range>
+	<charge>3</charge>
+	<search_time>15.3</search_time>
+	<intensity>8789</intensity>
+	<actual_mass>3316.77</actual_mass>
+	<input_mass>3317.27</input_mass>
+	<xcorr>2.934</xcorr>
+	<deltacn>0.042</deltacn>
+	<sp>306.7</sp>
+	<rsp>190</rsp>
+	<ions>24/112</ions>
+	<count>4</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|47846663|emb|CAE45496.1| immunoglobulin heavy chain variable region [Homo sap</reference>
+	<peptide>D.TAVYYCGRALSYGNNPG.V</peptide>
+	<dta_file></dta_file>
+	<scan_range>957 - 957</scan_range>
+	<charge>2</charge>
+	<search_time>10.6</search_time>
+	<intensity>7600</intensity>
+	<actual_mass>1805.83</actual_mass>
+	<input_mass>1807.33</input_mass>
+	<xcorr>2.631</xcorr>
+	<deltacn>0.113</deltacn>
+	<sp>534.7</sp>
+	<rsp>15</rsp>
+	<ions>15/32</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|21426829|ref|NP_658986.1| prokineticin receptor 2 [Homo sapiens]</reference>
+	<peptide>A.MSNSMINTVCFVTVKNNTMKYFKKMMLL.H</peptide>
+	<dta_file></dta_file>
+	<scan_range>958 - 958</scan_range>
+	<charge>3</charge>
+	<search_time>22.5</search_time>
+	<intensity>8140</intensity>
+	<actual_mass>3316.65</actual_mass>
+	<input_mass>3318.39</input_mass>
+	<xcorr>2.845</xcorr>
+	<deltacn>0.135</deltacn>
+	<sp>286.8</sp>
+	<rsp>62</rsp>
+	<ions>19/108</ions>
+	<count>1</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|70798293|gb|AAZ08859.1| immunoglobulin heavy chain variable region [Homo sapi</reference>
+	<peptide>N.SLRAEDTAFYYCAKGRHRNDYNFD.Y</peptide>
+	<dta_file></dta_file>
+	<scan_range>960 - 960</scan_range>
+	<charge>3</charge>
+	<search_time>16.4</search_time>
+	<intensity>7780</intensity>
+	<actual_mass>2912.32</actual_mass>
+	<input_mass>2911.64</input_mass>
+	<xcorr>2.938</xcorr>
+	<deltacn>0.012</deltacn>
+	<sp>448.4</sp>
+	<rsp>16</rsp>
+	<ions>23/92</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|1809240|gb|AAB41649.1| gp330 precursor [Homo sapiens] </reference>
+	<peptide>R.FDYIETVTYDGIQR.K</peptide>
+	<dta_file></dta_file>
+	<scan_range>966 - 966</scan_range>
+	<charge>2</charge>
+	<search_time>8.4</search_time>
+	<intensity>8197</intensity>
+	<actual_mass>1719.82</actual_mass>
+	<input_mass>1720.29</input_mass>
+	<xcorr>4.021</xcorr>
+	<deltacn>0.435</deltacn>
+	<sp>1477.9</sp>
+	<rsp>1</rsp>
+	<ions>19/26</ions>
+	<count>5</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|1809240|gb|AAB41649.1| gp330 precursor [Homo sapiens] </reference>
+	<peptide>R.FDYIETVTYDGIQR.K</peptide>
+	<dta_file></dta_file>
+	<scan_range>969 - 969</scan_range>
+	<charge>2</charge>
+	<search_time>10.5</search_time>
+	<intensity>8858</intensity>
+	<actual_mass>1719.82</actual_mass>
+	<input_mass>1720.87</input_mass>
+	<xcorr>4.025</xcorr>
+	<deltacn>0.400</deltacn>
+	<sp>1436.1</sp>
+	<rsp>1</rsp>
+	<ions>18/26</ions>
+	<count>5</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4501881|ref|NP_001091.1| actin, alpha 1, skeletal muscle [Homo sapiens] </reference>
+	<peptide>K.SYELPDGQVITIGNER.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>972 - 972</scan_range>
+	<charge>2</charge>
+	<search_time>10.4</search_time>
+	<intensity>4706</intensity>
+	<actual_mass>1790.89</actual_mass>
+	<input_mass>1791.39</input_mass>
+	<xcorr>3.980</xcorr>
+	<deltacn>0.225</deltacn>
+	<sp>1171.2</sp>
+	<rsp>1</rsp>
+	<ions>22/30</ions>
+	<count>39</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4504893|ref|NP_000884.1| kininogen 1 isoform 2 [Homo sapiens] </reference>
+	<peptide>R.DIPTNSPELEETLTHTITK.L</peptide>
+	<dta_file></dta_file>
+	<scan_range>973 - 975</scan_range>
+	<charge>2</charge>
+	<search_time>11.1</search_time>
+	<intensity>5691</intensity>
+	<actual_mass>2139.08</actual_mass>
+	<input_mass>2139.48</input_mass>
+	<xcorr>4.286</xcorr>
+	<deltacn>0.449</deltacn>
+	<sp>585.9</sp>
+	<rsp>1</rsp>
+	<ions>18/36</ions>
+	<count>7</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|11125766|ref|NP_001671.2| FXYD domain-containing ion transport regulator 2 is</reference>
+	<peptide>K.GDVDPFYYDYETVR.N</peptide>
+	<dta_file></dta_file>
+	<scan_range>982 - 982</scan_range>
+	<charge>2</charge>
+	<search_time>10.5</search_time>
+	<intensity>7104</intensity>
+	<actual_mass>1738.76</actual_mass>
+	<input_mass>1738.89</input_mass>
+	<xcorr>4.594</xcorr>
+	<deltacn>0.382</deltacn>
+	<sp>1353.5</sp>
+	<rsp>1</rsp>
+	<ions>19/26</ions>
+	<count>1</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|126590|sp|P10253.2|LYAG_HUMAN RecName: Full=Lysosomal alpha-glucosidase; AltN</reference>
+	<peptide>R.AGYIIPLQGPGLTTTESR.Q</peptide>
+	<dta_file></dta_file>
+	<scan_range>985 - 985</scan_range>
+	<charge>2</charge>
+	<search_time>10.5</search_time>
+	<intensity>4401</intensity>
+	<actual_mass>1874.00</actual_mass>
+	<input_mass>1873.98</input_mass>
+	<xcorr>3.577</xcorr>
+	<deltacn>0.360</deltacn>
+	<sp>624.1</sp>
+	<rsp>1</rsp>
+	<ions>20/34</ions>
+	<count>5</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|992949|dbj|BAA05950.1| OPN-b [Homo sapiens] </reference>
+	<peptide>K.YPDAVATWLNPDPSQK.Q</peptide>
+	<dta_file></dta_file>
+	<scan_range>988 - 990</scan_range>
+	<charge>2</charge>
+	<search_time>9.0</search_time>
+	<intensity>9153</intensity>
+	<actual_mass>1801.88</actual_mass>
+	<input_mass>1803.36</input_mass>
+	<xcorr>4.402</xcorr>
+	<deltacn>0.350</deltacn>
+	<sp>1636.9</sp>
+	<rsp>1</rsp>
+	<ions>21/30</ions>
+	<count>6</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|119621187|gb|EAX00782.1| hCG22389, isoform CRA_b [Homo sapiens]</reference>
+	<peptide>K.GNTILRILKSKRLAPDLPEDLYCLIKQ.A</peptide>
+	<dta_file></dta_file>
+	<scan_range>991 - 993</scan_range>
+	<charge>3</charge>
+	<search_time>21.9</search_time>
+	<intensity>4919</intensity>
+	<actual_mass>3110.78</actual_mass>
+	<input_mass>3112.65</input_mass>
+	<xcorr>3.130</xcorr>
+	<deltacn>0.157</deltacn>
+	<sp>192.5</sp>
+	<rsp>19</rsp>
+	<ions>21/104</ions>
+	<count>1</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|11125766|ref|NP_001671.2| FXYD domain-containing ion transport regulator 2 is</reference>
+	<peptide>K.GDVDPFYYDYETVR.N</peptide>
+	<dta_file></dta_file>
+	<scan_range>994 - 994</scan_range>
+	<charge>2</charge>
+	<search_time>10.5</search_time>
+	<intensity>6977</intensity>
+	<actual_mass>1738.76</actual_mass>
+	<input_mass>1739.21</input_mass>
+	<xcorr>3.442</xcorr>
+	<deltacn>0.294</deltacn>
+	<sp>816.9</sp>
+	<rsp>1</rsp>
+	<ions>15/26</ions>
+	<count>1</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|6682961|dbj|BAA88956.1| E-cadherin [Homo sapiens] </reference>
+	<peptide>R.DTANWLEINPDTGAISTR.A</peptide>
+	<dta_file></dta_file>
+	<scan_range>1002 - 1002</scan_range>
+	<charge>2</charge>
+	<search_time>10.6</search_time>
+	<intensity>6581</intensity>
+	<actual_mass>1973.96</actual_mass>
+	<input_mass>1974.54</input_mass>
+	<xcorr>4.071</xcorr>
+	<deltacn>0.343</deltacn>
+	<sp>872.4</sp>
+	<rsp>1</rsp>
+	<ions>19/34</ions>
+	<count>6</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|7959760|gb|AAF71052.1|AF116721_29 PRO1257 [Homo sapiens]</reference>
+	<peptide>I.SYIDSCICLKYT.A</peptide>
+	<dta_file></dta_file>
+	<scan_range>1003 - 1003</scan_range>
+	<charge>2</charge>
+	<search_time>8.2</search_time>
+	<intensity>7837</intensity>
+	<actual_mass>1408.65</actual_mass>
+	<input_mass>1409.42</input_mass>
+	<xcorr>2.404</xcorr>
+	<deltacn>0.131</deltacn>
+	<sp>527.9</sp>
+	<rsp>28</rsp>
+	<ions>12/22</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|112697572|emb|CAL04740.1| immunoglobulin heavy chain variable region [Homo sa</reference>
+	<peptide>R.QAPGKGLEWVSTISAAGGDTCYADSVK.G</peptide>
+	<dta_file></dta_file>
+	<scan_range>1005 - 1005</scan_range>
+	<charge>3</charge>
+	<search_time>21.0</search_time>
+	<intensity>8736</intensity>
+	<actual_mass>2711.30</actual_mass>
+	<input_mass>2710.63</input_mass>
+	<xcorr>3.331</xcorr>
+	<deltacn>0.111</deltacn>
+	<sp>494.4</sp>
+	<rsp>13</rsp>
+	<ions>22/104</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|190466|gb|AAA36501.1| protein Z</reference>
+	<peptide>R.APDLQDLPWQVK.L</peptide>
+	<dta_file></dta_file>
+	<scan_range>1008 - 1008</scan_range>
+	<charge>2</charge>
+	<search_time>9.8</search_time>
+	<intensity>6541</intensity>
+	<actual_mass>1409.74</actual_mass>
+	<input_mass>1410.27</input_mass>
+	<xcorr>3.548</xcorr>
+	<deltacn>0.151</deltacn>
+	<sp>716.2</sp>
+	<rsp>16</rsp>
+	<ions>14/22</ions>
+	<count>2</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|52545650|emb|CAH56364.1| hypothetical protein [Homo sapiens]</reference>
+	<peptide>N.DVSMILEAHVGIGVIGKEG.R</peptide>
+	<dta_file></dta_file>
+	<scan_range>1009 - 1011</scan_range>
+	<charge>2</charge>
+	<search_time>8.8</search_time>
+	<intensity>3334</intensity>
+	<actual_mass>1924.02</actual_mass>
+	<input_mass>1922.10</input_mass>
+	<xcorr>2.254</xcorr>
+	<deltacn>0.175</deltacn>
+	<sp>212.6</sp>
+	<rsp>3</rsp>
+	<ions>14/36</ions>
+	<count>6</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|73858568|ref|NP_000053.2| complement component 1 inhibitor precursor [Homo sa</reference>
+	<peptide>K.FQPTLLTLPR.I</peptide>
+	<dta_file></dta_file>
+	<scan_range>1014 - 1014</scan_range>
+	<charge>2</charge>
+	<search_time>8.1</search_time>
+	<intensity>3274</intensity>
+	<actual_mass>1185.70</actual_mass>
+	<input_mass>1185.90</input_mass>
+	<xcorr>2.667</xcorr>
+	<deltacn>0.161</deltacn>
+	<sp>536.8</sp>
+	<rsp>2</rsp>
+	<ions>13/18</ions>
+	<count>9</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4887601|dbj|BAA77810.1| chloride channel protein [Homo sapiens]</reference>
+	<peptide>G.KAYGSVMILVTSGDDKLL.G</peptide>
+	<dta_file></dta_file>
+	<scan_range>1020 - 1020</scan_range>
+	<charge>2</charge>
+	<search_time>10.7</search_time>
+	<intensity>7225</intensity>
+	<actual_mass>1910.03</actual_mass>
+	<input_mass>1911.97</input_mass>
+	<xcorr>2.338</xcorr>
+	<deltacn>0.155</deltacn>
+	<sp>437.0</sp>
+	<rsp>19</rsp>
+	<ions>15/34</ions>
+	<count>2</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|32171249|ref|NP_000945.3| prostaglandin H2 D-isomerase [Homo sapiens] </reference>
+	<peptide>K.AQGFTEDTIVFLPQTDK.C</peptide>
+	<dta_file></dta_file>
+	<scan_range>1023 - 1023</scan_range>
+	<charge>2</charge>
+	<search_time>10.7</search_time>
+	<intensity>6903</intensity>
+	<actual_mass>1909.95</actual_mass>
+	<input_mass>1909.88</input_mass>
+	<xcorr>4.368</xcorr>
+	<deltacn>0.319</deltacn>
+	<sp>1192.5</sp>
+	<rsp>1</rsp>
+	<ions>19/32</ions>
+	<count>1</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|32171249|ref|NP_000945.3| prostaglandin H2 D-isomerase [Homo sapiens]</reference>
+	<peptide>K.EKFTAFCKAQGFTEDTIVFLPQTDK.C</peptide>
+	<dta_file></dta_file>
+	<scan_range>1023 - 1023</scan_range>
+	<charge>3</charge>
+	<search_time>17.8</search_time>
+	<intensity>6903</intensity>
+	<actual_mass>2864.42</actual_mass>
+	<input_mass>2864.32</input_mass>
+	<xcorr>2.987</xcorr>
+	<deltacn>0.031</deltacn>
+	<sp>405.7</sp>
+	<rsp>4</rsp>
+	<ions>22/96</ions>
+	<count>1</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|21751998|dbj|BAC04092.1| unnamed protein product [Homo sapiens]</reference>
+	<peptide>P.QKLMINYEKDQKSA.E</peptide>
+	<dta_file></dta_file>
+	<scan_range>1030 - 1030</scan_range>
+	<charge>2</charge>
+	<search_time>13.0</search_time>
+	<intensity>7547</intensity>
+	<actual_mass>1695.87</actual_mass>
+	<input_mass>1697.28</input_mass>
+	<xcorr>3.130</xcorr>
+	<deltacn>0.194</deltacn>
+	<sp>732.6</sp>
+	<rsp>4</rsp>
+	<ions>14/26</ions>
+	<count>6</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|15042969|ref|NP_065716.1| transmembrane protein 27 [Homo sapiens] </reference>
+	<peptide>F.FLNDQTLEFLK.I</peptide>
+	<dta_file></dta_file>
+	<scan_range>1041 - 1041</scan_range>
+	<charge>2</charge>
+	<search_time>8.0</search_time>
+	<intensity>6310</intensity>
+	<actual_mass>1367.72</actual_mass>
+	<input_mass>1368.24</input_mass>
+	<xcorr>3.651</xcorr>
+	<deltacn>0.270</deltacn>
+	<sp>1216.9</sp>
+	<rsp>1</rsp>
+	<ions>17/20</ions>
+	<count>1</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|5031863|ref|NP_005558.1| galectin 3 binding protein [Homo sapiens] </reference>
+	<peptide>R.ELSEALGQIFDSQR.G</peptide>
+	<dta_file></dta_file>
+	<scan_range>1045 - 1047</scan_range>
+	<charge>2</charge>
+	<search_time>10.2</search_time>
+	<intensity>6035</intensity>
+	<actual_mass>1592.79</actual_mass>
+	<input_mass>1592.96</input_mass>
+	<xcorr>4.225</xcorr>
+	<deltacn>0.421</deltacn>
+	<sp>1150.3</sp>
+	<rsp>1</rsp>
+	<ions>19/26</ions>
+	<count>3</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|5031863|ref|NP_005558.1| galectin 3 binding protein [Homo sapiens]</reference>
+	<peptide>R.SDLAVPSELALLK.A</peptide>
+	<dta_file></dta_file>
+	<scan_range>1048 - 1050</scan_range>
+	<charge>2</charge>
+	<search_time>8.0</search_time>
+	<intensity>2840</intensity>
+	<actual_mass>1355.78</actual_mass>
+	<input_mass>1356.37</input_mass>
+	<xcorr>2.731</xcorr>
+	<deltacn>0.211</deltacn>
+	<sp>511.2</sp>
+	<rsp>14</rsp>
+	<ions>18/24</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|12054072|emb|CAC20454.1| immunoglobulin heavy chain constant region gamma 1 [</reference>
+	<peptide>K.TTPPVLDSDGSFFLYSK.L</peptide>
+	<dta_file></dta_file>
+	<scan_range>1053 - 1053</scan_range>
+	<charge>2</charge>
+	<search_time>10.5</search_time>
+	<intensity>2491</intensity>
+	<actual_mass>1873.92</actual_mass>
+	<input_mass>1873.81</input_mass>
+	<xcorr>3.256</xcorr>
+	<deltacn>0.377</deltacn>
+	<sp>420.4</sp>
+	<rsp>1</rsp>
+	<ions>23/32</ions>
+	<count>99</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|25952087|ref|NP_002225.2| potassium voltage-gated channel, shaker-related sub</reference>
+	<peptide>A.IVSVLVILISIITFCLE.T</peptide>
+	<dta_file></dta_file>
+	<scan_range>1054 - 1054</scan_range>
+	<charge>2</charge>
+	<search_time>10.5</search_time>
+	<intensity>2360</intensity>
+	<actual_mass>1875.13</actual_mass>
+	<input_mass>1876.96</input_mass>
+	<xcorr>2.038</xcorr>
+	<deltacn>0.035</deltacn>
+	<sp>361.7</sp>
+	<rsp>1</rsp>
+	<ions>17/32</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|12054072|emb|CAC20454.1| immunoglobulin heavy chain constant region gamma 1 [</reference>
+	<peptide>K.TTPPVLDSDGSFFLYSK.L</peptide>
+	<dta_file></dta_file>
+	<scan_range>1056 - 1056</scan_range>
+	<charge>2</charge>
+	<search_time>10.7</search_time>
+	<intensity>2291</intensity>
+	<actual_mass>1873.92</actual_mass>
+	<input_mass>1874.09</input_mass>
+	<xcorr>2.375</xcorr>
+	<deltacn>0.059</deltacn>
+	<sp>204.0</sp>
+	<rsp>3</rsp>
+	<ions>18/32</ions>
+	<count>99</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|15866734|emb|CAC86914.1| fibronectin [Homo sapiens] </reference>
+	<peptide>R.GATYNIIVEALK.D</peptide>
+	<dta_file></dta_file>
+	<scan_range>1065 - 1065</scan_range>
+	<charge>2</charge>
+	<search_time>9.9</search_time>
+	<intensity>7519</intensity>
+	<actual_mass>1291.73</actual_mass>
+	<input_mass>1292.28</input_mass>
+	<xcorr>3.532</xcorr>
+	<deltacn>0.232</deltacn>
+	<sp>890.8</sp>
+	<rsp>1</rsp>
+	<ions>15/22</ions>
+	<count>43</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|21669337|dbj|BAC01693.1| immunoglobulin kappa light chain VLJ region [Homo sa</reference>
+	<peptide>R.TVAAPSVFIFPPSDEQLK.S</peptide>
+	<dta_file></dta_file>
+	<scan_range>1076 - 1076</scan_range>
+	<charge>2</charge>
+	<search_time>10.8</search_time>
+	<intensity>5299</intensity>
+	<actual_mass>1946.03</actual_mass>
+	<input_mass>1946.05</input_mass>
+	<xcorr>3.316</xcorr>
+	<deltacn>0.115</deltacn>
+	<sp>345.7</sp>
+	<rsp>1</rsp>
+	<ions>14/34</ions>
+	<count>99</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|74760581|sp|Q8WWF8.2|CAPSL_HUMAN RecName: Full=Calcyphosin-like protein </reference>
+	<peptide>G.NGTIDFNEFLLTLR.P</peptide>
+	<dta_file></dta_file>
+	<scan_range>1092 - 1092</scan_range>
+	<charge>2</charge>
+	<search_time>8.7</search_time>
+	<intensity>8612</intensity>
+	<actual_mass>1652.86</actual_mass>
+	<input_mass>1652.44</input_mass>
+	<xcorr>2.862</xcorr>
+	<deltacn>0.137</deltacn>
+	<sp>920.3</sp>
+	<rsp>1</rsp>
+	<ions>15/26</ions>
+	<count>2</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4505183|ref|NP_002405.1| CD99 antigen isoform a precursor [Homo sapiens]</reference>
+	<peptide>R.KEGEEADAPGVIPGIVGAVV.V</peptide>
+	<dta_file></dta_file>
+	<scan_range>1105 - 1105</scan_range>
+	<charge>2</charge>
+	<search_time>10.7</search_time>
+	<intensity>5993</intensity>
+	<actual_mass>1907.01</actual_mass>
+	<input_mass>1906.38</input_mass>
+	<xcorr>2.014</xcorr>
+	<deltacn>0.076</deltacn>
+	<sp>280.5</sp>
+	<rsp>29</rsp>
+	<ions>13/38</ions>
+	<count>4</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|11935049|gb|AAG41947.1|AF304164_1 keratin 1 [Homo sapiens] </reference>
+	<peptide>R.SLDLDSIIAEVK.A</peptide>
+	<dta_file></dta_file>
+	<scan_range>1124 - 1124</scan_range>
+	<charge>2</charge>
+	<search_time>8.1</search_time>
+	<intensity>7280</intensity>
+	<actual_mass>1302.72</actual_mass>
+	<input_mass>1303.08</input_mass>
+	<xcorr>4.228</xcorr>
+	<deltacn>0.002</deltacn>
+	<sp>1607.9</sp>
+	<rsp>1</rsp>
+	<ions>18/22</ions>
+	<count>3</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|42740907|ref|NP_976084.1| clusterin isoform 2 [Homo sapiens]</reference>
+	<peptide>R.ASSIIDELFQDR.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>1135 - 1135</scan_range>
+	<charge>2</charge>
+	<search_time>7.9</search_time>
+	<intensity>6658</intensity>
+	<actual_mass>1393.70</actual_mass>
+	<input_mass>1393.96</input_mass>
+	<xcorr>3.174</xcorr>
+	<deltacn>0.271</deltacn>
+	<sp>685.2</sp>
+	<rsp>2</rsp>
+	<ions>14/22</ions>
+	<count>6</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|42740907|ref|NP_976084.1| clusterin isoform 2 [Homo sapiens] </reference>
+	<peptide>R.ASSIIDELFQDR.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>1138 - 1138</scan_range>
+	<charge>2</charge>
+	<search_time>12.8</search_time>
+	<intensity>7496</intensity>
+	<actual_mass>1393.70</actual_mass>
+	<input_mass>1395.22</input_mass>
+	<xcorr>2.797</xcorr>
+	<deltacn>0.280</deltacn>
+	<sp>909.7</sp>
+	<rsp>1</rsp>
+	<ions>16/22</ions>
+	<count>6</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|22761565|dbj|BAC11635.1| unnamed protein product [Homo sapiens] </reference>
+	<peptide>K.DSYETSQLDDQSAETHSHK.Q</peptide>
+	<dta_file></dta_file>
+	<scan_range>623 - 623</scan_range>
+	<charge>2</charge>
+	<search_time>10.9</search_time>
+	<intensity>9303</intensity>
+	<actual_mass>2177.92</actual_mass>
+	<input_mass>2178.20</input_mass>
+	<xcorr>4.337</xcorr>
+	<deltacn>0.415</deltacn>
+	<sp>843.4</sp>
+	<rsp>1</rsp>
+	<ions>18/36</ions>
+	<count>4</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|22761565|dbj|BAC11635.1| unnamed protein product [Homo sapiens] </reference>
+	<peptide>K.DSYETSQLDDQSAETHSHK.Q</peptide>
+	<dta_file></dta_file>
+	<scan_range>627 - 627</scan_range>
+	<charge>2</charge>
+	<search_time>11.1</search_time>
+	<intensity>8949</intensity>
+	<actual_mass>2177.92</actual_mass>
+	<input_mass>2178.70</input_mass>
+	<xcorr>4.358</xcorr>
+	<deltacn>0.349</deltacn>
+	<sp>903.5</sp>
+	<rsp>1</rsp>
+	<ions>17/36</ions>
+	<count>4</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|37537516|ref|NP_006515.1| zinc finger protein 138 [Homo sapiens]</reference>
+	<peptide>S.HLTRHKIIHTEEKPYKCEQCGKVFKQS.P</peptide>
+	<dta_file></dta_file>
+	<scan_range>627 - 627</scan_range>
+	<charge>3</charge>
+	<search_time>17.6</search_time>
+	<intensity>8949</intensity>
+	<actual_mass>3267.69</actual_mass>
+	<input_mass>3267.54</input_mass>
+	<xcorr>3.056</xcorr>
+	<deltacn>0.153</deltacn>
+	<sp>507.8</sp>
+	<rsp>9</rsp>
+	<ions>24/104</ions>
+	<count>5</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|8928460|sp|O75962.1|TRIO_HUMAN RecName: Full=Triple functional domain protein</reference>
+	<peptide>N.PEFAAPEIILGNPVSLTSDTW.S</peptide>
+	<dta_file></dta_file>
+	<scan_range>630 - 630</scan_range>
+	<charge>2</charge>
+	<search_time>9.5</search_time>
+	<intensity>5867</intensity>
+	<actual_mass>2257.14</actual_mass>
+	<input_mass>2258.18</input_mass>
+	<xcorr>2.015</xcorr>
+	<deltacn>0.106</deltacn>
+	<sp>202.9</sp>
+	<rsp>1</rsp>
+	<ions>13/40</ions>
+	<count>4</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens] </reference>
+	<peptide>R.DSTIQVVENGESSQGR.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>680 - 680</scan_range>
+	<charge>2</charge>
+	<search_time>10.3</search_time>
+	<intensity>6743</intensity>
+	<actual_mass>1705.80</actual_mass>
+	<input_mass>1707.62</input_mass>
+	<xcorr>3.232</xcorr>
+	<deltacn>0.224</deltacn>
+	<sp>1066.6</sp>
+	<rsp>1</rsp>
+	<ions>19/30</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|21758375|dbj|BAC05295.1| unnamed protein product [Homo sapiens]</reference>
+	<peptide>D.LHGTLTFVLIPSQQIKPPPAKETVIHVKAH.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>713 - 713</scan_range>
+	<charge>3</charge>
+	<search_time>17.5</search_time>
+	<intensity>9090</intensity>
+	<actual_mass>3299.90</actual_mass>
+	<input_mass>3299.13</input_mass>
+	<xcorr>2.557</xcorr>
+	<deltacn>0.103</deltacn>
+	<sp>292.2</sp>
+	<rsp>116</rsp>
+	<ions>21/116</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens] </reference>
+	<peptide>R.DSTIQVVENGESSQGR.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>721 - 721</scan_range>
+	<charge>2</charge>
+	<search_time>11.4</search_time>
+	<intensity>8668</intensity>
+	<actual_mass>1705.80</actual_mass>
+	<input_mass>1706.13</input_mass>
+	<xcorr>5.024</xcorr>
+	<deltacn>0.421</deltacn>
+	<sp>1894.8</sp>
+	<rsp>1</rsp>
+	<ions>22/30</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens] </reference>
+	<peptide>R.DSTIQVVENGESSQGR.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>724 - 724</scan_range>
+	<charge>2</charge>
+	<search_time>10.2</search_time>
+	<intensity>8418</intensity>
+	<actual_mass>1705.80</actual_mass>
+	<input_mass>1707.03</input_mass>
+	<xcorr>4.537</xcorr>
+	<deltacn>0.399</deltacn>
+	<sp>1267.0</sp>
+	<rsp>1</rsp>
+	<ions>19/30</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|1244768|gb|AAB02194.1| mucosal addressin cell adhesion molecule-1</reference>
+	<peptide>R.LPGLELSHR.Q</peptide>
+	<dta_file></dta_file>
+	<scan_range>793 - 793</scan_range>
+	<charge>2</charge>
+	<search_time>7.6</search_time>
+	<intensity>5057</intensity>
+	<actual_mass>1021.58</actual_mass>
+	<input_mass>1021.48</input_mass>
+	<xcorr>2.712</xcorr>
+	<deltacn>0.303</deltacn>
+	<sp>576.5</sp>
+	<rsp>2</rsp>
+	<ions>13/16</ions>
+	<count>6</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|14210532|ref|NP_115912.1| oxysterol-binding protein-like protein 6 isoform a </reference>
+	<peptide>R.SRRRYMEENNLEHIPKFFKKVIDANQREA.W</peptide>
+	<dta_file></dta_file>
+	<scan_range>821 - 821</scan_range>
+	<charge>3</charge>
+	<search_time>16.1</search_time>
+	<intensity>5892</intensity>
+	<actual_mass>3618.87</actual_mass>
+	<input_mass>3616.88</input_mass>
+	<xcorr>3.368</xcorr>
+	<deltacn>0.033</deltacn>
+	<sp>232.7</sp>
+	<rsp>30</rsp>
+	<ions>22/112</ions>
+	<count>9</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|119625573|gb|EAX05168.1| hypothetical protein FLJ30655, isoform CRA_b [Homo s</reference>
+	<peptide>E.SLRKIALEAQKKAKVKVFSRL.E</peptide>
+	<dta_file></dta_file>
+	<scan_range>822 - 822</scan_range>
+	<charge>3</charge>
+	<search_time>15.4</search_time>
+	<intensity>8242</intensity>
+	<actual_mass>2413.51</actual_mass>
+	<input_mass>2413.00</input_mass>
+	<xcorr>3.220</xcorr>
+	<deltacn>0.013</deltacn>
+	<sp>524.3</sp>
+	<rsp>8</rsp>
+	<ions>22/80</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|7934572|gb|AAF29537.2| TACC2 [Homo sapiens]</reference>
+	<peptide>R.PPSLKKKQTTKKPTETPPVKETQQEPDEESLV.P</peptide>
+	<dta_file></dta_file>
+	<scan_range>824 - 824</scan_range>
+	<charge>3</charge>
+	<search_time>17.1</search_time>
+	<intensity>5599</intensity>
+	<actual_mass>3617.93</actual_mass>
+	<input_mass>3617.28</input_mass>
+	<xcorr>3.201</xcorr>
+	<deltacn>0.091</deltacn>
+	<sp>203.7</sp>
+	<rsp>17</rsp>
+	<ions>24/124</ions>
+	<count>14</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|119625573|gb|EAX05168.1| hypothetical protein FLJ30655, isoform CRA_b [Homo s</reference>
+	<peptide>E.SLRKIALEAQKKAKVKVFSRL.E</peptide>
+	<dta_file></dta_file>
+	<scan_range>825 - 825</scan_range>
+	<charge>3</charge>
+	<search_time>15.3</search_time>
+	<intensity>7105</intensity>
+	<actual_mass>2413.51</actual_mass>
+	<input_mass>2412.43</input_mass>
+	<xcorr>2.948</xcorr>
+	<deltacn>0.047</deltacn>
+	<sp>412.5</sp>
+	<rsp>40</rsp>
+	<ions>22/80</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4502027|ref|NP_000468.1| albumin preproprotein [Homo sapiens] </reference>
+	<peptide>K.KVPQVSTPTLVEVSR.N</peptide>
+	<dta_file></dta_file>
+	<scan_range>830 - 830</scan_range>
+	<charge>2</charge>
+	<search_time>11.5</search_time>
+	<intensity>5078</intensity>
+	<actual_mass>1639.94</actual_mass>
+	<input_mass>1640.82</input_mass>
+	<xcorr>3.122</xcorr>
+	<deltacn>0.356</deltacn>
+	<sp>647.8</sp>
+	<rsp>1</rsp>
+	<ions>18/28</ions>
+	<count>23</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|22761565|dbj|BAC11635.1| unnamed protein product [Homo sapiens]</reference>
+	<peptide>K.QNLLAPQNAVSSEETNDFKQETLPSK.S</peptide>
+	<dta_file></dta_file>
+	<scan_range>865 - 865</scan_range>
+	<charge>3</charge>
+	<search_time>16.5</search_time>
+	<intensity>3472</intensity>
+	<actual_mass>2888.43</actual_mass>
+	<input_mass>2889.30</input_mass>
+	<xcorr>3.704</xcorr>
+	<deltacn>0.266</deltacn>
+	<sp>237.3</sp>
+	<rsp>3</rsp>
+	<ions>25/100</ions>
+	<count>3</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|22761565|dbj|BAC11635.1| unnamed protein product [Homo sapiens] </reference>
+	<peptide>K.QNLLAPQNAVSSEETNDFKQETLPSK.S</peptide>
+	<dta_file></dta_file>
+	<scan_range>866 - 866</scan_range>
+	<charge>2</charge>
+	<search_time>12.2</search_time>
+	<intensity>7773</intensity>
+	<actual_mass>2888.43</actual_mass>
+	<input_mass>2888.45</input_mass>
+	<xcorr>3.949</xcorr>
+	<deltacn>0.431</deltacn>
+	<sp>423.4</sp>
+	<rsp>1</rsp>
+	<ions>16/50</ions>
+	<count>3</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|22761565|dbj|BAC11635.1| unnamed protein product [Homo sapiens]</reference>
+	<peptide>K.QNLLAPQNAVSSEETNDFKQETLPSK.S</peptide>
+	<dta_file></dta_file>
+	<scan_range>868 - 868</scan_range>
+	<charge>3</charge>
+	<search_time>16.2</search_time>
+	<intensity>3973</intensity>
+	<actual_mass>2888.43</actual_mass>
+	<input_mass>2889.65</input_mass>
+	<xcorr>3.039</xcorr>
+	<deltacn>0.203</deltacn>
+	<sp>253.3</sp>
+	<rsp>14</rsp>
+	<ions>25/100</ions>
+	<count>3</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|22761565|dbj|BAC11635.1| unnamed protein product [Homo sapiens]</reference>
+	<peptide>K.QNLLAPQNAVSSEETNDFKQETLPSK.S</peptide>
+	<dta_file></dta_file>
+	<scan_range>869 - 869</scan_range>
+	<charge>2</charge>
+	<search_time>11.9</search_time>
+	<intensity>7088</intensity>
+	<actual_mass>2888.43</actual_mass>
+	<input_mass>2888.72</input_mass>
+	<xcorr>2.867</xcorr>
+	<deltacn>0.359</deltacn>
+	<sp>233.6</sp>
+	<rsp>2</rsp>
+	<ions>13/50</ions>
+	<count>3</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|74709219|sp|Q6DRA6.3|H2B2D_HUMAN RecName: Full=Putative histone H2B type 2-D</reference>
+	<peptide>P.CPRAPRRSPSTPAPSESLPGPGARSLPPSLP.P</peptide>
+	<dta_file></dta_file>
+	<scan_range>871 - 871</scan_range>
+	<charge>3</charge>
+	<search_time>14.9</search_time>
+	<intensity>7346</intensity>
+	<actual_mass>3135.65</actual_mass>
+	<input_mass>3134.35</input_mass>
+	<xcorr>2.955</xcorr>
+	<deltacn>0.002</deltacn>
+	<sp>319.9</sp>
+	<rsp>183</rsp>
+	<ions>26/120</ions>
+	<count>2</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|435700|gb|AAB27919.1| CD44R5 [Homo sapiens] </reference>
+	<peptide>R.YGFIEGHVVIPR.I</peptide>
+	<dta_file></dta_file>
+	<scan_range>898 - 898</scan_range>
+	<charge>2</charge>
+	<search_time>8.1</search_time>
+	<intensity>7419</intensity>
+	<actual_mass>1386.75</actual_mass>
+	<input_mass>1386.83</input_mass>
+	<xcorr>4.419</xcorr>
+	<deltacn>0.398</deltacn>
+	<sp>1916.4</sp>
+	<rsp>1</rsp>
+	<ions>19/22</ions>
+	<count>28</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|435700|gb|AAB27919.1| CD44R5 [Homo sapiens] </reference>
+	<peptide>R.YGFIEGHVVIPR.I</peptide>
+	<dta_file></dta_file>
+	<scan_range>901 - 901</scan_range>
+	<charge>2</charge>
+	<search_time>8.2</search_time>
+	<intensity>7533</intensity>
+	<actual_mass>1386.75</actual_mass>
+	<input_mass>1387.18</input_mass>
+	<xcorr>4.283</xcorr>
+	<deltacn>0.369</deltacn>
+	<sp>1996.3</sp>
+	<rsp>1</rsp>
+	<ions>19/22</ions>
+	<count>28</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|435700|gb|AAB27919.1| CD44R5 [Homo sapiens]</reference>
+	<peptide>I.GFETCRYGFIEGHVVIPR.I</peptide>
+	<dta_file></dta_file>
+	<scan_range>901 - 901</scan_range>
+	<charge>3</charge>
+	<search_time>14.3</search_time>
+	<intensity>7533</intensity>
+	<actual_mass>2080.04</actual_mass>
+	<input_mass>2080.27</input_mass>
+	<xcorr>2.870</xcorr>
+	<deltacn>0.226</deltacn>
+	<sp>443.8</sp>
+	<rsp>60</rsp>
+	<ions>17/68</ions>
+	<count>28</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|435700|gb|AAB27919.1| CD44R5 [Homo sapiens] </reference>
+	<peptide>R.YGFIEGHVVIPR.I</peptide>
+	<dta_file></dta_file>
+	<scan_range>904 - 904</scan_range>
+	<charge>3</charge>
+	<search_time>12.5</search_time>
+	<intensity>5337</intensity>
+	<actual_mass>1386.75</actual_mass>
+	<input_mass>1388.33</input_mass>
+	<xcorr>3.264</xcorr>
+	<deltacn>0.318</deltacn>
+	<sp>818.7</sp>
+	<rsp>1</rsp>
+	<ions>21/44</ions>
+	<count>28</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|18307286|gb|AAL65714.1| immunoglobulin light chain kappa variable region [Hom</reference>
+	<peptide>S.GVPSRFSGSGSGTDFTLTIDSLQPEDFATYY.C</peptide>
+	<dta_file></dta_file>
+	<scan_range>913 - 913</scan_range>
+	<charge>3</charge>
+	<search_time>15.5</search_time>
+	<intensity>8273</intensity>
+	<actual_mass>3315.53</actual_mass>
+	<input_mass>3317.13</input_mass>
+	<xcorr>2.989</xcorr>
+	<deltacn>0.037</deltacn>
+	<sp>369.8</sp>
+	<rsp>33</rsp>
+	<ions>24/120</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|22759972|dbj|BAC11021.1| unnamed protein product [Homo sapiens]</reference>
+	<peptide>D.PQVLLLDEPTAGLDPLSRHR.I</peptide>
+	<dta_file></dta_file>
+	<scan_range>917 - 917</scan_range>
+	<charge>2</charge>
+	<search_time>11.3</search_time>
+	<intensity>7477</intensity>
+	<actual_mass>2227.22</actual_mass>
+	<input_mass>2226.80</input_mass>
+	<xcorr>3.664</xcorr>
+	<deltacn>0.041</deltacn>
+	<sp>602.8</sp>
+	<rsp>41</rsp>
+	<ions>16/38</ions>
+	<count>7</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|1809240|gb|AAB41649.1| gp330 precursor [Homo sapiens] </reference>
+	<peptide>M.VNLDGSYRVTLITENLGHPRGIAVDPTVGYL.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>917 - 917</scan_range>
+	<charge>3</charge>
+	<search_time>18.2</search_time>
+	<intensity>7477</intensity>
+	<actual_mass>3339.77</actual_mass>
+	<input_mass>3339.70</input_mass>
+	<xcorr>2.899</xcorr>
+	<deltacn>0.090</deltacn>
+	<sp>543.1</sp>
+	<rsp>1</rsp>
+	<ions>27/120</ions>
+	<count>5</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|7959225|dbj|BAA96006.1| KIAA1482 protein [Homo sapiens]</reference>
+	<peptide>C.HNGEKSKKPSKIKSLFKKK.S</peptide>
+	<dta_file></dta_file>
+	<scan_range>919 - 919</scan_range>
+	<charge>2</charge>
+	<search_time>12.6</search_time>
+	<intensity>7421</intensity>
+	<actual_mass>2212.33</actual_mass>
+	<input_mass>2211.78</input_mass>
+	<xcorr>3.783</xcorr>
+	<deltacn>0.035</deltacn>
+	<sp>547.2</sp>
+	<rsp>53</rsp>
+	<ions>16/36</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|21426829|ref|NP_658986.1| prokineticin receptor 2 [Homo sapiens]</reference>
+	<peptide>A.MSNSMINTVCFVTVKNNTMKYFKKMMLL.H</peptide>
+	<dta_file></dta_file>
+	<scan_range>919 - 919</scan_range>
+	<charge>3</charge>
+	<search_time>23.1</search_time>
+	<intensity>7421</intensity>
+	<actual_mass>3316.65</actual_mass>
+	<input_mass>3317.17</input_mass>
+	<xcorr>2.813</xcorr>
+	<deltacn>0.013</deltacn>
+	<sp>331.5</sp>
+	<rsp>16</rsp>
+	<ions>20/108</ions>
+	<count>1</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|16550495|dbj|BAB70990.1| unnamed protein product [Homo sapiens] </reference>
+	<peptide>D.FRNLCKMDVANGVINFQRT.I</peptide>
+	<dta_file></dta_file>
+	<scan_range>920 - 920</scan_range>
+	<charge>2</charge>
+	<search_time>11.3</search_time>
+	<intensity>7450</intensity>
+	<actual_mass>2226.13</actual_mass>
+	<input_mass>2226.34</input_mass>
+	<xcorr>3.758</xcorr>
+	<deltacn>0.052</deltacn>
+	<sp>908.1</sp>
+	<rsp>1</rsp>
+	<ions>20/36</ions>
+	<count>4</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|77380088|gb|ABA71689.1| immunoglobulin lambda chain variable region [Homo sap</reference>
+	<peptide>I.PERFSGSSSGNAASLTTTGAQAE.D</peptide>
+	<dta_file></dta_file>
+	<scan_range>922 - 922</scan_range>
+	<charge>3</charge>
+	<search_time>12.6</search_time>
+	<intensity>9027</intensity>
+	<actual_mass>2226.03</actual_mass>
+	<input_mass>2227.69</input_mass>
+	<xcorr>3.814</xcorr>
+	<deltacn>0.027</deltacn>
+	<sp>691.0</sp>
+	<rsp>212</rsp>
+	<ions>25/88</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|193783741|dbj|BAG53723.1| unnamed protein product [Homo sapiens]</reference>
+	<peptide>L.QDGSCKQMLLMLLIVQPVQATLSSLKMLDVG.K</peptide>
+	<dta_file></dta_file>
+	<scan_range>923 - 925</scan_range>
+	<charge>3</charge>
+	<search_time>16.3</search_time>
+	<intensity>7430</intensity>
+	<actual_mass>3359.78</actual_mass>
+	<input_mass>3360.63</input_mass>
+	<xcorr>3.064</xcorr>
+	<deltacn>0.041</deltacn>
+	<sp>342.1</sp>
+	<rsp>10</rsp>
+	<ions>23/120</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|21757144|dbj|BAC05035.1| unnamed protein product [Homo sapiens]</reference>
+	<peptide>W.RFLQTMRLGRSPSYLSSPQ.Q</peptide>
+	<dta_file></dta_file>
+	<scan_range>929 - 929</scan_range>
+	<charge>3</charge>
+	<search_time>14.6</search_time>
+	<intensity>10207</intensity>
+	<actual_mass>2224.17</actual_mass>
+	<input_mass>2225.98</input_mass>
+	<xcorr>3.163</xcorr>
+	<deltacn>0.075</deltacn>
+	<sp>806.0</sp>
+	<rsp>49</rsp>
+	<ions>24/72</ions>
+	<count>4</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4504893|ref|NP_000884.1| kininogen 1 isoform 2 [Homo sapiens] </reference>
+	<peptide>R.DIPTNSPELEETLTHTITK.L</peptide>
+	<dta_file></dta_file>
+	<scan_range>940 - 940</scan_range>
+	<charge>2</charge>
+	<search_time>10.9</search_time>
+	<intensity>6122</intensity>
+	<actual_mass>2139.08</actual_mass>
+	<input_mass>2140.58</input_mass>
+	<xcorr>2.785</xcorr>
+	<deltacn>0.247</deltacn>
+	<sp>352.9</sp>
+	<rsp>1</rsp>
+	<ions>14/36</ions>
+	<count>7</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|11125766|ref|NP_001671.2| FXYD domain-containing ion transport regulator 2 is</reference>
+	<peptide>K.GDVDPFYYDYETVR.N</peptide>
+	<dta_file></dta_file>
+	<scan_range>941 - 941</scan_range>
+	<charge>2</charge>
+	<search_time>10.5</search_time>
+	<intensity>6003</intensity>
+	<actual_mass>1738.76</actual_mass>
+	<input_mass>1739.32</input_mass>
+	<xcorr>4.031</xcorr>
+	<deltacn>0.330</deltacn>
+	<sp>1579.3</sp>
+	<rsp>1</rsp>
+	<ions>21/26</ions>
+	<count>1</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4504893|ref|NP_000884.1| kininogen 1 isoform 2 [Homo sapiens] </reference>
+	<peptide>R.DIPTNSPELEETLTHTITK.L</peptide>
+	<dta_file></dta_file>
+	<scan_range>943 - 943</scan_range>
+	<charge>2</charge>
+	<search_time>9.2</search_time>
+	<intensity>5959</intensity>
+	<actual_mass>2139.08</actual_mass>
+	<input_mass>2139.63</input_mass>
+	<xcorr>3.917</xcorr>
+	<deltacn>0.361</deltacn>
+	<sp>521.1</sp>
+	<rsp>1</rsp>
+	<ions>17/36</ions>
+	<count>7</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|90111859|sp|Q96RD9.2|FCRL5_HUMAN RecName: Full=Fc receptor-like protein 5; Sh</reference>
+	<peptide>V.TLGNRSSPSGGASLNLSLTAEHSGNYSCEADN.G</peptide>
+	<dta_file></dta_file>
+	<scan_range>943 - 943</scan_range>
+	<charge>3</charge>
+	<search_time>17.6</search_time>
+	<intensity>5959</intensity>
+	<actual_mass>3209.44</actual_mass>
+	<input_mass>3208.94</input_mass>
+	<xcorr>2.514</xcorr>
+	<deltacn>0.145</deltacn>
+	<sp>274.1</sp>
+	<rsp>22</rsp>
+	<ions>25/124</ions>
+	<count>6</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|1155011|emb|CAA57709.1| nidogen [Homo sapiens] </reference>
+	<peptide>R.SDIDAVYVTTNGIIATSEPPAK.E</peptide>
+	<dta_file></dta_file>
+	<scan_range>956 - 956</scan_range>
+	<charge>2</charge>
+	<search_time>9.3</search_time>
+	<intensity>10528</intensity>
+	<actual_mass>2262.15</actual_mass>
+	<input_mass>2262.13</input_mass>
+	<xcorr>2.457</xcorr>
+	<deltacn>0.229</deltacn>
+	<sp>552.1</sp>
+	<rsp>1</rsp>
+	<ions>16/42</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|119226|sp|P01133.1|EGF_HUMAN RecName: Full=Pro-epidermal growth factor; Short</reference>
+	<peptide>R.INLHSSFVPLGELK.V</peptide>
+	<dta_file></dta_file>
+	<scan_range>964 - 964</scan_range>
+	<charge>2</charge>
+	<search_time>10.0</search_time>
+	<intensity>7014</intensity>
+	<actual_mass>1553.87</actual_mass>
+	<input_mass>1554.46</input_mass>
+	<xcorr>4.194</xcorr>
+	<deltacn>0.320</deltacn>
+	<sp>992.6</sp>
+	<rsp>1</rsp>
+	<ions>16/26</ions>
+	<count>3</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|21961605|gb|AAH34697.1| Keratin 10 [Homo sapiens] </reference>
+	<peptide>K.ELTTEIDNNIEQISSYK.S</peptide>
+	<dta_file></dta_file>
+	<scan_range>965 - 965</scan_range>
+	<charge>2</charge>
+	<search_time>10.9</search_time>
+	<intensity>6832</intensity>
+	<actual_mass>1996.97</actual_mass>
+	<input_mass>1997.40</input_mass>
+	<xcorr>4.220</xcorr>
+	<deltacn>0.329</deltacn>
+	<sp>1184.0</sp>
+	<rsp>1</rsp>
+	<ions>20/32</ions>
+	<count>3</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|119226|sp|P01133.1|EGF_HUMAN RecName: Full=Pro-epidermal growth factor; Short</reference>
+	<peptide>R.INLHSSFVPLGELK.V</peptide>
+	<dta_file></dta_file>
+	<scan_range>967 - 967</scan_range>
+	<charge>2</charge>
+	<search_time>10.0</search_time>
+	<intensity>6813</intensity>
+	<actual_mass>1553.87</actual_mass>
+	<input_mass>1554.44</input_mass>
+	<xcorr>4.200</xcorr>
+	<deltacn>0.304</deltacn>
+	<sp>1061.0</sp>
+	<rsp>1</rsp>
+	<ions>18/26</ions>
+	<count>3</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|31397|emb|CAA26536.1| fibronectin precursor [Homo sapiens] </reference>
+	<peptide>K.DDKESVPISDTIIPAVPPPTDLR.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>973 - 973</scan_range>
+	<charge>2</charge>
+	<search_time>11.5</search_time>
+	<intensity>6602</intensity>
+	<actual_mass>2475.30</actual_mass>
+	<input_mass>2476.59</input_mass>
+	<xcorr>2.983</xcorr>
+	<deltacn>0.267</deltacn>
+	<sp>340.8</sp>
+	<rsp>1</rsp>
+	<ions>15/44</ions>
+	<count>29</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|21669631|dbj|BAC01840.1| immunoglobulin lambda light chain VLJ region [Homo s</reference>
+	<peptide>K.YAASSYLSLTPEQWK.S</peptide>
+	<dta_file></dta_file>
+	<scan_range>974 - 976</scan_range>
+	<charge>2</charge>
+	<search_time>11.5</search_time>
+	<intensity>5474</intensity>
+	<actual_mass>1743.86</actual_mass>
+	<input_mass>1744.24</input_mass>
+	<xcorr>4.058</xcorr>
+	<deltacn>0.079</deltacn>
+	<sp>638.2</sp>
+	<rsp>1</rsp>
+	<ions>16/28</ions>
+	<count>99</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|73858568|ref|NP_000053.2| complement component 1 inhibitor precursor [Homo sa</reference>
+	<peptide>K.GVTSVSQIFHSPDLAIR.D</peptide>
+	<dta_file></dta_file>
+	<scan_range>986 - 986</scan_range>
+	<charge>2</charge>
+	<search_time>8.9</search_time>
+	<intensity>5604</intensity>
+	<actual_mass>1826.98</actual_mass>
+	<input_mass>1828.56</input_mass>
+	<xcorr>3.732</xcorr>
+	<deltacn>0.310</deltacn>
+	<sp>843.9</sp>
+	<rsp>1</rsp>
+	<ions>17/32</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4502027|ref|NP_000468.1| albumin preproprotein [Homo sapiens] </reference>
+	<peptide>R.HPDYSVVLLLR.L</peptide>
+	<dta_file></dta_file>
+	<scan_range>988 - 988</scan_range>
+	<charge>2</charge>
+	<search_time>9.8</search_time>
+	<intensity>6058</intensity>
+	<actual_mass>1311.74</actual_mass>
+	<input_mass>1311.88</input_mass>
+	<xcorr>2.558</xcorr>
+	<deltacn>0.216</deltacn>
+	<sp>863.4</sp>
+	<rsp>1</rsp>
+	<ions>16/20</ions>
+	<count>19</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|73858568|ref|NP_000053.2| complement component 1 inhibitor precursor [Homo sa</reference>
+	<peptide>K.GVTSVSQIFHSPDLAIR.D</peptide>
+	<dta_file></dta_file>
+	<scan_range>991 - 991</scan_range>
+	<charge>2</charge>
+	<search_time>10.6</search_time>
+	<intensity>6109</intensity>
+	<actual_mass>1826.98</actual_mass>
+	<input_mass>1827.89</input_mass>
+	<xcorr>3.818</xcorr>
+	<deltacn>0.270</deltacn>
+	<sp>820.8</sp>
+	<rsp>1</rsp>
+	<ions>18/32</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4502027|ref|NP_000468.1| albumin preproprotein [Homo sapiens] </reference>
+	<peptide>R.HPDYSVVLLLR.L</peptide>
+	<dta_file></dta_file>
+	<scan_range>992 - 992</scan_range>
+	<charge>2</charge>
+	<search_time>9.8</search_time>
+	<intensity>5773</intensity>
+	<actual_mass>1311.74</actual_mass>
+	<input_mass>1313.40</input_mass>
+	<xcorr>2.893</xcorr>
+	<deltacn>0.279</deltacn>
+	<sp>810.0</sp>
+	<rsp>1</rsp>
+	<ions>16/20</ions>
+	<count>19</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|19913428|ref|NP_001684.2| vacuolar H+ATPase B2 [Homo sapiens]</reference>
+	<peptide>C.EFTGDILRTPVSEDMLGR.V</peptide>
+	<dta_file></dta_file>
+	<scan_range>1007 - 1007</scan_range>
+	<charge>2</charge>
+	<search_time>10.9</search_time>
+	<intensity>4978</intensity>
+	<actual_mass>2036.01</actual_mass>
+	<input_mass>2034.89</input_mass>
+	<xcorr>2.482</xcorr>
+	<deltacn>0.072</deltacn>
+	<sp>267.2</sp>
+	<rsp>44</rsp>
+	<ions>14/34</ions>
+	<count>9</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|12054072|emb|CAC20454.1| immunoglobulin heavy chain constant region gamma 1 [</reference>
+	<peptide>K.TTPPVLDSDGSFFLYSK.L</peptide>
+	<dta_file></dta_file>
+	<scan_range>1012 - 1012</scan_range>
+	<charge>2</charge>
+	<search_time>8.9</search_time>
+	<intensity>2476</intensity>
+	<actual_mass>1873.92</actual_mass>
+	<input_mass>1875.19</input_mass>
+	<xcorr>2.760</xcorr>
+	<deltacn>0.356</deltacn>
+	<sp>258.4</sp>
+	<rsp>1</rsp>
+	<ions>19/32</ions>
+	<count>99</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4758092|ref|NP_004379.1| chitobiase, di-N-acetyl- [Homo sapiens] </reference>
+	<peptide>K.SYDWSQITTVATFGK.Y</peptide>
+	<dta_file></dta_file>
+	<scan_range>1013 - 1013</scan_range>
+	<charge>2</charge>
+	<search_time>8.6</search_time>
+	<intensity>7357</intensity>
+	<actual_mass>1703.83</actual_mass>
+	<input_mass>1703.94</input_mass>
+	<xcorr>4.504</xcorr>
+	<deltacn>0.494</deltacn>
+	<sp>1570.0</sp>
+	<rsp>1</rsp>
+	<ions>21/28</ions>
+	<count>3</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|12054072|emb|CAC20454.1| immunoglobulin heavy chain constant region gamma 1 [</reference>
+	<peptide>K.TTPPVLDSDGSFFLYSK.L</peptide>
+	<dta_file></dta_file>
+	<scan_range>1015 - 1015</scan_range>
+	<charge>2</charge>
+	<search_time>13.6</search_time>
+	<intensity>2617</intensity>
+	<actual_mass>1873.92</actual_mass>
+	<input_mass>1874.42</input_mass>
+	<xcorr>2.609</xcorr>
+	<deltacn>0.247</deltacn>
+	<sp>165.9</sp>
+	<rsp>16</rsp>
+	<ions>16/32</ions>
+	<count>99</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|5262663|emb|CAB45766.1| hypothetical protein [Homo sapiens] </reference>
+	<peptide>K.TLYLADTFPTNFR.D</peptide>
+	<dta_file></dta_file>
+	<scan_range>1016 - 1016</scan_range>
+	<charge>2</charge>
+	<search_time>10.4</search_time>
+	<intensity>5800</intensity>
+	<actual_mass>1558.79</actual_mass>
+	<input_mass>1559.08</input_mass>
+	<xcorr>3.743</xcorr>
+	<deltacn>0.277</deltacn>
+	<sp>814.5</sp>
+	<rsp>1</rsp>
+	<ions>17/24</ions>
+	<count>6</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|5262663|emb|CAB45766.1| hypothetical protein [Homo sapiens] </reference>
+	<peptide>K.TLYLADTFPTNFR.D</peptide>
+	<dta_file></dta_file>
+	<scan_range>1019 - 1019</scan_range>
+	<charge>2</charge>
+	<search_time>8.4</search_time>
+	<intensity>6623</intensity>
+	<actual_mass>1558.79</actual_mass>
+	<input_mass>1559.51</input_mass>
+	<xcorr>4.065</xcorr>
+	<deltacn>0.352</deltacn>
+	<sp>1124.8</sp>
+	<rsp>1</rsp>
+	<ions>18/24</ions>
+	<count>6</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|85396888|gb|AAI04813.1| Protein tyrosine phosphatase, receptor type, S [Homo </reference>
+	<peptide>R.VLAFTSVGDGPLSDPIQVK.T</peptide>
+	<dta_file></dta_file>
+	<scan_range>1021 - 1021</scan_range>
+	<charge>2</charge>
+	<search_time>9.0</search_time>
+	<intensity>6463</intensity>
+	<actual_mass>1943.05</actual_mass>
+	<input_mass>1942.98</input_mass>
+	<xcorr>4.517</xcorr>
+	<deltacn>0.405</deltacn>
+	<sp>944.4</sp>
+	<rsp>1</rsp>
+	<ions>21/36</ions>
+	<count>14</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|21669337|dbj|BAC01693.1| immunoglobulin kappa light chain VLJ region [Homo sa</reference>
+	<peptide>R.TVAAPSVFIFPPSDEQLK.S</peptide>
+	<dta_file></dta_file>
+	<scan_range>1024 - 1024</scan_range>
+	<charge>2</charge>
+	<search_time>9.1</search_time>
+	<intensity>4872</intensity>
+	<actual_mass>1946.03</actual_mass>
+	<input_mass>1947.23</input_mass>
+	<xcorr>4.586</xcorr>
+	<deltacn>0.038</deltacn>
+	<sp>611.2</sp>
+	<rsp>1</rsp>
+	<ions>20/34</ions>
+	<count>99</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|21669337|dbj|BAC01693.1| immunoglobulin kappa light chain VLJ region [Homo sa</reference>
+	<peptide>R.TVAAPSVFIFPPSDEQLK.S</peptide>
+	<dta_file></dta_file>
+	<scan_range>1027 - 1027</scan_range>
+	<charge>2</charge>
+	<search_time>10.8</search_time>
+	<intensity>4467</intensity>
+	<actual_mass>1946.03</actual_mass>
+	<input_mass>1947.35</input_mass>
+	<xcorr>3.747</xcorr>
+	<deltacn>0.055</deltacn>
+	<sp>607.5</sp>
+	<rsp>2</rsp>
+	<ions>21/34</ions>
+	<count>99</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|123079|sp|P06865.1|HEXA_HUMAN RecName: Full=Beta-hexosaminidase subunit alpha</reference>
+	<peptide>K.DFYVVEPLAFEGTPEQK.A</peptide>
+	<dta_file></dta_file>
+	<scan_range>1031 - 1031</scan_range>
+	<charge>2</charge>
+	<search_time>10.9</search_time>
+	<intensity>5329</intensity>
+	<actual_mass>1968.96</actual_mass>
+	<input_mass>1970.38</input_mass>
+	<xcorr>3.986</xcorr>
+	<deltacn>0.390</deltacn>
+	<sp>807.9</sp>
+	<rsp>1</rsp>
+	<ions>19/32</ions>
+	<count>6</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|189083838|ref|NP_001121065.1| Fc fragment of IgG, low affinity IIIa, receptor</reference>
+	<peptide>K.AVVFLEPQWYR.V</peptide>
+	<dta_file></dta_file>
+	<scan_range>1033 - 1033</scan_range>
+	<charge>2</charge>
+	<search_time>9.8</search_time>
+	<intensity>6810</intensity>
+	<actual_mass>1407.74</actual_mass>
+	<input_mass>1407.45</input_mass>
+	<xcorr>3.142</xcorr>
+	<deltacn>0.164</deltacn>
+	<sp>1078.8</sp>
+	<rsp>1</rsp>
+	<ions>15/20</ions>
+	<count>17</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|123079|sp|P06865.1|HEXA_HUMAN RecName: Full=Beta-hexosaminidase subunit alpha</reference>
+	<peptide>K.DFYVVEPLAFEGTPEQK.A</peptide>
+	<dta_file></dta_file>
+	<scan_range>1034 - 1034</scan_range>
+	<charge>2</charge>
+	<search_time>9.0</search_time>
+	<intensity>9988</intensity>
+	<actual_mass>1968.96</actual_mass>
+	<input_mass>1970.31</input_mass>
+	<xcorr>4.004</xcorr>
+	<deltacn>0.386</deltacn>
+	<sp>1252.7</sp>
+	<rsp>1</rsp>
+	<ions>18/32</ions>
+	<count>6</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|57015394|sp|Q03167.2|TGBR3_HUMAN RecName: Full=TGF-beta receptor type III; Al</reference>
+	<peptide>R.ILLDPGALPALQNPPIR.G</peptide>
+	<dta_file></dta_file>
+	<scan_range>1042 - 1042</scan_range>
+	<charge>2</charge>
+	<search_time>10.4</search_time>
+	<intensity>4979</intensity>
+	<actual_mass>1798.06</actual_mass>
+	<input_mass>1798.08</input_mass>
+	<xcorr>3.168</xcorr>
+	<deltacn>0.309</deltacn>
+	<sp>466.9</sp>
+	<rsp>1</rsp>
+	<ions>17/32</ions>
+	<count>3</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4504943|ref|NP_002278.1| leukocyte-associated immunoglobulin-like receptor 1 </reference>
+	<peptide>K.WSEQSDYLELLVK.E</peptide>
+	<dta_file></dta_file>
+	<scan_range>1053 - 1053</scan_range>
+	<charge>2</charge>
+	<search_time>10.4</search_time>
+	<intensity>7215</intensity>
+	<actual_mass>1609.81</actual_mass>
+	<input_mass>1610.18</input_mass>
+	<xcorr>4.698</xcorr>
+	<deltacn>0.333</deltacn>
+	<sp>1652.3</sp>
+	<rsp>1</rsp>
+	<ions>20/24</ions>
+	<count>11</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4504943|ref|NP_002278.1| leukocyte-associated immunoglobulin-like receptor 1 </reference>
+	<peptide>K.WSEQSDYLELLVK.E</peptide>
+	<dta_file></dta_file>
+	<scan_range>1056 - 1056</scan_range>
+	<charge>2</charge>
+	<search_time>9.3</search_time>
+	<intensity>8097</intensity>
+	<actual_mass>1609.81</actual_mass>
+	<input_mass>1611.20</input_mass>
+	<xcorr>4.668</xcorr>
+	<deltacn>0.327</deltacn>
+	<sp>1625.3</sp>
+	<rsp>1</rsp>
+	<ions>19/24</ions>
+	<count>11</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|5262663|emb|CAB45766.1| hypothetical protein [Homo sapiens] </reference>
+	<peptide>R.GFQQLLQELNQPR.D</peptide>
+	<dta_file></dta_file>
+	<scan_range>1059 - 1059</scan_range>
+	<charge>2</charge>
+	<search_time>10.4</search_time>
+	<intensity>6232</intensity>
+	<actual_mass>1570.83</actual_mass>
+	<input_mass>1572.40</input_mass>
+	<xcorr>4.067</xcorr>
+	<deltacn>0.114</deltacn>
+	<sp>991.9</sp>
+	<rsp>1</rsp>
+	<ions>16/24</ions>
+	<count>4</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|5262663|emb|CAB45766.1| hypothetical protein [Homo sapiens] </reference>
+	<peptide>R.GFQQLLQELNQPR.D</peptide>
+	<dta_file></dta_file>
+	<scan_range>1063 - 1063</scan_range>
+	<charge>2</charge>
+	<search_time>8.5</search_time>
+	<intensity>6647</intensity>
+	<actual_mass>1570.83</actual_mass>
+	<input_mass>1571.07</input_mass>
+	<xcorr>4.406</xcorr>
+	<deltacn>0.155</deltacn>
+	<sp>1130.5</sp>
+	<rsp>1</rsp>
+	<ions>17/24</ions>
+	<count>4</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|11935049|gb|AAG41947.1|AF304164_1 keratin 1 [Homo sapiens] </reference>
+	<peptide>R.SLDLDSIIAEVK.A</peptide>
+	<dta_file></dta_file>
+	<scan_range>1082 - 1082</scan_range>
+	<charge>2</charge>
+	<search_time>8.1</search_time>
+	<intensity>7197</intensity>
+	<actual_mass>1302.72</actual_mass>
+	<input_mass>1303.29</input_mass>
+	<xcorr>3.744</xcorr>
+	<deltacn>0.000</deltacn>
+	<sp>1389.2</sp>
+	<rsp>1</rsp>
+	<ions>18/22</ions>
+	<count>3</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|116008152|ref|NP_001846.3| alpha 1 type XV collagen precursor [Homo sapiens] </reference>
+	<peptide>R.GGVLFAITDAFQK.V</peptide>
+	<dta_file></dta_file>
+	<scan_range>1108 - 1108</scan_range>
+	<charge>2</charge>
+	<search_time>9.8</search_time>
+	<intensity>9867</intensity>
+	<actual_mass>1366.74</actual_mass>
+	<input_mass>1366.75</input_mass>
+	<xcorr>2.880</xcorr>
+	<deltacn>0.301</deltacn>
+	<sp>1067.5</sp>
+	<rsp>1</rsp>
+	<ions>16/24</ions>
+	<count>5</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|1335064|emb|CAA45118.1| fibrillin [Homo sapiens] </reference>
+	<peptide>R.ILELLPALTTLTNHN.R</peptide>
+	<dta_file></dta_file>
+	<scan_range>1171 - 1174</scan_range>
+	<charge>2</charge>
+	<search_time>12.5</search_time>
+	<intensity>4274</intensity>
+	<actual_mass>1662.94</actual_mass>
+	<input_mass>1662.99</input_mass>
+	<xcorr>4.684</xcorr>
+	<deltacn>0.411</deltacn>
+	<sp>876.0</sp>
+	<rsp>1</rsp>
+	<ions>21/28</ions>
+	<count>4</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens] </reference>
+	<peptide>R.DSTIQVVENGESSQGR.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>708 - 708</scan_range>
+	<charge>2</charge>
+	<search_time>12.6</search_time>
+	<intensity>6870</intensity>
+	<actual_mass>1705.80</actual_mass>
+	<input_mass>1706.99</input_mass>
+	<xcorr>3.023</xcorr>
+	<deltacn>0.113</deltacn>
+	<sp>1151.8</sp>
+	<rsp>1</rsp>
+	<ions>19/30</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|74762494|sp|Q8IYA7.1|MKX_HUMAN RecName: Full=Homeobox protein Mohawk</reference>
+	<peptide>K.HRDNPYPTKTEKILLALGSQM.T</peptide>
+	<dta_file></dta_file>
+	<scan_range>866 - 866</scan_range>
+	<charge>3</charge>
+	<search_time>19.4</search_time>
+	<intensity>7802</intensity>
+	<actual_mass>2412.27</actual_mass>
+	<input_mass>2411.57</input_mass>
+	<xcorr>2.708</xcorr>
+	<deltacn>0.135</deltacn>
+	<sp>337.2</sp>
+	<rsp>153</rsp>
+	<ions>19/80</ions>
+	<count>1</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|119595694|gb|EAW75288.1| collagen, type XX, alpha 1, isoform CRA_d [Homo sapi</reference>
+	<peptide>L.VQVKPMAGDSEQEVILTTKTPKATVGGLSPSKGYT.L</peptide>
+	<dta_file></dta_file>
+	<scan_range>869 - 869</scan_range>
+	<charge>3</charge>
+	<search_time>18.8</search_time>
+	<intensity>7945</intensity>
+	<actual_mass>3617.91</actual_mass>
+	<input_mass>3618.15</input_mass>
+	<xcorr>3.353</xcorr>
+	<deltacn>0.054</deltacn>
+	<sp>259.6</sp>
+	<rsp>64</rsp>
+	<ions>22/136</ions>
+	<count>3</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|119617352|gb|EAW96946.1| hCG2015381 [Homo sapiens] </reference>
+	<peptide>L.DSNLCFPWQQNTLNLKQY.L</peptide>
+	<dta_file></dta_file>
+	<scan_range>963 - 963</scan_range>
+	<charge>2</charge>
+	<search_time>11.1</search_time>
+	<intensity>8963</intensity>
+	<actual_mass>2212.05</actual_mass>
+	<input_mass>2212.76</input_mass>
+	<xcorr>3.045</xcorr>
+	<deltacn>0.130</deltacn>
+	<sp>1184.9</sp>
+	<rsp>1</rsp>
+	<ions>18/34</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|71891727|dbj|BAA95979.2| KIAA1455 protein [Homo sapiens]</reference>
+	<peptide>Y.PEYGYTITRQDGMFDLVANGGASLTLVFER.S</peptide>
+	<dta_file></dta_file>
+	<scan_range>963 - 963</scan_range>
+	<charge>3</charge>
+	<search_time>20.7</search_time>
+	<intensity>8963</intensity>
+	<actual_mass>3320.63</actual_mass>
+	<input_mass>3318.63</input_mass>
+	<xcorr>2.874</xcorr>
+	<deltacn>0.085</deltacn>
+	<sp>454.4</sp>
+	<rsp>3</rsp>
+	<ions>23/116</ions>
+	<count>5</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|19923729|ref|NP_115646.2| leucine rich repeat containing 8 family, member C [</reference>
+	<peptide>A.LVSKVQFTVDCNVDIQDMTG.Y</peptide>
+	<dta_file></dta_file>
+	<scan_range>966 - 966</scan_range>
+	<charge>2</charge>
+	<search_time>11.2</search_time>
+	<intensity>8595</intensity>
+	<actual_mass>2212.06</actual_mass>
+	<input_mass>2212.29</input_mass>
+	<xcorr>3.142</xcorr>
+	<deltacn>0.199</deltacn>
+	<sp>495.6</sp>
+	<rsp>85</rsp>
+	<ions>14/38</ions>
+	<count>2</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|114601454|ref|XP_001158651.1| PREDICTED: hypothetical protein LOC742209 isofo</reference>
+	<peptide>N.RFILQEVNITLPENSVWYERYK.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>1015 - 1015</scan_range>
+	<charge>2</charge>
+	<search_time>11.9</search_time>
+	<intensity>8204</intensity>
+	<actual_mass>2797.47</actual_mass>
+	<input_mass>2798.00</input_mass>
+	<xcorr>2.977</xcorr>
+	<deltacn>0.108</deltacn>
+	<sp>332.7</sp>
+	<rsp>6</rsp>
+	<ions>14/42</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|31397|emb|CAA26536.1| fibronectin precursor [Homo sapiens]</reference>
+	<peptide>K.DDKESVPISDTIIPAVPPPTDLR.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>1021 - 1021</scan_range>
+	<charge>3</charge>
+	<search_time>20.8</search_time>
+	<intensity>5833</intensity>
+	<actual_mass>2475.30</actual_mass>
+	<input_mass>2475.98</input_mass>
+	<xcorr>3.395</xcorr>
+	<deltacn>0.051</deltacn>
+	<sp>558.3</sp>
+	<rsp>8</rsp>
+	<ions>26/88</ions>
+	<count>29</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|59797942|sp|Q7Z7M1.1|GP144_HUMAN RecName: Full=Probable G-protein coupled rec</reference>
+	<peptide>P.PDGVLASRLRDPVWVGQREAPLRRP.P</peptide>
+	<dta_file></dta_file>
+	<scan_range>1044 - 1044</scan_range>
+	<charge>3</charge>
+	<search_time>16.4</search_time>
+	<intensity>10689</intensity>
+	<actual_mass>2840.58</actual_mass>
+	<input_mass>2839.14</input_mass>
+	<xcorr>2.621</xcorr>
+	<deltacn>0.240</deltacn>
+	<sp>460.2</sp>
+	<rsp>34</rsp>
+	<ions>20/96</ions>
+	<count>4</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|12054072|emb|CAC20454.1| immunoglobulin heavy chain constant region gamma 1 [</reference>
+	<peptide>K.TTPPVLDSDGSFFLYSK.L</peptide>
+	<dta_file></dta_file>
+	<scan_range>1059 - 1059</scan_range>
+	<charge>2</charge>
+	<search_time>15.8</search_time>
+	<intensity>2311</intensity>
+	<actual_mass>1873.92</actual_mass>
+	<input_mass>1874.51</input_mass>
+	<xcorr>2.531</xcorr>
+	<deltacn>0.285</deltacn>
+	<sp>183.9</sp>
+	<rsp>8</rsp>
+	<ions>18/32</ions>
+	<count>99</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|11602963|emb|CAC18534.1| heparan sulfate proteoglycan perlecan [Homo sapiens]</reference>
+	<peptide>R.EVSEAVVDTLESEYLK.I</peptide>
+	<dta_file></dta_file>
+	<scan_range>1072 - 1074</scan_range>
+	<charge>2</charge>
+	<search_time>10.6</search_time>
+	<intensity>7348</intensity>
+	<actual_mass>1810.90</actual_mass>
+	<input_mass>1811.35</input_mass>
+	<xcorr>4.698</xcorr>
+	<deltacn>0.447</deltacn>
+	<sp>1550.3</sp>
+	<rsp>1</rsp>
+	<ions>21/30</ions>
+	<count>5</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|21669337|dbj|BAC01693.1| immunoglobulin kappa light chain VLJ region [Homo sa</reference>
+	<peptide>R.TVAAPSVFIFPPSDEQLK.S</peptide>
+	<dta_file></dta_file>
+	<scan_range>1075 - 1075</scan_range>
+	<charge>2</charge>
+	<search_time>11.3</search_time>
+	<intensity>4838</intensity>
+	<actual_mass>1946.03</actual_mass>
+	<input_mass>1947.32</input_mass>
+	<xcorr>2.665</xcorr>
+	<deltacn>0.041</deltacn>
+	<sp>368.1</sp>
+	<rsp>2</rsp>
+	<ions>15/34</ions>
+	<count>99</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|33150014|gb|AAP97023.1| mucin short variant SV4 [Homo sapiens] </reference>
+	<peptide>Q.RDISEMFLQICKQ.G</peptide>
+	<dta_file></dta_file>
+	<scan_range>1102 - 1102</scan_range>
+	<charge>2</charge>
+	<search_time>10.4</search_time>
+	<intensity>7628</intensity>
+	<actual_mass>1610.80</actual_mass>
+	<input_mass>1612.03</input_mass>
+	<xcorr>2.537</xcorr>
+	<deltacn>0.100</deltacn>
+	<sp>941.6</sp>
+	<rsp>1</rsp>
+	<ions>16/24</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|19071816|dbj|BAB85656.1| brain carboxylesterase hBr2 [Homo sapiens]</reference>
+	<peptide>I.PTQPAQKLKSKEMAFWTELLA.K</peptide>
+	<dta_file></dta_file>
+	<scan_range>1102 - 1102</scan_range>
+	<charge>3</charge>
+	<search_time>15.2</search_time>
+	<intensity>7628</intensity>
+	<actual_mass>2417.29</actual_mass>
+	<input_mass>2417.54</input_mass>
+	<xcorr>2.694</xcorr>
+	<deltacn>0.121</deltacn>
+	<sp>630.5</sp>
+	<rsp>7</rsp>
+	<ions>25/80</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4502337|ref|NP_001176.1| alpha-2-glycoprotein 1, zinc [Homo sapiens]</reference>
+	<peptide>K.EIPAWVPFDPAAQITK.Q</peptide>
+	<dta_file></dta_file>
+	<scan_range>1126 - 1126</scan_range>
+	<charge>2</charge>
+	<search_time>10.5</search_time>
+	<intensity>3433</intensity>
+	<actual_mass>1782.94</actual_mass>
+	<input_mass>1783.90</input_mass>
+	<xcorr>2.911</xcorr>
+	<deltacn>0.248</deltacn>
+	<sp>244.8</sp>
+	<rsp>22</rsp>
+	<ions>15/30</ions>
+	<count>4</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|36575|emb|CAA26933.1| unnamed protein product [Homo sapiens] </reference>
+	<peptide>R.DVWGIEGPIDAAFTR.I</peptide>
+	<dta_file></dta_file>
+	<scan_range>1138 - 1138</scan_range>
+	<charge>2</charge>
+	<search_time>10.4</search_time>
+	<intensity>6153</intensity>
+	<actual_mass>1646.82</actual_mass>
+	<input_mass>1648.75</input_mass>
+	<xcorr>3.547</xcorr>
+	<deltacn>0.270</deltacn>
+	<sp>985.6</sp>
+	<rsp>1</rsp>
+	<ions>18/28</ions>
+	<count>3</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|7019519|ref|NP_037403.1| proprotein convertase subtilisin/kexin type 1 inhibi</reference>
+	<peptide>A.DHDVGSELPPEGVLGALLR.V</peptide>
+	<dta_file></dta_file>
+	<scan_range>1182 - 1182</scan_range>
+	<charge>2</charge>
+	<search_time>10.7</search_time>
+	<intensity>4414</intensity>
+	<actual_mass>1974.03</actual_mass>
+	<input_mass>1974.43</input_mass>
+	<xcorr>3.276</xcorr>
+	<deltacn>0.366</deltacn>
+	<sp>857.7</sp>
+	<rsp>1</rsp>
+	<ions>23/36</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|7019519|ref|NP_037403.1| proprotein convertase subtilisin/kexin type 1 inhibi</reference>
+	<peptide>A.DHDVGSELPPEGVLGALLR.V</peptide>
+	<dta_file></dta_file>
+	<scan_range>1190 - 1190</scan_range>
+	<charge>2</charge>
+	<search_time>10.8</search_time>
+	<intensity>3670</intensity>
+	<actual_mass>1974.03</actual_mass>
+	<input_mass>1974.01</input_mass>
+	<xcorr>4.207</xcorr>
+	<deltacn>0.456</deltacn>
+	<sp>848.7</sp>
+	<rsp>1</rsp>
+	<ions>24/36</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4502027|ref|NP_000468.1| albumin preproprotein [Homo sapiens] </reference>
+	<peptide>Y.FYAPELLFFAK.R</peptide>
+	<dta_file></dta_file>
+	<scan_range>1239 - 1241</scan_range>
+	<charge>2</charge>
+	<search_time>10.0</search_time>
+	<intensity>4377</intensity>
+	<actual_mass>1345.72</actual_mass>
+	<input_mass>1346.78</input_mass>
+	<xcorr>4.043</xcorr>
+	<deltacn>0.265</deltacn>
+	<sp>854.2</sp>
+	<rsp>1</rsp>
+	<ions>17/20</ions>
+	<count>19</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|56550049|ref|NP_001008390.1| uromodulin precursor [Homo sapiens] </reference>
+	<peptide>R.DSTIQVVENGESSQGR.F</peptide>
+	<dta_file></dta_file>
+	<scan_range>714 - 716</scan_range>
+	<charge>2</charge>
+	<search_time>12.0</search_time>
+	<intensity>8545</intensity>
+	<actual_mass>1705.80</actual_mass>
+	<input_mass>1706.59</input_mass>
+	<xcorr>5.227</xcorr>
+	<deltacn>0.440</deltacn>
+	<sp>1887.3</sp>
+	<rsp>1</rsp>
+	<ions>22/30</ions>
+	<count>8</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|38372777|sp|Q8NGV6.1|OR5H6_HUMAN RecName: Full=Olfactory receptor 5H6</reference>
+	<peptide>V.FTIGTILISYTIILFTILEK.K</peptide>
+	<dta_file></dta_file>
+	<scan_range>990 - 990</scan_range>
+	<charge>3</charge>
+	<search_time>14.9</search_time>
+	<intensity>6198</intensity>
+	<actual_mass>2299.36</actual_mass>
+	<input_mass>2300.24</input_mass>
+	<xcorr>3.106</xcorr>
+	<deltacn>0.098</deltacn>
+	<sp>402.9</sp>
+	<rsp>65</rsp>
+	<ions>22/76</ions>
+	<count>1</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|119609563|gb|EAW89157.1| G protein-coupled receptor 142, isoform CRA_a [Homo </reference>
+	<peptide>R.SPCVAGVIPVIYYSVLLGLGLPGSSAGPPG.A</peptide>
+	<dta_file></dta_file>
+	<scan_range>1009 - 1009</scan_range>
+	<charge>3</charge>
+	<search_time>16.2</search_time>
+	<intensity>9848</intensity>
+	<actual_mass>2840.53</actual_mass>
+	<input_mass>2839.60</input_mass>
+	<xcorr>3.006</xcorr>
+	<deltacn>0.106</deltacn>
+	<sp>454.7</sp>
+	<rsp>58</rsp>
+	<ions>23/116</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4502027|ref|NP_000468.1| albumin preproprotein [Homo sapiens] </reference>
+	<peptide>K.VFDEFKPLVEEPQNLIK.Q</peptide>
+	<dta_file></dta_file>
+	<scan_range>1031 - 1033</scan_range>
+	<charge>2</charge>
+	<search_time>10.9</search_time>
+	<intensity>4618</intensity>
+	<actual_mass>2045.10</actual_mass>
+	<input_mass>2045.89</input_mass>
+	<xcorr>4.318</xcorr>
+	<deltacn>0.384</deltacn>
+	<sp>865.1</sp>
+	<rsp>1</rsp>
+	<ions>21/32</ions>
+	<count>21</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|88702793|ref|NP_612449.2| slit-like 2 [Homo sapiens] </reference>
+	<peptide>R.LAGLGLQQLDEGLFSR.L</peptide>
+	<dta_file></dta_file>
+	<scan_range>1103 - 1108</scan_range>
+	<charge>2</charge>
+	<search_time>10.4</search_time>
+	<intensity>10069</intensity>
+	<actual_mass>1716.93</actual_mass>
+	<input_mass>1717.54</input_mass>
+	<xcorr>5.743</xcorr>
+	<deltacn>0.375</deltacn>
+	<sp>2107.2</sp>
+	<rsp>1</rsp>
+	<ions>21/30</ions>
+	<count>3</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|6808206|emb|CAB70795.1| hypothetical protein [Homo sapiens]</reference>
+	<peptide>T.PWETLVVFAINLKQLNVQMNMS.N</peptide>
+	<dta_file></dta_file>
+	<scan_range>1103 - 1108</scan_range>
+	<charge>3</charge>
+	<search_time>16.8</search_time>
+	<intensity>10069</intensity>
+	<actual_mass>2575.34</actual_mass>
+	<input_mass>2575.81</input_mass>
+	<xcorr>3.522</xcorr>
+	<deltacn>0.058</deltacn>
+	<sp>1125.0</sp>
+	<rsp>5</rsp>
+	<ions>27/84</ions>
+	<count>5</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|7019519|ref|NP_037403.1| proprotein convertase subtilisin/kexin type 1 inhibi</reference>
+	<peptide>A.DHDVGSELPPEGVLGALLR.V</peptide>
+	<dta_file></dta_file>
+	<scan_range>1150 - 1150</scan_range>
+	<charge>2</charge>
+	<search_time>10.8</search_time>
+	<intensity>3877</intensity>
+	<actual_mass>1974.03</actual_mass>
+	<input_mass>1974.58</input_mass>
+	<xcorr>4.228</xcorr>
+	<deltacn>0.426</deltacn>
+	<sp>1007.3</sp>
+	<rsp>1</rsp>
+	<ions>26/36</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|7019519|ref|NP_037403.1| proprotein convertase subtilisin/kexin type 1 inhibi</reference>
+	<peptide>A.DHDVGSELPPEGVLGALLR.V</peptide>
+	<dta_file></dta_file>
+	<scan_range>1151 - 1151</scan_range>
+	<charge>3</charge>
+	<search_time>21.5</search_time>
+	<intensity>5285</intensity>
+	<actual_mass>1974.03</actual_mass>
+	<input_mass>1975.02</input_mass>
+	<xcorr>3.239</xcorr>
+	<deltacn>0.112</deltacn>
+	<sp>765.9</sp>
+	<rsp>4</rsp>
+	<ions>28/72</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|7019519|ref|NP_037403.1| proprotein convertase subtilisin/kexin type 1 inhibi</reference>
+	<peptide>A.DHDVGSELPPEGVLGALLR.V</peptide>
+	<dta_file></dta_file>
+	<scan_range>1153 - 1153</scan_range>
+	<charge>2</charge>
+	<search_time>17.1</search_time>
+	<intensity>4305</intensity>
+	<actual_mass>1974.03</actual_mass>
+	<input_mass>1974.20</input_mass>
+	<xcorr>4.634</xcorr>
+	<deltacn>0.488</deltacn>
+	<sp>1559.3</sp>
+	<rsp>1</rsp>
+	<ions>29/36</ions>
+	<count>0</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|579676|emb|CAA38587.1| alpha-1-microglobulin; bikunin [Homo sapiens] </reference>
+	<peptide>R.AFIQLWAFDAVK.G</peptide>
+	<dta_file></dta_file>
+	<scan_range>1175 - 1175</scan_range>
+	<charge>2</charge>
+	<search_time>9.8</search_time>
+	<intensity>6308</intensity>
+	<actual_mass>1408.76</actual_mass>
+	<input_mass>1409.27</input_mass>
+	<xcorr>3.972</xcorr>
+	<deltacn>0.237</deltacn>
+	<sp>1331.3</sp>
+	<rsp>1</rsp>
+	<ions>18/22</ions>
+	<count>1</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|579676|emb|CAA38587.1| alpha-1-microglobulin; bikunin [Homo sapiens] </reference>
+	<peptide>R.AFIQLWAFDAVK.G</peptide>
+	<dta_file></dta_file>
+	<scan_range>1178 - 1178</scan_range>
+	<charge>2</charge>
+	<search_time>8.2</search_time>
+	<intensity>6541</intensity>
+	<actual_mass>1408.76</actual_mass>
+	<input_mass>1409.06</input_mass>
+	<xcorr>4.142</xcorr>
+	<deltacn>0.208</deltacn>
+	<sp>1519.0</sp>
+	<rsp>1</rsp>
+	<ions>18/22</ions>
+	<count>1</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4502027|ref|NP_000468.1| albumin preproprotein [Homo sapiens] </reference>
+	<peptide>Y.FYAPELLFFAK.R</peptide>
+	<dta_file></dta_file>
+	<scan_range>1194 - 1196</scan_range>
+	<charge>2</charge>
+	<search_time>9.7</search_time>
+	<intensity>3981</intensity>
+	<actual_mass>1345.72</actual_mass>
+	<input_mass>1345.91</input_mass>
+	<xcorr>3.601</xcorr>
+	<deltacn>0.288</deltacn>
+	<sp>847.4</sp>
+	<rsp>1</rsp>
+	<ions>17/20</ions>
+	<count>19</count>
+</peptide_match>
+<peptide_match>
+	<reference>gi|4502027|ref|NP_000468.1| albumin preproprotein [Homo sapiens] </reference>
+	<peptide>Y.FYAPELLFFA.K</peptide>
+	<dta_file></dta_file>
+	<scan_range>1325 - 1325</scan_range>
+	<charge>1</charge>
+	<search_time>8.0</search_time>
+	<intensity>3938</intensity>
+	<actual_mass>1217.62</actual_mass>
+	<input_mass>1218.31</input_mass>
+	<xcorr>2.347</xcorr>
+	<deltacn>0.256</deltacn>
+	<sp>389.9</sp>
+	<rsp>1</rsp>
+	<ions>11/18</ions>
+	<count>20</count>
+</peptide_match>
+</sequestresults>
