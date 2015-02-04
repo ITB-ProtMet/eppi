@@ -114,7 +114,7 @@ identified peptides or only those defined “best” (Peptide Set option in fig 
 insert a list of protein identifiers or through an Excel file
 (fig 11).
 
-![targetProt] (images/Eppi_insert_target "Insert Targets dialog")
+![targetProt] (images/Eppi_insert_target.png "Insert Targets dialog")
 
 **fig 11:** *By means of this window, the users may insert
 target protein identifiers to retrieve the related best peptides, and to
@@ -137,7 +137,7 @@ protein; Peptide: sequence of a peptide related to a target protein;
 peptide occurs in the input files; Best: it indicates if a given peptide
 sequence was defined best or not*
 
-![targetProt2](images/Eppi_target_proteins_list "Target\_proteins\_list table")
+![targetProt2](images/Eppi_target_proteins_list.png "Target\_proteins\_list table")
 
 **fig 13:** *Protein: identifier number of a target
 protein;\#All Peptide: number of total distinct peptides identified for
@@ -155,7 +155,7 @@ the first three peptides with best occurrence. These three peptides
 belong to best peptide group or to all peptide group, according to the
 peptide Set option in Insert Targets window (fig 11).
 
-![change](images/Eppi_change_targets_peptides "Change Target Peptides dialog") 
+![change](images/Eppi_change_targets_peptides.pmg "Change Target Peptides dialog") 
 
 **fig 14:** *It allows to set a target protein, and
 three related peptides which are evaluated, as Proteotypic Peptide Set,
@@ -181,39 +181,37 @@ card.csv
 :   reports the intersections among the protein subsets targeted by each
     considered peptide (best or not).
 
-    ![card](images/card.png "Card table")
+![card](images/card.png "Card table")
     
-    **fig 15:** *Seq: peptide sequence. mw: molecular weight. s1, s2,
-    s3: number of database entries containing a peptide
-    indistinguishable from seq1, seq2, seq3 (or mw1, mw2, mw3),
-    respectively. s12: it indicates the number of proteins containing at
-    least two peptides indistinguishable by both seq1 and seq2 (or mw1
-    and mw2); s13: it indicates the number of proteins containing at
-    least two peptides indistinguishable by both seq1 and seq3 (or mw1
-    and mw3); s23: it indicates the number of proteins containing at
-    least two peptides indistinguishable by both seq2 and seq3 (or mw2
-    and mw3.); s123/result: they indicate the number of proteins
-    containing at least three peptides indistinguishable by seq1, seq2
-    and seq3 (or mw1, mw2 and mw3). If s123 is 0, the final result
-    corresponds to the smaller subset (s1, s2, s3, s12, s23, s31) not
-    empty.*
+**fig 15:** *Seq: peptide sequence. mw: molecular weight. s1, s2, s3: number of database entries containing a peptide indistinguishable from seq1, seq2, seq3 (or mw1, mw2, mw3),
+respectively. s12: it indicates the number of proteins containing at
+least two peptides indistinguishable by both seq1 and seq2 (or mw1
+and mw2); s13: it indicates the number of proteins containing at
+least two peptides indistinguishable by both seq1 and seq3 (or mw1
+and mw3); s23: it indicates the number of proteins containing at
+least two peptides indistinguishable by both seq2 and seq3 (or mw2
+and mw3.); s123/result: they indicate the number of proteins
+containing at least three peptides indistinguishable by seq1, seq2
+and seq3 (or mw1, mw2 and mw3). If s123 is 0, the final result
+corresponds to the smaller subset (s1, s2, s3, s12, s23, s31) not
+empty.*
 
 search.csv
 :   reports, for each peptide, the number of protein entries containing
     similar indistinguishable peptides, by molecular weight or
     amino-acid sequence;
 
-    ![search](images/search.png "Search table")
+![search](images/search.png "Search table")
     
-    **fig 16:** *Search table*
+**fig 16:** *Search table*
 
 result.csv
 :   reports, for each target protein, the protein identifiers
     corresponding to “result” in card table ( [fig:card]).
 
-    ![result](images/result "Result table")
+![result](images/result.png "Result table")
     
-    **fig 17:** *Result table.*
+**fig 17:** *Result table.*
 
 Result and Report menu
 ======================
