@@ -91,7 +91,7 @@ Inserting background proteome
 
 The Insert Database function allows to insert a reference database
 (fasta format) and to set some parameters for processing the
-experimental data ( [fig:database]). The user has to set a digestion
+experimental data (fig 10). The user has to set a digestion
 enzyme, to produce a reference peptidome, the miss cleavage value and a
 tolerance delta mass. In this way, selected best peptides will be
 compared against a database containing the background proteome to be
@@ -207,7 +207,7 @@ search.csv
 
 result.csv
 :   reports, for each target protein, the protein identifiers
-    corresponding to “result” in card table ( [fig:card]).
+    corresponding to “result” in card table (fig 15).
 
 ![result](images/result.png "Result table")
     
