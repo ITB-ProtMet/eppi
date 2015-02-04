@@ -7,24 +7,24 @@ peptides (PTPs). The data processing is composed by several steps linked
 between them. The steps will be described according the logical sequence
 of data elaboration.\
 The first step to use EPPI is to create a new project or to open an
-existing one, using the Project menu ( [fig:project]).
+existing one, using the Project menu ([project]).
 
-![image](images/open)
+![project](images/open.png "Project menu.")
 
-![Left: Project menu. Right: Action menu.](images/Action "fig:")[fig:project]
+![action](images/Action.png "Action menu")
 
 Inserting and pre-processing data: Join function
 ================================================
 
-Main functions are reported in Action menu ( [fig:project]). The Join
+Main functions are reported in Action menu ([project]). The Join
 function permits to insert input data through a folder containing them.
 EPPI accepts files produced by Bioworks 3.3.1, Discoverer 1.4, Mascot
-and PRIDE. XML, XLS and mzIdentML formats are accepted ( [fig:join]).
+and PRIDE. XML, XLS and mzIdentML formats are accepted ([format]).
 
-![image](images/EPPI_join)
+![join](images/EPPI_join.png "Join function")
 
-![Left: Join function. Right: file formats EPPI is able to accept in
-input.](images/formatFile "fig:")[fig:join]
+![format](images/formatFile.png "File formats EPPI is able to accept in
+input.")
 
 After data are loaded, EPPI merges the input files and for each
 identified peptide and protein it calculates the Identification
