@@ -155,7 +155,7 @@ the first three peptides with best occurrence. These three peptides
 belong to best peptide group or to all peptide group, according to the
 peptide Set option in Insert Targets window (fig 11).
 
-![change](images/Eppi_change_targets_peptides.pmg "Change Target Peptides dialog") 
+![change](images/Eppi_change_targets_peptides.png "Change Target Peptides dialog") 
 
 **fig 14:** *It allows to set a target protein, and
 three related peptides which are evaluated, as Proteotypic Peptide Set,
