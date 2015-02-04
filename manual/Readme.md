@@ -10,9 +10,11 @@ The first step to use EPPI is to create a new project or to open an
 existing one, using the Project menu (fig 1).
 
 ![project](images/open.png "Project menu")
+
 **fig 1:** *Project menu.*
 
 ![action](images/Action.png "Action menu")
+
 **fig 2:** *Action menu.*
 
 Inserting and pre-processing data: Join function
@@ -24,9 +26,11 @@ EPPI accepts files produced by Bioworks 3.3.1, Discoverer 1.4, Mascot
 and PRIDE. XML, XLS and mzIdentML formats are accepted (fig 4).
 
 ![join](images/EPPI_join.png "Join function")
+
 **fig 3:** *Join function.*
 
 ![format](images/formatFile.png "File formats")
+
 **fig 4:** *File formats EPPI is able to accept in input.*
 
 After data are loaded, EPPI merges the input files and for each
@@ -34,7 +38,7 @@ identified peptide and protein it calculates the Identification
 Frequency (IF). The results of this processing are shown in
 all\_peptides table, reported in  [allp].
 
-![allp] (images/Eppi_all_peptides "All peptides table")
+![allp] (images/Eppi_all_peptides.png "All peptides table")
 **fig 5:** *All\_peptides table (result of Join function). Protein: identifier
 number of a given protein; \#Protein/\#Peptide: number of times that a
 given protein/peptide occurs in the input files; Peptide: peptide
