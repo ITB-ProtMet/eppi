@@ -12,7 +12,7 @@ Eppi requires other external library, such wx, matplotlib or xlrd, but they are 
 To manage tests in EPPI (not yet Functional regrettably) we use nosetests and nose-exclude
 
     cd eppi
-    nose --with-doc --exclude-dir=doc
+    nosetests --with-doc --exclude-dir=./doc
 
 ## Building executable
 To compile EPPI in an executable you need the latest version of 
