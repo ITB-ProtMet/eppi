@@ -39,6 +39,9 @@ The Eppi main interface comes from a IBM example. You can see the code [here](ht
 or in the doc package in wxPython 
 "wxPythonx.y Docs and Demos/samples/wxProject/wxProject.py".
 
+The dialog creation in `DialogCommons.py` is modified from Demo Dialog code. You can find the original code in the doc package in wxPython 
+"wxPythonx.y Docs and Demos/demo/Dialog.py".
+
 The prj file management is inspired by a [Active Python recipe](http://code.activestate.com/recipes/576642/) 
 written by Raymond Hettinger - Wed, 4 Feb 2009 (MIT). 
  

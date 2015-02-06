@@ -17,6 +17,9 @@
 """
 Everything to create Dialog used by EPPI
 Note: It's done without using classes.
+
+The original code is in example codes
+demo/Dialog.py
 """
 
 __authors__ = "Pietro Brunetti"
@@ -51,7 +54,6 @@ def _postcreate(parent, pre):
     parent.PostCreate(pre)
     return wx.BoxSizer(wx.VERTICAL)
 
-
 def createBtnSizer(parent, sizer, helpTxt=""):
     """ At the end of the control dialog we need to use
         some buttons... to use functionality or to close it"""
@@ -65,8 +67,6 @@ def _createLine(parent, sizer):
         line = wx.StaticLine(parent, -1, size=(20,-1), style=wx.LI_HORIZONTAL)
         mask_ = wx.GROW|wx.ALIGN_CENTER_VERTICAL|wx.RIGHT|wx.TOP
         sizer.Add(line, 0, mask_, 5)
-
-
 
 def MsgDlg(window, string, caption='EPPI', style=wx.YES_NO):
     """
@@ -90,7 +90,7 @@ class Is_there_file(wx.PyValidator):
     def Validate(self, ctl):
         win = self.GetWindow()
         val = win.GetValue()
-        
-        return os.path.isfile(val) 
-        
+
+        return os.path.isfile(val)
+
 
