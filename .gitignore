@@ -4,7 +4,6 @@
 *.py[cod]
 *.so
 *.manifest
-*.spec
 tmp*
 ui_*
 EPPI\peptidome\commons\Param.c

@@ -1,7 +1,5 @@
 PY = C:\\Python27\\python.exe
 
-UPX = C:\\Program Files\\upx308w
-
 PYINS = C:\\Docume~1\\Proteo~1\\pyinst~1\\pyinstaller.py
 
 ISCC = C:\\Program Files\\Inno Setup 5\\ISCC.exe
@@ -36,10 +34,11 @@ EPPI\\raw\\preStats.py\
 EPPI\\raw\\proteomic_xls.py\
 EPPI\\raw\\proteomic_xml.py
 
-EXE = dist\\EPPI.exe
 ICO = EPPI\\faceglasses.ico
 
-DIR = C:\\Python27\\Lib\\site-packages
+SPEC = EPPI.spec
+
+EXE = dist\\EPPI.exe
 
 SU = EPPI\\peptidome\\commons\\setup.py
 PPYX = EPPI\\peptidome\\commons\\Param.pyx
@@ -48,20 +47,17 @@ PC = EPPI\\peptidome\\commons\\Param.c
 setup.exe:  $(EXE) scb.iss
 	$(ISCC) scb.iss
 
-$(EXE): $(MAIN) $(MODULES) $(ICO)
-	$(PY) $(PYINS) --icon=$(ICO) --paths=$(DIR) -w -F $(MAIN) $(MODULES)
-# -d for debug option
-	
+# write better this part, it does not work
+$(EXE): $(MAIN) $(MODULES) $(ICO) $(SPEC)
+	$(PY) $(PYINS) $(SPEC)
 
 $(PC): $(PPYX) $(SU)
 	$(PY) $(SU) build_ext --inplace
-
 
 .PHONY: clean
 clean:
 	rm -fr Build
 	rm -fr dist
 	rm -fr Output
-	rm -f EPPI.spec
 	rm -f *.log
 	rm -f warnEPPI.txt

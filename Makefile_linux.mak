@@ -32,19 +32,20 @@ EPPI/raw/preStats.py\
 EPPI/raw/proteomic_xls.py\
 EPPI/raw/proteomic_xml.py
 
-EXE = dist/EPPI
 ICO = EPPI/faceglasses.ico
 
-DIR = /usr/local/lib/python2.7/site-packages
+SPEC = EPPI.spec
+
+EXE = dist/EPPI
 
 SU = EPPI/peptidome/commons/setup.py
 PPYX = EPPI/peptidome/commons/Param.pyx
 PC = EPPI/peptidome/commons/Param.c
 
-$(EXE): $(MAIN) $(MODULES) $(ICO)
-	$(PYINS) --icon=$(ICO) --paths=$(DIR) -w -F $(MAIN) $(MODULES)
-#-d for debug option
+$(EXE): $(MAIN) $(MODULES) $(ICO) $(SPEC)
+	$(PYINS) $(SPEC)
 
+# write better this part, it does not work
 $(PC): $(PPYX) $(SU)
 	$(PY) $(SU) build_ext --inplace
 
@@ -53,6 +54,5 @@ clean:
 	rm -fr Build
 	rm -fr dist
 	rm -fr Output
-	rm -f EPPI.spec
 	rm -f *.log
 	rm -f warnEPPI.txt
