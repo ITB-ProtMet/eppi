@@ -14,31 +14,26 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-from distutils.core import setup
-
-#import sys
-#sys.path.insert(0, os.path.abspath('../EPPI/'))
-#import EPPI
+from setuptools import setup
+from setuptools import find_packages
 
 setup(name='EPPI',
-      version='1.0',
+      version='2.0',
       author='Pietro Brunetti',
       author_email='pietro.brunetti@itb.cnr.it',
-      #url='',
-      #download_url='',
+      url='https://github.com/ITB-ProtMet/eppi',
+      license='Apache2',
       description='Experimental Proteotypic Peptides Investigator',
-      #long_description=EPPI.EPPI.__doc__,
-      # <- some  problems with relative importing?
-      packages=['EPPI', 'EPPI.raw', 'EPPI.peptidome',
-                'EPPI.peptidome.commons', 'test', 'doc'],
-      #package_dir={'EPPI': 'EPPI'},
-      #package_data={'EPPI': ['EPPI/faceglasses.ico']},
-      data_files=[('icon', ['EPPI/faceglasses.ico']),
-                  ('doc_index', ['doc/index.rst']),
-                  ('fasta_ex', ['test/Cypselurus_Hbps.fasta'])],
+      packages=find_packages(),
+      package_data={'EPPI': ['EPPI/faceglasses.ico']},
+      install_requires=[
+          'xlrd',
+          'matplotlib',
+          'wx',
+          'jinja2'
+      ]
       provides=['EPPI'],
       keywords='Mass-Spectrometry Proteomic Proteotypic',
-      license='',
       classifiers=['Development Status :: 1 - Planning',
                    'Intended Audience :: Science/Research',
                    'Natural Language :: English',
@@ -50,12 +45,3 @@ setup(name='EPPI',
                    'Topic :: Scientific/Engineering :: Medical Science Apps.',
                   ],
      )
-
-# setup.py
-
-# for notes on compiler flags see:
-# http://docs.python.org/install/index.html
-
-
-
-

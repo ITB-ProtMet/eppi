@@ -1,6 +1,10 @@
 #syntax: glob
 *.bak
 #*.csv
+card.csv
+output.csv
+result.csv
+search.csv
 *.py[cod]
 *.so
 *.manifest
