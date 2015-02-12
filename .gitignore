@@ -17,3 +17,6 @@ build/
 dist/
 .idea
 .hg*
+.make.py.swp/
+EPPI.egg-info/
+deb_dist/
