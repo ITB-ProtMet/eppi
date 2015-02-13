@@ -31,7 +31,7 @@ setup(name='EPPI',
           'matplotlib',
           'wx',
           'jinja2',
-          'ctypes'
+          'cython'
       ]
       #provides=['EPPI'],
       #keywords='Mass-Spectrometry Proteomic Proteotypic',

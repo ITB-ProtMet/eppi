@@ -17,7 +17,7 @@ Eppi requires other external library:
  - [matplotlib](http://matplotlib.org/),
  - [xlrd](http://www.python-excel.org/),
  - [jinja2](http://jinja.pocoo.org/),
- - [ctypes](https://docs.python.org/2/library/ctypes.html).
+ - [cython](http://cython.org).
 
 To manage tests in EPPI (not yet Functional regrettably) we use [nosetests](https://nose.readthedocs.org/en/latest/).
 I could run the `make.py`
