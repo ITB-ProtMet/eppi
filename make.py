@@ -21,7 +21,17 @@ def deleteDirectory(path):
 	    print ose
 
 arg = sys.argv[1] if len(sys.argv) >= 2 else None
+#-------------------------------------------------
+# I need to build the library if it isn't
+# or if it is not recent
+#-------------------------------------------------
 
+if not os.path.exist(r'./EPPI/peptidome/commons/build') or \
+os.path.getmtime(r'./EPPI/peptidome/commons/build') < os.path.getmtime(r'./EPPI/peptidome/commons/Param.pyx'):
+    os.chdir(r"./EPPI/peptidome/commons/")
+    subprocess.call(['python', 'setup.py', "build_ext",'--inplace']) 
+    os.chdir(r'../../../')
+   
 if arg == 'dist':
      if len(sys.argv) == 3:
          pyinst_path = sys.argv[2]
