@@ -29,8 +29,7 @@ I could run the `make.py`
 
 that uses 
 
-    nosetests --with-do
-
+    nosetests --with-doc
 
 To install EPPI (on your python distribuition):
 
