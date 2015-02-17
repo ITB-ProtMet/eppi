@@ -1,6 +1,7 @@
 #syntax: glob
 *.bak
 #*.csv
+].swp
 card.csv
 output.csv
 result.csv

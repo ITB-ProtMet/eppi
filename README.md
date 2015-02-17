@@ -2,15 +2,13 @@
 
  eppi - experimental proteotypic peptides investigator
 
-**TO DO**: *Explain better `make.py` options* 
-
 ## Before to use EPPI
 EPPI imports a Cython Param library with cython. Before to run EPPI you need to build this library.
 
      cd eppi/EPPI/peptidome/commons/
      python setup.py build_ext --inplace
 
-*TO DO: I would manage this step in make.py file*
+or simply runnning 'make.py'.
 
 Eppi requires other external library:
  - [wx](http://wxpython.org/),
@@ -19,6 +17,11 @@ Eppi requires other external library:
  - [jinja2](http://jinja.pocoo.org/),
  - [cython](http://cython.org).
 
+
+To run EPPI you can type:
+    
+    make.py run
+
 To manage tests in EPPI (not yet Functional regrettably) we use [nosetests](https://nose.readthedocs.org/en/latest/).
 I could run the `make.py`
 
@@ -26,32 +29,37 @@ I could run the `make.py`
 
 that uses 
 
-    nosetests --with-doc
+    nosetests --with-do
+
+
+To install EPPI (on your python distribuition):
+
+    make.py install
 
 ## Building executable
 To compile EPPI in an executable you need the latest version of
-[pyinstaller](https://github.com/pyinstaller/pyinstaller/wiki).
+[pyinstaller](https://giithub.com/pyinstaller/pyinstaller/wiki).
 
-For Windows you could build also an installer, but you need
+    make.py dist /path/to/pyinstaller/folder
+
+For Windows, after you made the executable, you can build also an installer, but you need
 [InnoSetup](http://www.jrsoftware.org/isinfo.php).
-**TO DO**: *Manage this issue with `make,py`*
-Edit `scb.iss` to set the correct paths.
-We include also two makefiles to run (we use gnu make) the compiling pipe,
-you need only to edit them to define your local paths.
 
-    cd eppi
+    make.py inst /path/to/InnoSetup/folder
 
-For windows:
 
-    make -f Makefile_win_27.mak
+or can also bulid a package. For .deb, if you have installed python-stdeb:
 
-For linux:
+    make.py deb
 
-    make -f Makefile_linux.mak
+for .rpm
 
-or, for an executable that depends on OS in use type directly:
+    make rpm
 
-    python make.py dist
+for a source distribuition:
+
+    make source
+
 
 ## Notes about resource used
 

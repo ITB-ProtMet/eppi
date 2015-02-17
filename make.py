@@ -1,3 +1,5 @@
+#! /usr/bin/env python
+
 import os
 import shutil
 import subprocess
@@ -30,7 +32,7 @@ build_exist = os.path.exists(r'./EPPI/peptidome/commons/build')
 time_build = os.path.getmtime(r'./EPPI/peptidome/commons/build') 
 time_param = os.path.getmtime(r'./EPPI/peptidome/commons/Param.pyx')
 
-if not build_exist or time_build < time_param:
+if not build_exist or (time_build < time_param):
     os.chdir(r"./EPPI/peptidome/commons/")
     subprocess.call([
         'python', 
@@ -101,3 +103,10 @@ elif arg == 'inst':
         inno_path = raw_input("path to Inno setup ISCC.exe: ")
         subprocess.call([inno_path, 'scb.iss']) 
 
+elif arg == 'install':
+    subprocess.call([
+        'python', 'setup.py', 'install'
+    ])
+
+else:
+    print "Valid options are: install, dist, inst, deb, rpm, source, run, test, clean"
