@@ -10,7 +10,7 @@ search.csv
 *.manifest
 tmp*
 ui_*
-EPPI\peptidome\commons\Param.c
+EPPI/peptidome/commons/Param.c
 *build/
 .coverage
 build/
