@@ -41,7 +41,7 @@ def Summary(fileDB, t="EPPI project report"):
     # used in stand-alone version
     templ = Template(summary)
     return str(templ.render(_get_data(fileDB, t)))
-    
+
 def Protein(reference, fileDB, title="EPPI protein report"):
     """
     Writing a html file
@@ -52,7 +52,6 @@ def Protein(reference, fileDB, title="EPPI protein report"):
     # used in stand-alone version
     templ = Template(proteinReport)
     return str(templ.render(_proteinQuery(reference, fileDB, title)))
-    
 
 def Peptide(sequence, fileDB,  title="EPPI peptide report"):
     """
@@ -73,8 +72,8 @@ def _get_data(fileDB, title):
     Generate the search list
     """
     name = fileDB.get_project_name()
-    data = []           
-   
+    data = []
+
     try:
         enz_code = fileDB["enzyme"]
     except KeyError:
@@ -88,7 +87,7 @@ def _get_data(fileDB, title):
                      fileDB["miscut"]))
     except KeyError:
         pass
-    
+
     try:
         data.append(("Fasta file used: ",
                      fileDB['proteome']['fasta_path']))
@@ -153,8 +152,8 @@ def _proteinQuery(accession, fileDB, title):
     """
     try:
         #fasta = fasta_indx.Saf(fileDB["fasta"])
-        fasta = fileDB["proteome"]
-        fasta.name = fileDB["proteome"]["fasta_path"]
+        fasta = fasta_indx.Saf(proteome=fileDB["proteome"]["indx"])
+        fasta.fasta_path = fileDB["proteome"]["fasta_path"]
     except fasta_indx.WrongFile:
         reporting.echo_error("{0} not found.".format(fileDB["proteome"]["fasta_path"]), True)
     except fasta_indx.WrongReference, e:
@@ -164,15 +163,15 @@ def _proteinQuery(accession, fileDB, title):
         des = fasta.get_reference(accession)
     except:
         seq, des = (None, None)
-        
-    try: 
+
+    try:
         prot_num = fileDB.get_parser().proteins[accession]
-    except KeyError: 
+    except KeyError:
         prot_num = None
-        
-    try: 
+
+    try:
         pepts = fileDB.get_parser().peptides[accession]
-    except KeyError: 
+    except KeyError:
         pepts = None
 
     nameSpace = {'title': title, 'sequence': seq, 'description': des,
@@ -190,33 +189,34 @@ def _data_format(results, fileDB):
             prot_num = fileDB.get_parser().proteins[accession]
         except KeyError:
             prot_num = 'NA'
-        try: 
+        try:
             pepts = fileDB.get_parser().peptides[accession]
-        except KeyError: 
+        except KeyError:
             pepts = None
-        datum = (p[0], p[3], p[1], 
+        datum = (p[0], p[3], p[1],
                  p[2], prot_num, pepts)
         yield datum
 
 
 def _peptideQuery(sequence,  fileDB, title):
     """ Writing a peptide report """
-    
+
     mw_ori = Param.mi_mw(str(sequence))
     try:
-        fst_i = fileDB["proteome"]
-        fst_i.name = fileDB["proteome"]["fasta_path"]
+        fst_i = fasta_indx.Saf(proteome=fileDB["proteome"]["indx"])
+        fst_i.fasta_path = fileDB["proteome"]["fasta_path"]
     except fasta_indx.WrongFile:
         reporting.echo_error("{0} not found.".format(fileDB["proteome"]["fasta_path"]), True)
     except fasta_indx.WrongReference, e:
         reporting.echo_error("{0}".format(str(e)), True)
+
     #for sequence
     data_seq = _data_format(fst_i.search_by_sequence(str(sequence), window=True), fileDB)
-    
+
     #for weight
     if "delta" in fileDB.keys():
         d = fileDB["delta"]
-    else: 
+    else:
         d = 800
     if "enzyme" in fileDB.keys():
         enz_code = fileDB["enzyme"]
@@ -233,7 +233,7 @@ def _peptideQuery(sequence,  fileDB, title):
         mc = 2
 
     data_mw = _data_format(fst_i.search_by_mw(mw_ori, e, e_exc, mc, d, window=True), fileDB)
-        
+
     nameSpace = {'title': title, 'sequence': sequence,
                  'mw': mw_ori*10**(-5), 'delta': d*10**(-5),
                  'results_seq': data_seq, 'results_mw': data_mw}
