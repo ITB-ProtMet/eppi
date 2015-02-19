@@ -288,15 +288,15 @@ class Saf(dict):
                         else: break
                 if window:
                     _close_prg(dlg)
-            # TODO: check the format here
-            else:
-                self.indx = proteome
+
+        # TODO: check the format here
+        else:
+            self.indx = proteome
 
     @staticmethod
     def from_dict(dict_):
         """ (re)construct Saf from dictionary. """
         root = Saf(dict_["fasta_path"], dict_['indx'])
-        print root["fasta_path"]
         return root
 
     def __repr__(self):
@@ -312,7 +312,7 @@ class Saf(dict):
         >>> print repr(reader)
         <Saf for Cypselurus_Hbps.fasta>
         """
-        return r"<Saf for {0}>".format(os.path.split(self.fasta_path)[1])
+        return r"<Saf for {0}>".format(os.path.split(self["fasta_path"])[1])
 
     def __str__(self):
         """
@@ -329,7 +329,7 @@ class Saf(dict):
         number of sequences: 9
         """
         msg = "file: {0}\nnumber of sequences: {1}"
-        return msg.format(os.path.split(self.fasta_path)[1], len(self.indx.keys()))
+        return msg.format(os.path.split(self["fasta_path"])[1], len(self["indx"].keys()))
 
     def get_reference(self, acc):
         """
@@ -352,7 +352,7 @@ class Saf(dict):
         """
         #if type(acc) != type('string'):
         acc = str(acc)
-        return self.indx[acc][1].rstrip(os.linesep)
+        return self["indx"][acc][1].rstrip(os.linesep)
 
     def get_sequence(self, acc):
         """
@@ -377,8 +377,8 @@ class Saf(dict):
         :return: the sequence corresponding to accession gi
         :rtype: str
         """
-        with open(self.fasta_path, 'rU') as f_input:
-            position = self.indx[acc][0]
+        with open(self["fasta_path"], 'rU') as f_input:
+            position = self["indx"][acc][0]
             f_input.seek(position)
             return _sequence(f_input)
 
@@ -398,15 +398,12 @@ class Saf(dict):
         :var peptide: peptide to find
         :type peptide: str
         """
-#        if type(peptide) not in (str, unicode):
-#            msg = "The searched peptide {0} is bad formed.  {1}"
-#            raise WrongPeptide, msg.format(peptide, type(peptide))
-        with open(self.fasta_path, 'rU') as f_input:
+        with open(self["fasta_path"], 'rU') as f_input:
             key = re.compile(peptide, re.M)
-            for acc in self.indx.keys():
-                f_input.seek(self.indx[acc][0])
+            for acc in self["indx"].keys():
+                f_input.seek(self["indx"][acc][0])
                 if key.search(_sequence(f_input)):
-                    yield self.indx[acc][1].rstrip(os.linesep)
+                    yield self["indx"][acc][1].rstrip(os.linesep)
 
     def search_composition(self, peptide):
         """
@@ -426,13 +423,13 @@ class Saf(dict):
         :type peptide: str
         """
         len_sp = len(peptide)
-        with open(self.fasta_path, 'rU') as f_input:
-            for acc in self.indx.keys():
-                f_input.seek(self.indx[acc][0])
+        with open(self["fasta_path"], 'rU') as f_input:
+            for acc in self["indx"].keys():
+                f_input.seek(self["indx"][acc][0])
                 seq = _sequence(f_input)
                 for sub_seq in _iterslice(seq, len_sp):
                     if _compare_composition(peptide, sub_seq):
-                        yield self.indx[acc][1].rstrip(os.linesep)
+                        yield self["indx"][acc][1].rstrip(os.linesep)
 
     def search_by_mw(self, mw_target, enzyme, enzyme_exception=None, miscut=0, delta=800, window = None):
         """
@@ -473,12 +470,12 @@ class Saf(dict):
             if window:
                 dlg = _progress_bar("Find targets by molecular weight")
 
-
+            #print self.keys()
             # write the chose of the type the enzyme
             # in project file
             if enzyme != peptidases.no_enz:
-                for acc in self.indx.keys():
-                    f_input.seek(self.indx[acc][0])
+                for acc in self["indx"].keys():
+                    f_input.seek(self["indx"][acc][0])
                     prot_seq = _sequence(f_input)
 
                     if window:
@@ -497,13 +494,13 @@ class Saf(dict):
                                       "Bad Sequence Error!", wx.ICON_ERROR)
 
                     for seq, mw in temp:
-                        ref = self.indx[acc][1].rstrip(os.linesep)
+                        ref = self["indx"][acc][1].rstrip(os.linesep)
                         yield (acc, seq, round(mw*10**-5, 5), ref)
 
             else:
-                for acc in self.indx.keys():
+                for acc in self["indx"].keys():
 
-                    f_input.seek(self.indx[acc][0])
+                    f_input.seek(self["indx"][acc][0])
                     prot_seq = _sequence(f_input)
 
                     if window:
@@ -520,7 +517,7 @@ class Saf(dict):
                                           "Bad Sequence Error!", wx.ICON_ERROR)
 
                     for seq, mw in temp:
-                        ref = self.indx[acc][1].rstrip(os.linesep)
+                        ref = self["indx"][acc][1].rstrip(os.linesep)
                         yield (acc, seq, round(mw*10**-5, 5), ref)
 
             if window:
@@ -548,33 +545,31 @@ class Saf(dict):
         :return: yields tuples, each tuple contains protein accession, peptide sequence, peptide molecular weight and protein reference
         :rtype: list
         """
-
         try:
             mw = mi_mw(sequence)
         except wrongSequence:
             raise WrongPeptide
         else:
             with open(self.fasta_path, 'rU') as f_input:
-                #print self.indx.keys()
                 if window:
                     dlg = _progress_bar("Find targets by sequence")
 
-                for acc in self.indx.keys():
-                    if acc != "__name":
-                        f_input.seek(self.indx[acc][0])
-                        prot_seq = _sequence(f_input)
-                        where =  prot_seq.find(sequence)
-                        if where > -1:
-                            ref = self.indx[acc][1].rstrip(os.linesep)
-                            yield (acc, sequence, round(mw*10**-5, 5), ref)
+                for acc in self["indx"].keys():
+                    f_input.seek(self['indx'][acc][0])
+                    prot_seq = _sequence(f_input)
+                    where =  prot_seq.find(sequence)
 
-                        if window:
-                            if not _move_prg(dlg, "Searching in %s" % (acc, )):
-                                break
+                    if where > -1:
+                        ref = self["indx"][acc][1].rstrip(os.linesep)
+                        yield (acc, sequence, round(mw*10**-5, 5), ref)
 
                     if window:
-                        # closing progress bar
-                        _close_prg(dlg)
+                        if not _move_prg(dlg, "Searching in %s" % (acc, )):
+                            break
+
+                if window:
+                    # closing progress bar
+                    _close_prg(dlg)
 
     def search_by_sequence_red(self, sequence):
         """
@@ -598,14 +593,13 @@ class Saf(dict):
         """
 
         with open(self.fasta_path, 'rU') as f_input:
-            for acc in self.indx.keys():
-                if acc != "__name":
-                    f_input.seek(self.indx[acc][0])
-                    prot_seq = _sequence(f_input)
-                    where =  prot_seq.find(sequence)
-                    if where > -1:
-                        ref = self.indx[acc][1].rstrip(os.linesep)
-                        yield acc, prot_seq, ref
+            for acc in self["indx"].keys():
+                f_input.seek(self.indx[acc][0])
+                prot_seq = _sequence(f_input)
+                where =  prot_seq.find(sequence)
+                if where > -1:
+                    ref = self["indx"][acc][1].rstrip(os.linesep)
+                    yield acc, prot_seq, ref
 
 
     def sort_by_seq_len(self, reverse=False):
@@ -615,7 +609,7 @@ class Saf(dict):
         :var peptide: peptide to find
         :type peptide: str
         """
-        items = [(k,len(self.get_sequence(k))) for k in self.indx.keys()]
+        items = [(k,len(self.get_sequence(k))) for k in self["indx"].keys()]
         #items = adict.items()
         items.sort(key = itemgetter(1), reverse=reverse)
         for each in items:

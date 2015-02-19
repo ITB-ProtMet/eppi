@@ -159,14 +159,13 @@ def find(targets, proteome, kind, other_data, window = None):
     # two variables used only for progress bar
     count = 0
 
-    indx = fasta_indx.Saf.from_dict(proteome)
-
+    indx = fasta_indx.Saf(proteome=proteome["indx"])
+    indx.fasta_path = proteome["fasta_path"]
     for acc, sample_pepts in targets.iteritems():
 
         count+=1
         matching_prots = []
         masses = []
-
 
         for pept in sample_pepts:
             pept = str(pept)
@@ -196,9 +195,8 @@ def find(targets, proteome, kind, other_data, window = None):
                         if not fasta_indx._move_prg(dlg, "Looking for %s in %s" %(acc, single_match[0])):
                             break
 
-                    prot_found.append(single_match[0]) 
+                    prot_found.append(single_match[0])
 
-                
                 matching_prots.append(set(prot_found))
                 row_list = [acc, pept, float_mw, len(set(prot_found))]
                 search_csv.writerow(row_list)

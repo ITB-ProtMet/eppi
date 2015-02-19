@@ -57,7 +57,8 @@ class by_targets_Test(unittest.TestCase):
            "mw_result.csv",
            "seq_card.csv",
            "seq_search.csv",
-           "seq_result.csv"]
+           "seq_result.csv"
+        ]
 
         for f in rm_files:
             if os.path.exists(f):

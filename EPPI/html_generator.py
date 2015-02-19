@@ -212,8 +212,7 @@ def _peptideQuery(sequence,  fileDB, title):
 
     #for sequence
     data_seq = _data_format(fst_i.search_by_sequence(str(sequence), window=True), fileDB)
-
-    #for weight
+ #for weight
     if "delta" in fileDB.keys():
         d = fileDB["delta"]
     else:
